@@ -1,0 +1,47 @@
+.bonus-block
+	background-color: $zalog
+	border: 1px solid $border
+	box-shadow: 1px 1px 1px -2px rgba(0,0,0,0.7);
+
+	.bonus-row
+		display: grid
+		grid-template-columns: 2fr 1fr 1fr
+		border-bottom: 1px solid $bonus
+		&:last-child
+			border-bottom: none
+		.bonus-cell
+			display: grid
+			justify-items: center
+			align-items: center
+			height: 70px
+		.top-left-right
+			height: 25px
+			background-color: $bonus
+		.top-middle
+			height: 25px
+			background-color: $bonus-middle
+		.middle
+			color: $text-black
+			background-color: $bonus-1
+			font: 13px/60px 'PT Sans Narrow', sans-serif
+		.book
+			background-size: 100px
+			background-repeat: no-repeat
+			background-position: 50%
+		.bet365
+			background-image: url("../img/pic-bet365.png")
+		.betfair
+			background-image: url("../img/Betfair-logo.png")
+		.efbet
+			background-image: url("../img/efbet-logo.png")
+		.bwin
+			background-image: url("../img/bwin-logo.png")
+		a
+			text-decoration: none
+			span
+				background-color: $bonus-2
+				color: $text
+				justify-self: center
+				align-self: center
+				padding: 5px 10px
+				font: 14px 'PT Sans Narrow', sans-serif

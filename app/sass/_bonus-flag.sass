@@ -1,0 +1,97 @@
+.bonus-flag
+	grid-template-columns: 1fr 1fr
+	justify-items: stretch
+	align-items: stretch
+	grid-gap: $gutter
+	margin: 0 5%
+	margin-top: 40px 
+
+	.flag
+		background-color: $white
+		@extend .border-shadow
+		@extend .border-radius
+		a
+			color: #333
+			display: grid
+			justify-items: center
+			align-items: stretch
+			text-align: center
+			img
+				width: 60%
+				padding-top: 5px 
+			.vote
+				padding-top: 20px
+				i
+					&:before
+					   content: "\F087"
+					   font-size: 16px
+					   font-family: FontAwesome
+					   font-style: normal
+					   font-weight: 400
+					   text-decoration: inherit
+			.bon
+				padding-top: 20px
+				.text
+					font-size: 12px
+				   color: #999
+				.sum
+			.version-2
+				width: 70%
+				margin-bottom: 10px
+				background-color: #d0021b
+				@extend .border-shadow
+				@extend .border-radius
+
+.school-fix-bonus
+	margin: $gutter
+	margin-top: 0
+	.flag:nth-child(1n+3)
+		display: none
+		
+
+@media screen and (min-width: 480px)
+	.bonus-flag
+		grid-template-columns: 1fr 1fr 1fr
+		margin: 0 3%
+		margin-top: 40px 
+
+	.flag-page-fix
+		.flag:last-child
+			display: none
+
+	.school-fix-bonus
+		margin: $gutter
+		margin-top: 0
+		.flag:nth-child(1n+3)
+			display: grid
+		.flag:nth-child(1n+4)
+			display: none
+
+@media screen and (min-width: 768px)
+	.bonus-flag
+		grid-column: 1/3 
+		grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr
+		margin: 0 20px
+		margin-top: 40px 
+
+	.flag-page-fix
+		grid-template-columns: 1fr 1fr 1fr 1fr
+		.flag
+			&:last-child
+				display: grid
+	.school-fix-bonus
+		margin: $gutter
+		margin-top: 0
+		.flag:nth-child(1n+3)
+			display: grid
+		.flag:nth-child(1n+4)
+			display: grid
+
+@media screen and (min-width: 1024px)
+	.flag-page-fix
+		grid-template-columns: 1fr 1fr
+		margin-top: 20px
+		.flag
+			&:last-child
+				display: grid
+
