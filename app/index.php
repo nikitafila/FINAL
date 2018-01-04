@@ -19,79 +19,18 @@
 <?php require 'include/header.php';?>
 		<section class="main-block grid">
 				<div class="news">
-					<h2>Прогноза на деня</h2>
-					<div class="bet-of-the-day grid">
-						<img src="img/34961.jpg">
-						<span class="cell-of-day kef">
-							<p>
-								<span class="red">2.50</span>
-								Коефициент
-							</p>
-						</span>
-						<span class="cell-of-day time">
-							Днес в 21:45
-						</span>
-						<span class="cell-of-day place">Cъстезание:</span>
-						<span class="cell-of-day text">Сигурен двоен залог за днес</span>
-					</div>
+					<?php require 'include/news.php';?>
 				</div>
-				<div class="ad-section-main-block">Ad</div>
-				<div class="ad-section-main-block">Ad</div>
+				<?php require 'include/ad-section-main-block.php';?>
+				<?php require 'include/ad-section-main-block.php';?>
 				<div class="top-zalog grid">
-					<div class="zalog-item grid">
-						<div class="sport-icon"></div>
-						<div class="prognoz">
-							<span class="prognoz-title">Торпедо - Давыд Городецкий</span>
-							<span class="time-prognoz">21:45</span>
-							<span class="liga-prognoz">Пинская шляхта лига</span>
-						</div>
-						<div class="kef-prognoz">1.85</div>
-					</div>
-					<div class="zalog-item grid">
-						<div class="sport-icon"></div>
-						<div class="prognoz">
-							<span class="prognoz-title">Торпедо - Давыд Городецкий</span>
-							<span class="time-prognoz">21:45</span>
-							<span class="liga-prognoz">Пинская шляхта лига</span>
-						</div>
-						<div class="kef-prognoz">1.85</div>
-					</div>
-					<div class="zalog-item grid">
-						<div class="sport-icon"></div>
-						<div class="prognoz">
-							<span class="prognoz-title">Торпедо - Давыд Городецкий</span>
-							<span class="time-prognoz">21:45</span>
-							<span class="liga-prognoz">Пинская шляхта лига</span>
-						</div>
-						<div class="kef-prognoz">1.85</div>
-					</div>
-					<div class="zalog-item grid">
-						<div class="sport-icon"></div>
-						<div class="prognoz">
-							<span class="prognoz-title">Торпедо - Давыд Городецкий</span>
-							<span class="time-prognoz">21:45</span>
-							<span class="liga-prognoz">Пинская шляхта лига</span>
-						</div>
-						<div class="kef-prognoz">1.85</div>
-					</div>
-					<div class="zalog-item grid">
-						<div class="sport-icon"></div>
-						<div class="prognoz">
-							<span class="prognoz-title">Торпедо - Давыд Городецкий</span>
-							<span class="time-prognoz">21:45</span>
-							<span class="liga-prognoz">Пинская шляхта лига</span>
-						</div>
-						<div class="kef-prognoz">1.85</div>
-					</div>
-					<div class="zalog-item grid">
-						<div class="sport-icon"></div>
-						<div class="prognoz">
-							<span class="prognoz-title">Торпедо - Давыд Городецкий</span>
-							<span class="time-prognoz">21:45</span>
-							<span class="liga-prognoz">Пинская шляхта лига</span>
-						</div>
-						<div class="kef-prognoz">1.85</div>
-					</div>
+					<?php require 'include/zalog-of-the-day-1.php';?>
+					<?php require 'include/zalog-of-the-day-1.php';?>
+					<?php require 'include/zalog-of-the-day-1.php';?>
+					<?php require 'include/zalog-of-the-day-1.php';?>
+					<?php require 'include/zalog-of-the-day-1.php';?>
+					<?php require 'include/zalog-of-the-day-1.php';?>
+
 				</div>
 				<div class="bonus-block">
 					<div class="bonus-row">

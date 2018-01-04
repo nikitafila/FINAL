@@ -119,62 +119,10 @@
 				</div>
 				<div class="block text-area">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi accusamus unde alias, inventore totam, voluptates, commodi, et provident ratione asperiores reprehenderit atque. Explicabo aliquid neque iste eligendi deleniti, praesentium rem?<br>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut provident ad nisi, qui, fugit ab, porro at eligendi assumenda saepe ipsum. Ipsa eum magnam aut maxime id, modi praesentium commodi!<br>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quidem alias dolores tenetur dolor minus eos labore. Sapiente magnam deserunt obcaecati repudiandae maxime, iure nostrum sit aperiam asperiores ratione veritatis.</div>
 				<div class="block bonus-flag flag-page-fix">
-					<div class="flag">
-						<a href="#">
-							<img src="/img/bwin-logo.png" alt="">
-							<div class="vote">
-								<i></i>
-								<span>43</span>
-							</div>
-							<div class="bon">
-								<div class="text">Бонус</div>
-								<div class="sum">200 лева</div>
-							</div>
-							<div class="button version-2">Вземи</div> 
-						</a>
-					</div>
-					<div class="flag">
-						<a href="#">
-							<img src="/img/bwin-logo.png" alt="">
-							<div class="vote">
-								<i></i>
-								<span>43</span>
-							</div>
-							<div class="bon">
-								<div class="text">Бонус</div>
-								<div class="sum">200 лева</div>
-							</div>
-							<div class="button version-2">Вземи</div> 
-						</a>
-					</div>
-					<div class="flag">
-						<a href="#">
-							<img src="/img/bwin-logo.png" alt="">
-							<div class="vote">
-								<i></i>
-								<span>43</span>
-							</div>
-							<div class="bon">
-								<div class="text">Бонус</div>
-								<div class="sum">200 лева</div>
-							</div>
-							<div class="button version-2">Вземи</div> 
-						</a>
-					</div>
-					<div class="flag">
-						<a href="#">
-							<img src="/img/bwin-logo.png" alt="">
-							<div class="vote">
-								<i></i>
-								<span>43</span>
-							</div>
-							<div class="bon">
-								<div class="text">Бонус</div>
-								<div class="sum">200 лева</div>
-							</div>
-							<div class="button version-2">Вземи</div> 
-						</a>
-					</div>
+					<?php require '../include/flag-1.php';?>
+					<?php require '../include/flag-1.php';?>
+					<?php require '../include/flag-1.php';?>
+					<?php require '../include/flag-1.php';?>
 				</div>
 				<div class="block articles">Статьи из раздела БЛОГ<br>Новый бонус от леон<br>Новый бонус от бет365<br>Топ 3 бонус предложений</div>
 				<div class="block articles">Статьи из раздела БЛОГ<br>Новый бонус от леон<br>Новый бонус от бет365<br>Топ 3 бонус предложений</div>
