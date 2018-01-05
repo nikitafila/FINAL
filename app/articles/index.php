@@ -198,8 +198,8 @@
 				<?php require '../include/flag-1.php';?>
 			</div>
 			<div class="top-zalog grid top-z-tips-fix">
-				<?php require '../include/zalog-of-the-day-1.php';?>
-				<?php require '../include/zalog-of-the-day-1.php';?>
+				<?php require '../include/football/zalog-of-the-day-1.php';?>
+				<?php require '../include/football/zalog-of-the-day-1.php';?>
 			</div>
 		</section>
 	<?php require '../include/footer.php';?>

@@ -33,6 +33,27 @@
 			justify-self: center
 			align-self: center
 
+	.zalog-item-title
+		background-color: $zalog
+		border: 1px solid $border
+		display: grid
+		grid-template-columns: 1fr 1fr 1fr 1fr
+		padding: 0
+		color: red
+		text-align: center
+
+	.tipster
+		display: grid
+		grid-template-columns: 1fr 1fr 1fr
+		justify-items: center
+		align-items: center
+		background-color: $zalog
+		border-bottom: 1px solid $border
+		border-left: 1px solid $border
+		border-right: 1px solid $border
+		&:first-child
+			border-top: 1px solid $border
+
 @media screen and (min-width: 768px)
 	.top-zalog
 		grid-column: 1/3
