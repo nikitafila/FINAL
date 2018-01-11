@@ -17,42 +17,28 @@
 .title-header
 	margin-left: 20px  
 	.tips-title
-		margin-bottom: 0
-
-@media screen and (min-width: 480px)
-	.bookmakers-page
-		grid-template-columns: 1fr 1fr
-		.rating
-			grid-column: 1/3
-		.text-area
-			grid-column: 1/3
-		.flag-page-fix
-			grid-column: 1/3			
+		margin-bottom: 0			
 
 @media screen and (min-width: 768px)
 	.main-block
 		grid-template-columns: 1fr 1fr
 		padding: 0 $gutter
 		grid-gap: $gutter
-	.bookmakers-page
-		grid-template-columns: 1fr
 
 	.title-header
 		grid-column: 1/3
+	h1
+		grid-column: 1/3
+
 
 @media screen and (min-width: 1024px)
 	.main-block
 		grid-template-columns: 1fr 300px
 		margin: 0 auto
-	.bookmakers-page
-		grid-template-rows: 2fr 2fr 1fr
 		.text-area
 			grid-column: 1/1
 		.flag-page-fix
 			grid-column: 2/3
-	
-	.flag-page
-		grid-template-rows: 250px 1fr
 	
 	.tips-page
 		grid-template-rows: 80px 290px 300px 400px

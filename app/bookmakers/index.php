@@ -19,6 +19,7 @@
 	<div class="container grid">
 		<?php require '../include/header.php';?>
 		<section class="main-block grid bookmakers-page">
+				<h1>Сравнение на букмекери</h1>
 				<div class="rating block rating-lg">
 					<div class="rating-bookmaker-row grid">
 						<div class="bookmaker pic first"></div>
@@ -117,15 +118,6 @@
 						</div>
 					</div>
 				</div>
-				<div class="block text-area">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi accusamus unde alias, inventore totam, voluptates, commodi, et provident ratione asperiores reprehenderit atque. Explicabo aliquid neque iste eligendi deleniti, praesentium rem?<br>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut provident ad nisi, qui, fugit ab, porro at eligendi assumenda saepe ipsum. Ipsa eum magnam aut maxime id, modi praesentium commodi!<br>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quidem alias dolores tenetur dolor minus eos labore. Sapiente magnam deserunt obcaecati repudiandae maxime, iure nostrum sit aperiam asperiores ratione veritatis.</div>
-				<div class="block bonus-flag flag-page-fix">
-					<?php require '../include/flag-1.php';?>
-					<?php require '../include/flag-1.php';?>
-					<?php require '../include/flag-1.php';?>
-					<?php require '../include/flag-1.php';?>
-				</div>
-				<div class="block articles">Статьи из раздела БЛОГ<br>Новый бонус от леон<br>Новый бонус от бет365<br>Топ 3 бонус предложений</div>
-				<div class="block articles">Статьи из раздела БЛОГ<br>Новый бонус от леон<br>Новый бонус от бет365<br>Топ 3 бонус предложений</div>
 		</section>
 		<?php require '../include/footer.php';?>
 	</div>

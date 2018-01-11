@@ -19,6 +19,7 @@
 	<div class="container grid">
 	<?php require '../include/header.php';?>
 		<section class="main-block grid flag-page">
+				<h1>Всички бонуси от български букмейкъри</h1>
 				<div class="block bonus-flag">
 					<?php require '../include/bonus/flag-1.php';?>
 					<?php require '../include/bonus/flag-2.php';?>
@@ -27,10 +28,6 @@
 					<?php require '../include/bonus/flag-5.php';?>
 					<?php require '../include/bonus/flag-6.php';?>
 				</div>
-				<div class="block text-area">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero aperiam quas tempora, hic aliquam iste voluptas doloribus laboriosam architecto fugiat in reprehenderit repudiandae molestiae nesciunt quos a voluptatem voluptate, nisi.<br>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi nihil animi tempora veritatis a ipsa velit ipsum, molestiae corporis in nostrum explicabo neque, vel nobis unde! Culpa, eveniet nobis possimus!<br>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti fugiat, beatae nihil alias optio illum, illo cupiditate maxime amet facilis eligendi debitis quod est, perspiciatis excepturi tempora quisquam magnam officiis.
-					<br>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, ex blanditiis in maiores tenetur fuga dolorum suscipit amet est! Obcaecati et impedit reiciendis. Laborum minima delectus nobis, vel dolorum, nihil.</div>
-				<div class="block articles">Статьи из раздела БЛОГ<br>Новый бонус от леон<br>Новый бонус от бет365<br>Топ 3 бонус предложений</div>
 		</section>
 	<?php require '../include/footer.php';?>
 	</div>
