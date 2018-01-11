@@ -13,13 +13,13 @@
 	<link rel="stylesheet"  href="../css/main.css"/>
 	<link rel="stylesheet" href="../css/font-awesome.min.css">
 
+
 </head>
 
 <body>
 	<div class="container grid">
 		<?php require '../include/header.php';?>
 		<section class="main-block grid bookmakers-page">
-				<h1>Сравнение на букмекери</h1>
 				<div class="rating block rating-lg">
 					<div class="rating-bookmaker-row grid">
 						<div class="bookmaker pic first"></div>
