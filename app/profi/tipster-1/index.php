@@ -85,6 +85,75 @@
 						<div class="item-tips">В играта: 158 лева</div>
 						<div class="item-tips">Месец: +63%</div>
 					</div>
+					<div class="bank-tip history">
+						<div class="bet">
+							<span class="title">Акумулатор</span>
+							<span>КХЛ. Регулярный чемпионат.</span>
+							<span class="bold">Витязь - Автомобилист</span>
+							<span>ТБ (4.00)</span>
+							<span class="bold">1.35</span>
+						</div>
+						<div class="bet">
+							<span>КХЛ. Регулярный чемпионат.</span>
+							<span class="bold">Витязь - Автомобилист</span>
+							<span>ТБ (4.00)</span>
+							<span class="bold">1.35</span>
+						</div>						
+						<div class="bet">
+							<span>КХЛ. Регулярный чемпионат.</span>
+							<span class="bold">Витязь - Автомобилист</span>
+							<span>ТБ (4.00)</span>
+							<span class="bold">1.35</span>
+						</div>
+						<div class="bet">
+							<span>КХЛ. Регулярный чемпионат.</span>
+							<span class="bold">Витязь - Автомобилист</span>
+							<span>ТБ (4.00)</span>
+							<span class="bold">1.35</span>
+						</div>
+						<div class="result">
+							<span>Общ коефициент: 3.4</span>
+							<span>Печели</span>
+							<span>Типстър: <a href="#">Веселин П</a></span>
+							<span class="small-text">11.01.2018</span>
+						</div>
+					</div>
+					<div class="bank-tip history">
+						<div class="bet">
+							<span class="title">Акумулатор</span>
+							<span>КХЛ. Регулярный чемпионат.</span>
+							<span class="bold">Витязь - Автомобилист</span>
+							<span>ТБ (4.00)</span>
+							<span class="bold">1.35</span>
+						</div>
+						<div class="bet">
+							<span>КХЛ. Регулярный чемпионат.</span>
+							<span class="bold">Витязь - Автомобилист</span>
+							<span>ТБ (4.00)</span>
+							<span class="bold">1.35</span>
+						</div>						
+						<div class="bet">
+							<span>КХЛ. Регулярный чемпионат.</span>
+							<span class="bold">Витязь - Автомобилист</span>
+							<span>ТБ (4.00)</span>
+							<span class="bold">1.35</span>
+						</div>
+						<div class="bet">
+							<span>КХЛ. Регулярный чемпионат.</span>
+							<span class="bold">Витязь - Автомобилист</span>
+							<span>ТБ (4.00)</span>
+							<span class="bold">1.35</span>
+						</div>
+					</div>
+					<div class="bank-tip history">
+						<div class="bet">
+							<span class="title">Единичен</span>
+							<span>КХЛ. Регулярный чемпионат.</span>
+							<span class="bold">Витязь - Автомобилист</span>
+							<span>ТБ (4.00)</span>
+							<span class="bold">1.35</span>
+						</div>
+					</div>
 				</div>
 			</div>
 		</section>
