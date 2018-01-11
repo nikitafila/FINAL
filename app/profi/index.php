@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="bg">
 
 <head>
 
@@ -20,26 +20,10 @@
 <?php require '../include/header.php';?>
 		<section class="main-block grid">
 				<div class="top-zalog grid">
-					<div class="tipster">
-						<span>Васил Пленелиев</span>
-						<span class="green">14% ROI</span>
-						<span>ЛС</span>
-					</div>
-					<div class="tipster">
-						<span>Васил Пленелиев</span>
-						<span class="green">3,2% ROI</span>
-						<span>ЛС</span>
-					</div>
-					<div class="tipster">
-						<span>Васил Пленелиев</span>
-						<span class="red">-2,4% ROI</span>
-						<span>ЛС</span>
-					</div>
-					<div class="tipster">
-						<span>Васил Пленелиев</span>
-						<span class="green">4,5% ROI</span>
-						<span>ЛС</span>
-					</div>
+					<?php require '../include/tipsters/tipster-1.php';?>
+					<?php require '../include/tipsters/tipster-2.php';?>
+					<?php require '../include/tipsters/tipster-3.php';?>
+					<?php require '../include/tipsters/tipster-4.php';?>
 				</div>
 		</section>
 	<?php require '../include/footer.php';?>

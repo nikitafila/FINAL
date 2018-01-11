@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="bg">
 
 <head>
 
@@ -21,8 +21,8 @@
 				<div class="news">
 					<?php require 'include/news.php';?>
 				</div>
-				<?php require 'include/ad-section-main-block.php';?>
-				<?php require 'include/ad-section-main-block.php';?>
+				<?php require 'include/add/ad-section-main-block-1.php';?>
+				<?php require 'include/add/ad-section-main-block-2.php';?>
 				<div class="top-zalog grid">
 					<div class="zalog-item-title grid">
 						<a class="active">Футбол</a>
@@ -73,7 +73,6 @@
 						</a>
 					</div>
 				</div>
-				<div class="ad-block-3">ad</div>
 		</section>
 	<?php require 'include/footer.php';?>
 </body>

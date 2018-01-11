@@ -1,1 +1,1 @@
-<footer>Пиши сюды</footer>
+<footer>Всички права запазени</footer>

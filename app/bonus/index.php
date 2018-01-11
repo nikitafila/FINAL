@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="bg">
 
 <head>
 
@@ -20,90 +20,12 @@
 	<?php require '../include/header.php';?>
 		<section class="main-block grid flag-page">
 				<div class="block bonus-flag">
-					<div class="flag">
-						<a href="#">
-							<img src="/img/bwin-logo.png" alt="">
-							<div class="vote">
-								<i></i>
-								<span>43</span>
-							</div>
-							<div class="bon">
-								<div class="text">Бонус</div>
-								<div class="sum">200 лева</div>
-							</div>
-							<div class="button version-2">Вземи</div> 
-						</a>
-					</div>
-					<div class="flag">
-						<a href="#">
-							<img src="/img/bwin-logo.png" alt="">
-							<div class="vote">
-								<i></i>
-								<span>43</span>
-							</div>
-							<div class="bon">
-								<div class="text">Бонус</div>
-								<div class="sum">200 лева</div>
-							</div>
-							<div class="button version-2">Вземи</div> 
-						</a>
-					</div>
-					<div class="flag">
-						<a href="#">
-							<img src="/img/bwin-logo.png" alt="">
-							<div class="vote">
-								<i></i>
-								<span>43</span>
-							</div>
-							<div class="bon">
-								<div class="text">Бонус</div>
-								<div class="sum">200 лева</div>
-							</div>
-							<div class="button version-2">Вземи</div> 
-						</a>
-					</div>
-					<div class="flag">
-						<a href="#">
-							<img src="/img/bwin-logo.png" alt="">
-							<div class="vote">
-								<i></i>
-								<span>43</span>
-							</div>
-							<div class="bon">
-								<div class="text">Бонус</div>
-								<div class="sum">200 лева</div>
-							</div>
-							<div class="button version-2">Вземи</div> 
-						</a>
-					</div>
-					<div class="flag">
-						<a href="#">
-							<img src="/img/bwin-logo.png" alt="">
-							<div class="vote">
-								<i></i>
-								<span>43</span>
-							</div>
-							<div class="bon">
-								<div class="text">Бонус</div>
-								<div class="sum">200 лева</div>
-							</div>
-							<div class="button version-2">Вземи</div> 
-						</a>
-					</div>
-					<div class="flag">
-						<a href="#">
-							<img src="/img/bwin-logo.png" alt="">
-							<div class="vote">
-								<i></i>
-								<span>43</span>
-							</div>
-							<div class="bon">
-								<div class="text">Бонус</div>
-								<div class="sum">200 лева</div>
-							</div>
-							<div class="button version-2">Вземи</div> 
-						</a>
-					</div>
+					<?php require '../include/bonus/flag-1.php';?>
+					<?php require '../include/bonus/flag-2.php';?>
+					<?php require '../include/bonus/flag-3.php';?>
+					<?php require '../include/bonus/flag-4.php';?>
+					<?php require '../include/bonus/flag-5.php';?>
+					<?php require '../include/bonus/flag-6.php';?>
 				</div>
 				<div class="block text-area">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero aperiam quas tempora, hic aliquam iste voluptas doloribus laboriosam architecto fugiat in reprehenderit repudiandae molestiae nesciunt quos a voluptatem voluptate, nisi.<br>
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi nihil animi tempora veritatis a ipsa velit ipsum, molestiae corporis in nostrum explicabo neque, vel nobis unde! Culpa, eveniet nobis possimus!<br>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti fugiat, beatae nihil alias optio illum, illo cupiditate maxime amet facilis eligendi debitis quod est, perspiciatis excepturi tempora quisquam magnam officiis.
