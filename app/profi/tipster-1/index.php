@@ -85,7 +85,9 @@
 						<div class="item-tips">В играта: 158 лева</div>
 						<div class="item-tips">Месец: +63%</div>
 					</div>
-					<div class="bank-tip history">
+				</div>
+				<div class="stat-history">
+						<div class="bank-tip history">
 						<div class="bet">
 							<span class="title">Акумулатор</span>
 							<span>КХЛ. Регулярный чемпионат.</span>
@@ -112,6 +114,8 @@
 							<span class="bold">1.35</span>
 						</div>
 						<div class="result">
+							<span>Сума на залога: 50 лева</span>
+							<span>5% от банка</span>
 							<span>Общ коефициент: 3.4</span>
 							<span>Печели</span>
 							<span>Типстър: <a href="#">Веселин П</a></span>
