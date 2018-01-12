@@ -93,41 +93,35 @@
 				width: 100%
 	.stat-history
 		display: grid
-		.bank-tip
-			display: flex
-			flex-wrap: wrap
-			justify-content: space-between
+		justify-items: center 
+		.bet-item
+			display: grid
 			background-color: white
 			border-radius: 5px
-			margin-bottom: 20px
-			padding: 0 5px
 			width: 95%
-		.history
-			flex-direction: column
-			width: 100%
-			.bet
-				display: flex
-				flex-direction: column
-				margin: 10px 0
-				min-width: 250px
+			margin-bottom: 10px
+			.bet-1
+				display: grid
 				.title
-					display: block
+					text-align: center
 					background-color: #006daa
 					color: #fff
-					text-align: center
 					font-weight: bold
 					border-radius: 5px 5px 0 0
-					margin: -10px -5px 0 -5px
-				span
-					font-size: 14px
-			.result
-				display: flex
-				flex-direction: column
-				background-color: #f1f1f1
-				border-top: 1px solid #8b8b8b
-				border-radius: 0 0 5px 5px
-				margin: 0 -5px
-				padding: 5px
+				.single-match
+					display: grid
+					padding: 0 10px
+					margin-top: 10px
+					border-bottom: 1px solid #8b8b8b
+					&:last-child
+						border-radius: 0 0 5px 5px
+					span
+						font-size: 14px
+				.single-match-result
+					display: grid
+					padding: 0 10px
+					margin-top: 10px
+					border-bottom: 1px solid #8b8b8b
 
 @media screen and (min-width: 480px)
 	.bgr-tip
@@ -157,7 +151,17 @@
 		.stat-history
 			display: grid
 			grid-template-colums: 1fr 1fr
-				
+			.bet-item
+				display: grid
+				grid-template-columns: 1fr 1fr
+				grid-template-rows: 1fr 1fr 1fr 1fr
+				grid-column-gap: 20px
+				.bet-1
+					.title
+					.single-match
+					.single-match-result
+						justify-items: stretch
+
 @media screen and (min-width: 1024px)
 	.bgr-tip
 		.stat-tip
