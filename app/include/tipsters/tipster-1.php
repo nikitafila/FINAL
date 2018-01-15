@@ -1,5 +1,5 @@
 <div class="tipster">
-	<span>Veselin Milev</span>
-	<span class="green">3.39% ROI</span>
-	<span>Ср. коеф. 1.96</span>
+	<span><a href="/profi/tipster-1/">Васил Маринов</a></span>
+	<span class="green">4.04% ROI</span>
+	<span>Ср. коеф. 1.89</span>
 </div>

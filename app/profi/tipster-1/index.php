@@ -5,8 +5,8 @@
 
 	<meta charset="utf-8">
 
-	<title>Спортни прогнози от типстър Васил Пленелиев</title>
-	<meta name="description" content="">
+	<title>Спортни прогнози от типстър Васил Маринов</title>
+	<meta name="description" content="Подробна статистика на залози от професионален типстър Васил Маринов. ROI, успеваемост, всички победи и загуби.">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
@@ -15,6 +15,15 @@
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans&amp;subset=cyrillic" rel="stylesheet">
 
 </head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-112407505-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-112407505-1');
+</script>
 
 <body>
 	<?php require '../../include/header.php';?>
@@ -22,7 +31,7 @@
 			<div class="bgr-tip">
 				<div class="name-tip">
 					<div>Профил</div>
-					<h1>Веселин П</h1>
+					<h1>Васил Маринов</h1>
 				</div>
 				<div class="stat-tip">
 					<div class="foto-tip">
@@ -36,107 +45,67 @@
 						</div>
 						<div>
 							<span>Баланс</span>
-							<span class="green">+11 313 BGN</span>
+							<span class="green">+1131 BGN</span>
 						</div>
 					</div>
 					<div class="main-stat-tip">
 						<div class="item-tip">
 							<span>60%</span>
-							<span>Проход</span>
+							<span>Познати</span>
 						</div>
 						<div class="item-tip">
-							<span>60%</span>
-							<span>Проход</span>
+							<span>1.89</span>
+							<span>Ср. Коеф</span>
 						</div>
 						<div class="item-tip">
-							<span>60%</span>
-							<span>Проход</span>
+							<span>4.03%</span>
+							<span>ROI</span>
 						</div>
 						<div class="item-tip">
-							<span>60%</span>
-							<span>Проход</span>
+							<span>3</span>
+							<span>Печалби</span>
 						</div>
 						<div class="item-tip">
-							<span>60%</span>
-							<span>Проход</span>
+							<span>0</span>
+							<span>Войд</span>
 						</div>
 						<div class="item-tip">
-							<span>60%</span>
-							<span>Проход</span>
+							<span>2</span>
+							<span>Загуби</span>
 						</div>
 					</div>
 					<div class="main-stat-tip">
 						<h5>Последни 3 месеца</h5>
-						<div class="item-tip month-good">+62%</div>
+						<div class="item-tip month-good">+60%</div>
 						<div class="item-tip month-bad">0%</div>
 						<div class="item-tip month-bad">0%</div>
 					</div>
 					<div class="month-stat">
 						<span>Януари 2018</span>
-						<span>Залози: 10</span>
-						<span>Печалби: 8</span>
+						<span>Залози: 5</span>
+						<span>Печалби: 3</span>
 						<span>Загуби: 2</span>
 						<span>Войд: 0</span>
-						<span>ROI: 59.7%</span>
+						<span>ROI: 4.03%</span>
 					</div>
 					<div class="bank-tip">
 						<div class="item-tips">Стартов баланс: 1000 лева</div>
-						<div class="item-tips">Текущт баланс: 1479 лева</div>
+						<div class="item-tips">Текущт баланс: 1052 лева</div>
 						<div class="item-tips">В играта: 158 лева</div>
-						<div class="item-tips">Месец: +63%</div>
+						<div class="item-tips">Месец: +60%</div>
 					</div>
 				</div>
 				<div class="stat-history">
-					<div class="bet-item">
-						<div class="bet-1">
-							<span class="title">Акумулатор</span>
-							<div class="single-match">
-								<span>КХЛ. Регулярный чемпионат.</span>
-								<span class="bold">Витязь - Автомобилист</span>
-								<span>ТБ (4.00)</span>
-								<span class="bold">1.35</span>
-							</div>
-							<div class="single-match">
-								<span>КХЛ. Регулярный чемпионат.</span>
-								<span class="bold">Витязь - Автомобилист</span>
-								<span>ТБ (4.00)</span>
-								<span class="bold">1.35</span>
-							</div>						
-							<div class="single-match">
-								<span>КХЛ. Регулярный чемпионат.</span>
-								<span class="bold">Витязь - Автомобилист</span>
-								<span>ТБ (4.00)</span>
-								<span class="bold">1.35</span>
-							</div>
-							<div class="single-match">
-								<span>КХЛ. Регулярный чемпионат.</span>
-								<span class="bold">Витязь - Автомобилист</span>
-								<span>ТБ (4.00)</span>
-								<span class="bold">1.35</span>
-							</div>
-						</div>
-						<div class="bet-1">
-							<div class="single-match-result">
-								<span>Сума на залога: 50 лева</span>
-								<span>5% от банка</span>
-								<span>Общ коефициент: 3.4</span>
-								<span>Печели</span>
-								<span>Типстър: <a href="#">Веселин П</a></span>
-								<span class="small-text">11.01.2018</span>
-							</div>
-						</div>
-					</div>
-					<div class="bet-item">
-						<div class="bet-1">
-							<span class="title">Единичен</span>
-							<div class="single-match">
-								<span>КХЛ. Регулярный чемпионат.</span>
-								<span class="bold">Витязь - Автомобилист</span>
-								<span>ТБ (4.00)</span>
-								<span class="bold">1.35</span>
-							</div>
-						</div>
-					</div>
+					<?php require '../../include/bet/single/114.php';?>
+					<?php require '../../include/bet/single/115.php';?>
+					<?php require '../../include/bet/single/116.php';?>
+					<?php require '../../include/bet/single/117.php';?>
+					<?php require '../../include/bet/single/118.php';?>
+					<?php require '../../include/bet/single/119.php';?>
+					<?php require '../../include/bet/single/120.php';?>
+					<?php require '../../include/bet/single/121.php';?>
+					<?php require '../../include/bet/single/122.php';?>
+					<?php require '../../include/bet/single/123.php';?>
 				</div>
 			</div>
 		</section>

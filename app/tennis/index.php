@@ -5,14 +5,23 @@
 
 	<meta charset="utf-8">
 
-	<title>Футболни прогнози за днес - математически залози с добра успеваемост</title>
-	<meta name="description" content="">
+	<title>Най-точните тенис прогнози</title>
+	<meta name="description" content="Всички тенис прогнози за днес. ATP, WTA турнири.">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
 	<link rel="stylesheet"  href="/css/main.css"/>
 	<link rel="stylesheet" href="../css/font-awesome.css">
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans&amp;subset=cyrillic" rel="stylesheet">
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-112407505-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-112407505-1');
+</script>
 
 </head>
 
@@ -26,11 +35,6 @@
 						<a href="/basketball/">Баскетбол</a>
 						<a href="/other-sports/">Друго</a>
 					</div>	
-					<?php require '../include/tennis/tennis-zalog-of-the-day-1.php';?>
-					<?php require '../include/tennis/tennis-zalog-of-the-day-1.php';?>
-					<?php require '../include/tennis/tennis-zalog-of-the-day-1.php';?>
-					<?php require '../include/tennis/tennis-zalog-of-the-day-1.php';?>
-					<?php require '../include/tennis/tennis-zalog-of-the-day-1.php';?>
 					<?php require '../include/tennis/tennis-zalog-of-the-day-1.php';?>
 				</div>
 		</section>

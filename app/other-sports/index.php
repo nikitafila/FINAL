@@ -5,7 +5,7 @@
 
 	<meta charset="utf-8">
 
-	<title>Футболни прогнози за днес - математически залози с добра успеваемост</title>
+	<title>Други спортове - всички прогнози</title>
 	<meta name="description" content="">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -13,6 +13,15 @@
 	<link rel="stylesheet"  href="/css/main.css"/>
 	<link rel="stylesheet" href="../css/font-awesome.css">
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans&amp;subset=cyrillic" rel="stylesheet">
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-112407505-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-112407505-1');
+</script>
 
 </head>
 
@@ -27,11 +36,8 @@
 						<a class="active">Друго</a>
 					</div>	
 					<?php require '../include/other-sports/other-zalog-of-the-day-1.php';?>
-					<?php require '../include/other-sports/other-zalog-of-the-day-1.php';?>
-					<?php require '../include/other-sports/other-zalog-of-the-day-1.php';?>
-					<?php require '../include/other-sports/other-zalog-of-the-day-1.php';?>
-					<?php require '../include/other-sports/other-zalog-of-the-day-1.php';?>
-					<?php require '../include/other-sports/other-zalog-of-the-day-1.php';?>
+					<?php require '../include/other-sports/other-zalog-of-the-day-2.php';?>
+					<?php require '../include/other-sports/other-zalog-of-the-day-3.php';?>
 				</div>
 		</section>
 	<?php require '../include/footer.php';?>

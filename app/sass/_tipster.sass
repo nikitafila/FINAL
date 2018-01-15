@@ -91,17 +91,19 @@
 			width: 95%
 			.item-tips
 				width: 100%
-	.stat-history
+			
+	.stat-history, .tipster-bet
 		display: grid
 		justify-items: center 
 		.bet-item
 			display: grid
-			background-color: white
-			border-radius: 5px
 			width: 95%
 			margin-bottom: 10px
 			.bet-1
 				display: grid
+				box-shadow: 0 1px 1px 0 rgba(0,0,0,0.3)
+				background-color: white
+				border-radius: 5px
 				.title
 					text-align: center
 					background-color: #006daa
@@ -114,14 +116,13 @@
 					margin-top: 10px
 					border-bottom: 1px solid #8b8b8b
 					&:last-child
-						border-radius: 0 0 5px 5px
+						border-bottom: none
 					span
 						font-size: 14px
 				.single-match-result
 					display: grid
 					padding: 0 10px
 					margin-top: 10px
-					border-bottom: 1px solid #8b8b8b
 
 @media screen and (min-width: 480px)
 	.bgr-tip
@@ -149,18 +150,12 @@
 					height: 40px
 
 		.stat-history
-			display: grid
-			grid-template-colums: 1fr 1fr
+			grid-template-columns: 1fr 1fr
 			.bet-item
-				display: grid
-				grid-template-columns: 1fr 1fr
-				grid-template-rows: 1fr 1fr 1fr 1fr
-				grid-column-gap: 20px
+				align-content: flex-start
 				.bet-1
-					.title
-					.single-match
-					.single-match-result
-						justify-items: stretch
+					align-content: flex-start
+
 
 @media screen and (min-width: 1024px)
 	.bgr-tip

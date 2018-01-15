@@ -1,15 +1,15 @@
-<h2>Прогноза на деня</h2>
+<h1>Прогноза на деня</h1>
 <div class="bet-of-the-day grid">
-	<img src="/img/34961.jpg">
+	<img src="/img/112.jpg">
 	<span class="cell-of-day kef">
 		<p>
-			<span class="red">2.50</span>
+			<span class="red">1.79</span>
 			Коефициент
 		</p>
 	</span>
 	<span class="cell-of-day time">
-		Днес в 21:45
+		14.01.2018 - 18:00
 	</span>
-	<span class="cell-of-day place">Cъстезание:</span>
-	<span class="cell-of-day text">Сигурен двоен залог за днес</span>
+	<span class="cell-of-day place">Англия: Премиър лига</span>
+	<span class="cell-of-day text">Ливърпул - Манчестър Сити. Хендикап МС(0) 1.79</span>
 </div>

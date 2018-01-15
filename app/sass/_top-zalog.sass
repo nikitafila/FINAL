@@ -2,7 +2,7 @@
 	grid-template-columns: 1fr
 	margin: 20px
 	.zalog-item
-		grid-template-columns: 60px auto 60px
+		grid-template-columns: 60px auto 100px
 		align-items: center
 		justify-items: stretch
 		background-color: $zalog
@@ -24,12 +24,10 @@
 			grid-template-rows: 1.5fr 1fr
 			align-items: center
 			text-align: center
-			.prognoz-title
-			.time-prognoz
 			.liga-prognoz
-				display: none
+				a
+					font-size: 12px
 		.kef-prognoz
-			background-color: yellow
 			justify-self: center
 			align-self: center
 
@@ -57,10 +55,6 @@
 @media screen and (min-width: 768px)
 	.top-zalog
 		grid-column: 1/3
-		.zalog-item
-			.prognoz
-				.liga-prognoz
-					display: none
 
 @media screen and (min-width: 1024px)
 	.top-zalog
@@ -70,7 +64,4 @@
 	.top-zalog
 		max-height: 600px
 		.zalog-item
-			max-height: 100px
-			.prognoz
-				.liga-prognoz
-					display: grid
+			max-height: 300px
