@@ -6,5 +6,5 @@
 			<span class="liga-prognoz"><a href="/profi/tipster-1/">Веселин П</a></span>
 			
 	</div>
-	<div class="kef-prognoz"><b>Барселона Над (2)</b><br>1.67</div>
+	<div class="kef-prognoz"><b>Барселона Над (2)</b><br><span class="green">1.67</span></div>
 </div>

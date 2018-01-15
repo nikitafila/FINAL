@@ -11,7 +11,7 @@
 			<span>Сума на залога: 50 лева</span>
 			<span>5% от банка</span>
 			<span>Общ коефициент: 2.95</span>
-			<span>Статус на залога:</span>
+			<span>Статус на залога:<span class="red">Загуба (24:29)</span></span>
 			<span>Типстър: <a href="/profi/tipster-1/">Васил Маринов</a></span>
 			<span class="small-text">14.01.2018 23:40</span>
 		</div>

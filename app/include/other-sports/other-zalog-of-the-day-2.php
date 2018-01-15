@@ -6,6 +6,6 @@
 			<span class="liga-prognoz"><a href="/profi/tipster-1/">Веселин П</a></span>
 			
 	</div>
-	<div class="kef-prognoz"><b>П1</b><br>1.32</div>
+	<div class="kef-prognoz"><b>П1</b><br><span class="red">1.32</span></div>
 </div>
 	
