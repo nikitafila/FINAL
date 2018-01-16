@@ -1,10 +1,10 @@
 <div class="zalog-item grid">
 	<div class="sport-icon"></div>
 	<div class="prognoz">
-			<span class="prognoz-title">Торпедо - Давыд Городецкий</span>
-			<span class="time-prognoz">21:45</span>
+			<span class="prognoz-title">Монако - Ница</span>
+			<span class="time-prognoz">22:00</span>
 			<span class="liga-prognoz"><a href="/profi/tipster-1/">Веселин П</a></span>
 			
 	</div>
-	<div class="kef-prognoz">1.85</div>
+	<div class="kef-prognoz"><b>Голове Монако Под (2)</b><br>1.85</div>
 </div>

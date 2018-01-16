@@ -36,6 +36,7 @@
 						<a href="/other-sports/">Друго</a>
 					</div>	
 					<?php require '../include/tennis/tennis-zalog-of-the-day-1.php';?>
+					<?php require '../include/tennis/tennis-zalog-of-the-day-2.php';?>
 				</div>
 		</section>
 	<?php require '../include/footer.php';?>

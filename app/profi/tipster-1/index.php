@@ -106,6 +106,9 @@
 					<?php require '../../include/bet/single/121.php';?>
 					<?php require '../../include/bet/single/122.php';?>
 					<?php require '../../include/bet/single/123.php';?>
+					<?php require '../../include/bet/single/124.php';?>
+					<?php require '../../include/bet/single/125.php';?>
+					<?php require '../../include/bet/single/126.php';?>
 				</div>
 			</div>
 		</section>

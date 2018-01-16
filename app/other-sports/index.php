@@ -38,6 +38,7 @@
 					<?php require '../include/other-sports/other-zalog-of-the-day-1.php';?>
 					<?php require '../include/other-sports/other-zalog-of-the-day-2.php';?>
 					<?php require '../include/other-sports/other-zalog-of-the-day-3.php';?>
+					<?php require '../include/other-sports/other-zalog-of-the-day-4.php';?>
 				</div>
 		</section>
 	<?php require '../include/footer.php';?>
