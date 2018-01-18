@@ -6,5 +6,5 @@
 			<span class="liga-prognoz"><a href="/profi/tipster-1/">Веселин П</a></span>
 			
 	</div>
-	<div class="kef-prognoz"><b>Голове Монако Под (2)</b><br>1.85</div>
+	<div class="kef-prognoz"><b>Голове Монако Под (2)</b><br><span class="red">1.85</span></div>
 </div>

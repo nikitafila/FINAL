@@ -54,7 +54,7 @@
 							<span>Познати</span>
 						</div>
 						<div class="item-tip">
-							<span>1.93</span>
+							<span>1.91</span>
 							<span>Ср. Коеф</span>
 						</div>
 						<div class="item-tip">
@@ -62,7 +62,7 @@
 							<span>ROI</span>
 						</div>
 						<div class="item-tip">
-							<span>6</span>
+							<span>8</span>
 							<span>Печалби</span>
 						</div>
 						<div class="item-tip">
@@ -70,7 +70,7 @@
 							<span>Войд</span>
 						</div>
 						<div class="item-tip">
-							<span>4</span>
+							<span>5</span>
 							<span>Загуби</span>
 						</div>
 					</div>
@@ -82,15 +82,15 @@
 					</div>
 					<div class="month-stat">
 						<span>Януари 2018</span>
-						<span>Залози: 10</span>
-						<span>Печалби: 6</span>
-						<span>Загуби: 4</span>
+						<span>Залози: 13</span>
+						<span>Печалби: 8</span>
+						<span>Загуби: 5</span>
 						<span>Войд: 0</span>
 						<span>ROI: 4.03%</span>
 					</div>
 					<div class="bank-tip">
 						<div class="item-tips">Стартов баланс: 1000 лева</div>
-						<div class="item-tips">Текущт баланс: 1052 лева</div>
+						<div class="item-tips">Текущт баланс: 1084 лева</div>
 						<div class="item-tips">В играта: 0 лева</div>
 						<div class="item-tips">Месец: +60%</div>
 					</div>
