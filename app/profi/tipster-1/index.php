@@ -50,19 +50,19 @@
 					</div>
 					<div class="main-stat-tip">
 						<div class="item-tip">
-							<span>60%</span>
+							<span>55%</span>
 							<span>Познати</span>
 						</div>
 						<div class="item-tip">
-							<span>1.91</span>
+							<span>1.86</span>
 							<span>Ср. Коеф</span>
 						</div>
 						<div class="item-tip">
-							<span>4.03%</span>
+							<span>3.23%</span>
 							<span>ROI</span>
 						</div>
 						<div class="item-tip">
-							<span>8</span>
+							<span>10</span>
 							<span>Печалби</span>
 						</div>
 						<div class="item-tip">
@@ -70,7 +70,7 @@
 							<span>Войд</span>
 						</div>
 						<div class="item-tip">
-							<span>5</span>
+							<span>7</span>
 							<span>Загуби</span>
 						</div>
 					</div>
@@ -82,15 +82,15 @@
 					</div>
 					<div class="month-stat">
 						<span>Януари 2018</span>
-						<span>Залози: 13</span>
-						<span>Печалби: 8</span>
-						<span>Загуби: 5</span>
+						<span>Залози: 17</span>
+						<span>Печалби: 10</span>
+						<span>Загуби: 7</span>
 						<span>Войд: 0</span>
-						<span>ROI: 4.03%</span>
+						<span>ROI: 3.28%</span>
 					</div>
 					<div class="bank-tip">
 						<div class="item-tips">Стартов баланс: 1000 лева</div>
-						<div class="item-tips">Текущт баланс: 1084 лева</div>
+						<div class="item-tips">Текущт баланс: 1062 лева</div>
 						<div class="item-tips">В играта: 0 лева</div>
 						<div class="item-tips">Месец: +60%</div>
 					</div>
@@ -109,6 +109,11 @@
 					<?php require '../../include/bet/single/124.php';?>
 					<?php require '../../include/bet/single/125.php';?>
 					<?php require '../../include/bet/single/126.php';?>
+					<?php require '../../include/bet/single/129.php';?>
+					<?php require '../../include/bet/single/130.php';?>
+					<?php require '../../include/bet/single/131.php';?>
+					<?php require '../../include/bet/single/132.php';?>
+					<?php require '../../include/bet/combi/114.php';?>
 				</div>
 			</div>
 		</section>

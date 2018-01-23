@@ -34,6 +34,14 @@
 							<i class="fa fa-file-text" aria-hidden="true"></i>
 							<a href="/articles/vidove-zalozi/">Видове залози</a>
 						</li>
+						<li>
+							<i class="fa fa-file-text" aria-hidden="true"></i>
+							<a href="/articles/sistema-martingeil/">Система Мартингейл</a>
+						</li>
+						<li>
+							<i class="fa fa-file-text" aria-hidden="true"></i>
+							<a href="/articles/zalozi-za-kartoni/">Залагане за брой картни в мача</a>
+						</li>
 					</ul>
 			</div>
 		</section>

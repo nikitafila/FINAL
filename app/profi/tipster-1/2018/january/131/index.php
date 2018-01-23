@@ -5,7 +5,7 @@
 
 	<meta charset="utf-8">
 
-	<title>Единичен залог - ХК Югра - Трактор Челябинск - 16.01.2018</title>
+	<title>Единичен залог - Севиля - Атлетико Мадрид - 23.01.2018</title>
 	<meta name="description" content="">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -30,7 +30,7 @@
 		<section class="main-block">
 				<div class="bgr-tip">
 					<div class="tipster-bet">
-						<?php require '../../../../../include/bet/single/126.php';?>
+						<?php require '../../../../../include/bet/single/131.php';?>
 					</div>
 				</div>
 		</section>
