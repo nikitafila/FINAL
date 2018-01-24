@@ -26,8 +26,8 @@
 </head>
 
 <body>
-<?php require '../include/header.php';?>
-		<section class="main-block grid">
+	<?php require '../include/header.php';?>
+	<section class="main-block grid">
 				<div class="top-zalog grid">
 					<div class="zalog-item-title grid">
 						<a href="/">Футбол</a>
@@ -37,7 +37,7 @@
 					</div>
 					<?php require '../include/basketball/basketball-zalog-of-the-day-1.php';?>
 				</div>
-		</section>
+	</section>
 	<?php require '../include/footer.php';?>
 </body>
 </html>

@@ -25,9 +25,9 @@
 </head>
 
 <body>
-	<div class="container grid">
+	<div class="container">
 	<?php require '../include/header.php';?>
-		<section class="main-block grid flag-page">
+	<section class="main-block grid flag-page">
 				<h1>Всички бонуси от български букмейкъри</h1>
 				<div class="block bonus-flag">
 					<?php require '../include/bonus/flag-1.php';?>
@@ -37,7 +37,7 @@
 					<?php require '../include/bonus/flag-5.php';?>
 					<?php require '../include/bonus/flag-6.php';?>
 				</div>
-		</section>
+	</section>
 	<?php require '../include/footer.php';?>
 	</div>
 </body>

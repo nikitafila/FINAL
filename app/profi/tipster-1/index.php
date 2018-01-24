@@ -2,6 +2,15 @@
 <html lang="bg">
 
 <head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-112407505-1"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-112407505-1');
+	</script>
 
 	<meta charset="utf-8">
 
@@ -13,17 +22,9 @@
 	<link rel="stylesheet"  href="/css/main.css"/>
 	<link rel="stylesheet" href="/css/font-awesome.css">
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans&amp;subset=cyrillic" rel="stylesheet">
-
+	<script type="text/javascript" src="/js/jquery-3.3.1.min.js"></script>
+	<script type="text/javascript" src="/js/common.js"></script>
 </head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-112407505-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-112407505-1');
-</script>
 
 <body>
 	<?php require '../../include/header.php';?>
@@ -62,7 +63,7 @@
 							<span>ROI</span>
 						</div>
 						<div class="item-tip">
-							<span>10</span>
+							<span>11</span>
 							<span>Печалби</span>
 						</div>
 						<div class="item-tip">
@@ -70,7 +71,7 @@
 							<span>Войд</span>
 						</div>
 						<div class="item-tip">
-							<span>7</span>
+							<span>9</span>
 							<span>Загуби</span>
 						</div>
 					</div>
@@ -82,9 +83,9 @@
 					</div>
 					<div class="month-stat">
 						<span>Януари 2018</span>
-						<span>Залози: 17</span>
-						<span>Печалби: 10</span>
-						<span>Загуби: 7</span>
+						<span>Залози: 20</span>
+						<span>Печалби: 11</span>
+						<span>Загуби: 9</span>
 						<span>Войд: 0</span>
 						<span>ROI: 3.28%</span>
 					</div>
@@ -114,6 +115,7 @@
 					<?php require '../../include/bet/single/131.php';?>
 					<?php require '../../include/bet/single/132.php';?>
 					<?php require '../../include/bet/combi/114.php';?>
+					<?php require '../../include/bet/combi/115.php';?>
 				</div>
 			</div>
 		</section>
