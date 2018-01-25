@@ -2,24 +2,30 @@
 	<div class="bet-1">
 		<span class="title"><a href="/profi/tipster-1/2018/january/combi/115/">Акумулатор</a></span>
 		<div class="single-match">
-			<span>ЖЕНИ - СИНГЪЛ: Newport Beach (САЩ)</span>
-			<span class="bold">Анисимова А. (Usa) - Хиби М. (Jpn)</span>
-			<span>П1</span>
-			<span class="bold">1.31</span>
-		</div>
-		<div class="single-match">
-			<span>ЖЕНИ - СИНГЪЛ: Newport Beach (САЩ)</span>
-			<span class="bold">Лиу К. (Usa) - Джанг С. Дж. (Kor)</span>
-			<span>П2</span>
-			<span class="bold">1.72</span>
-		</div>						
+			<div class="single-acc">
+				<span>ЖЕНИ - СИНГЪЛ: Newport Beach (САЩ)</span>
+				<span class="match-name">Анисимова А. (Usa) - Хиби М. (Jpn)</span>
+				<span class="small-text">24.01.2018 10:30</span>
+				<span>Прогноза: <b>П1</b></span>
+				<span>КФ: <b>1.33</b></span>
+				<i class="fa fa-check-circle-o fa greens" aria-hidden="true"></i>
+			</div>
+			<div class="single-acc">
+				<span>ЖЕНИ - СИНГЪЛ: Newport Beach (САЩ)</span>
+				<span class="match-name">Лиу К. (Usa) - Джанг С. Дж. (Kor)</span>
+				<span class="small-text">24.01.2018 14:30</span>
+				<span>Прогноза: <b>П2</b></span>
+				<span>КФ: <b>1.72</b></span>
+				<i class="fa fa-check-circle-o fa reds" aria-hidden="true"></i>
+			</div>
+		</div>					
 		<div class="single-match-result">
 			<span>Сума на залога: 30 лева</span>
 			<span>4% от банка</span>
-			<span>Общ коефициент: 2.25</span>
-			<span>Статус на залога: </span>
+			<span>Общ коефициент: <b>2.25</b></span>
+			<span>Статус на залога: <span class="red">Загуба</span></span>
 			<span>Типстър: <a href="/profi/tipster-1/">Веселин П</a></span>
-			<span class="small-text">24.01.2018</span>
+			<i class="fa fa-check-circle-o fa-2x reds" aria-hidden="true"></i>
 		</div>
 	</div>
 </div>

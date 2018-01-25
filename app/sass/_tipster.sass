@@ -110,21 +110,53 @@
 					color: #fff
 					font-weight: bold
 					border-radius: 5px 5px 0 0
-				.single-match
+					a
+						color: #fff
+					a:hover
+						text-decoration: underline
+				.single-match, .single-acc
 					display: grid
 					padding: 0 10px
 					margin-top: 10px
 					border-bottom: 1px solid #8b8b8b
 					cursor: pointer
+					position: relative
 					&:last-child
 						border-bottom: none
 					span
 						font-size: 14px
+					span.small-text
+						font-size: 12px
+					.match-name
+						font-weight: bold
+					.fa-check-circle-o
+						color: #dbdbdb
+						position: absolute
+						right: 5px
+						bottom: 5px
+					.reds
+						color: #ec6b6b
+					.greens
+						color: #7fbf4b
 				.single-match-result
 					display: grid
 					padding: 0 10px
 					margin-top: 10px
-
+					position: relative
+					a
+						color: #337ab7
+					a:hover
+						text-decoration: underline
+					.fa-check-circle-o
+						color: #dbdbdb
+						position: absolute
+						right: 5px
+						bottom: 5px
+					.reds
+						color: #ec6b6b
+					.greens
+						color: #7fbf4b
+						
 @media screen and (min-width: 480px)
 	.bgr-tip
 		.stat-tip

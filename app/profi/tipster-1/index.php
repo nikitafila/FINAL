@@ -22,8 +22,8 @@
 	<link rel="stylesheet"  href="/css/main.css"/>
 	<link rel="stylesheet" href="/css/font-awesome.css">
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans&amp;subset=cyrillic" rel="stylesheet">
-	<script type="text/javascript" src="/js/jquery-3.3.1.min.js"></script>
-	<script type="text/javascript" src="/js/common.js"></script>
+	<script src="/js/jquery-3.3.1.min.js"></script>
+	<script src="/js/common.js"></script>
 </head>
 
 <body>
@@ -97,25 +97,25 @@
 					</div>
 				</div>
 				<div class="stat-history">
-					<?php require '../../include/bet/single/114.php';?>
-					<?php require '../../include/bet/single/115.php';?>
-					<?php require '../../include/bet/single/116.php';?>
-					<?php require '../../include/bet/single/117.php';?>
-					<?php require '../../include/bet/single/118.php';?>
-					<?php require '../../include/bet/single/119.php';?>
-					<?php require '../../include/bet/single/120.php';?>
-					<?php require '../../include/bet/single/121.php';?>
-					<?php require '../../include/bet/single/122.php';?>
-					<?php require '../../include/bet/single/123.php';?>
-					<?php require '../../include/bet/single/124.php';?>
-					<?php require '../../include/bet/single/125.php';?>
-					<?php require '../../include/bet/single/126.php';?>
-					<?php require '../../include/bet/single/129.php';?>
-					<?php require '../../include/bet/single/130.php';?>
-					<?php require '../../include/bet/single/131.php';?>
-					<?php require '../../include/bet/single/132.php';?>
-					<?php require '../../include/bet/combi/114.php';?>
 					<?php require '../../include/bet/combi/115.php';?>
+					<?php require '../../include/bet/combi/114.php';?>
+					<?php require '../../include/bet/single/132.php';?>
+					<?php require '../../include/bet/single/131.php';?>					
+					<?php require '../../include/bet/single/130.php';?>
+					<?php require '../../include/bet/single/129.php';?>
+					<?php require '../../include/bet/single/126.php';?>
+					<?php require '../../include/bet/single/125.php';?>
+					<?php require '../../include/bet/single/124.php';?>
+					<?php require '../../include/bet/single/123.php';?>					
+					<?php require '../../include/bet/single/122.php';?>					
+					<?php require '../../include/bet/single/121.php';?>					
+					<?php require '../../include/bet/single/120.php';?>			
+					<?php require '../../include/bet/single/119.php';?>
+					<?php require '../../include/bet/single/118.php';?>
+					<?php require '../../include/bet/single/117.php';?>
+					<?php require '../../include/bet/single/116.php';?>
+					<?php require '../../include/bet/single/115.php';?>
+					<?php require '../../include/bet/single/114.php';?>
 				</div>
 			</div>
 		</section>
