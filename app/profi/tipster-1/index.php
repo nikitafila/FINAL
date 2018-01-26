@@ -21,6 +21,7 @@
 	<link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
 	<link rel="stylesheet"  href="/css/main.css"/>
 	<link rel="stylesheet" href="/css/font-awesome.css">
+	<link rel="stylesheet" href="/css/menu.css">
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans&amp;subset=cyrillic" rel="stylesheet">
 	<script src="/js/jquery-3.3.1.min.js"></script>
 	<script src="/js/common.js"></script>
@@ -36,7 +37,7 @@
 				</div>
 				<div class="stat-tip">
 					<div class="foto-tip">
-						<img src="../../img/logo.png">
+						<img>
 					</div>
 					<h3>Статистика на прогнозите</h3>
 					<div class="profit-tip">
@@ -97,6 +98,9 @@
 					</div>
 				</div>
 				<div class="stat-history">
+					<?php require '../../include/bet/combi/116.php';?>
+					<?php require '../../include/bet/single/134.php';?>
+					<?php require '../../include/bet/single/133.php';?>
 					<?php require '../../include/bet/combi/115.php';?>
 					<?php require '../../include/bet/combi/114.php';?>
 					<?php require '../../include/bet/single/132.php';?>
@@ -120,5 +124,6 @@
 			</div>
 		</section>
 	<?php require '../../include/footer.php';?>
+	<script type="text/javascript" src="/js/menu.js"></script>
 </body>
 </html>

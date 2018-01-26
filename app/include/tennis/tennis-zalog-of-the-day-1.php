@@ -1,5 +1,5 @@
 <div class="zalog-item grid">
-	<div class="sport-icon"></div>
+	<div class="sport-icon tennis-icon"></div>
 	<div class="prognoz">
 			<span class="prognoz-title">Сафранек В. (Cze) - Коярини А. (Arg)</span>
 			<span class="time-prognoz">13.01.2018 14:00</span>

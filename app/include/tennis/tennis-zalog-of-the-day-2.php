@@ -1,5 +1,5 @@
 <div class="zalog-item grid">
-	<div class="sport-icon"></div>
+	<div class="sport-icon tennis-icon"></div>
 	<div class="prognoz">
 			<span class="prognoz-title">Тийм Д.	-	Пея Г.</span>
 			<span class="time-prognoz">16.01.2018 10:05</span>

@@ -99,21 +99,31 @@
 			display: grid
 			width: 95%
 			margin-bottom: 10px
-			.bet-1
+			.bet-1, .title-single
 				display: grid
 				box-shadow: 0 1px 1px 0 rgba(0,0,0,0.3)
 				background-color: white
 				border-radius: 5px
-				.title
+				.title, .title-combi
 					text-align: center
 					background-color: #006daa
 					color: #fff
 					font-weight: bold
 					border-radius: 5px 5px 0 0
+					position: relative
+					cursor: pointer
 					a
 						color: #fff
 					a:hover
 						text-decoration: underline
+					i
+						position: absolute
+						right: 9px
+						top: 5px
+				.title-combi
+					i
+						right: 10px
+						top: 10px
 				.single-match, .single-acc
 					display: grid
 					padding: 0 10px
@@ -138,7 +148,18 @@
 						color: #ec6b6b
 					.greens
 						color: #7fbf4b
-				.single-match-result
+				.single-acc
+					cursor: context-menu
+				.acc-title
+					background-color: #fff
+					color: black
+					font-weight: normal
+					box-shadow: 0 2px 2px -1px rgba(0,0,0,0.3)
+					position: relative
+					.fa-check-circle-o
+						position: absolute
+						top: 32px
+				.single-match-result, .single-match-result-1
 					display: grid
 					padding: 0 10px
 					margin-top: 10px

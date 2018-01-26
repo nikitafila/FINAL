@@ -2,7 +2,15 @@
 <html lang="bg">
 
 <head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-112407505-1"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
 
+	  gtag('config', 'UA-112407505-1');
+	</script>
 	<meta charset="utf-8">
 
 	<title>Футболни прогнози за днес - VaskoTips.com</title>
@@ -11,33 +19,22 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
 	<link rel="stylesheet"  href="css/main.css"/>
-	<link href="https://fonts.googleapis.com/css?family=Open+Sans&amp;subset=cyrillic" rel="stylesheet">
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-112407505-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-112407505-1');
-</script>
-<script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
-<script type="text/javascript" src="js/common.js"></script>
-
+	<link rel="stylesheet"  href="css/menu.css"/>
+	<script type="text/javascript" src="js/jquery-3.3.1.min.js" defer></script>
+	<script type="text/javascript" src="js/common.js" defer></script>
 </head>
 
 <body>
-		<header>
-			<div class="logo"></div>
-			<div class="ad-header-block">728*90</div>
-			<div class="main-menu grid">
-				<a href="/profi/"><div>Типстъри</div></a>
-				<a href="/bookmakers/"><div>Букмейкъри</div></a>
-				<a href="/bonus/"><div>Бонуси</div></a>
-				<a href="/articles/"><div>Статии</div></a>
-			</div>
-		</header>
+	<nav>
+		<div class="logo"></div>	
+		<button class="menu"></button>
+		<ul>
+	      <li><a href="/profi/">Типстъри</a></li>
+	      <li><a href="/bookmakers/">Букмейкъри</a></li>
+	      <li><a href="/bonus/">Бонуси</a></li>
+	      <li><a href="/articles/">Статии</a></li>
+	    </ul>
+	</nav>
 		<section class="main-block grid">
 				<div class="news">
 					<?php require 'include/news.php';?>
@@ -91,5 +88,6 @@
 				</div>
 		</section>
 	<?php require 'include/footer.php';?>
+	<script type="text/javascript" src="js/menu.js"></script>
 </body>
 </html>

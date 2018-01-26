@@ -2,7 +2,15 @@
 <html lang="bg">
 
 <head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-112407505-1"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
 
+	  gtag('config', 'UA-112407505-1');
+	</script>
 	<meta charset="utf-8">
 
 	<title>Съвети за залагане за картони във футбола</title>
@@ -11,16 +19,7 @@
 	<link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
 	<link rel="stylesheet"  href="/css/main.css"/>
 	<link rel="stylesheet" href="/css/font-awesome.css">
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-112407505-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-112407505-1');
-</script>
-
+	<link rel="stylesheet" href="/css/menu.css">
 </head>
 
 <body>
@@ -53,20 +52,11 @@
 				<h2 id="all">Общ брой картони за мача</h2>
 
 				<p>Букита предлагат пазарите за общия брой картони в играта. Анализирайки статистиката на отделни отбори, можем да предвидим по-малък или по-голям брой картони, показани в мача. Следете статистиката не само на отборите, но и на футболни съдии, за да видите, че характерът на работата на съдия реално влияе на брой показани в мача картони.</p>
-			
-
-
-
-
-
-
-
-
-	
 
 			</article>
 		</section>
 	<?php require '../../include/footer.php';?>
 	</div>
+	<script type="text/javascript" src="/js/menu.js"></script>
 </body>
 </html>

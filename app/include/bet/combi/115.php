@@ -1,7 +1,16 @@
 <div class="bet-item">
 	<div class="bet-1">
-		<span class="title"><a href="/profi/tipster-1/2018/january/combi/115/">Акумулатор</a></span>
-		<div class="single-match">
+		<span class="title-combi">
+			<a href="/profi/tipster-1/2018/january/combi/115/">Акумулатор</a>
+			<i class="fa fa-arrow-down" aria-hidden="true"></i>
+			<div class="acc-title single-acc">
+				<span><b>Комбиниран залог</b></span>
+				<span>24.01.2018</span>
+				<span>Общ коефициент: <b>2.25</b></span>
+				<i class="fa fa-check-circle-o fa-2x reds" aria-hidden="true"></i>
+			</div>
+		</span>
+		<div class="single-combi">
 			<div class="single-acc">
 				<span>ЖЕНИ - СИНГЪЛ: Newport Beach (САЩ)</span>
 				<span class="match-name">Анисимова А. (Usa) - Хиби М. (Jpn)</span>
@@ -18,14 +27,13 @@
 				<span>КФ: <b>1.72</b></span>
 				<i class="fa fa-check-circle-o fa reds" aria-hidden="true"></i>
 			</div>
+			<div class="single-match-result">
+				<span>Сума на залога: 30 лева</span>
+				<span>4% от банка</span>
+				<span>Общ коефициент: <b>2.25</b></span>
+				<span>Статус на залога: <span class="red">Загуба</span></span>
+				<span>Типстър: <a href="/profi/tipster-1/">Веселин П</a></span>
+			</div>
 		</div>					
-		<div class="single-match-result">
-			<span>Сума на залога: 30 лева</span>
-			<span>4% от банка</span>
-			<span>Общ коефициент: <b>2.25</b></span>
-			<span>Статус на залога: <span class="red">Загуба</span></span>
-			<span>Типстър: <a href="/profi/tipster-1/">Веселин П</a></span>
-			<i class="fa fa-check-circle-o fa-2x reds" aria-hidden="true"></i>
-		</div>
 	</div>
 </div>

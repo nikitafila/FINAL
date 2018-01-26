@@ -1,5 +1,5 @@
 <div class="zalog-item grid">
-	<div class="sport-icon"></div>
+	<div class="sport-icon basketball-icon"></div>
 	<div class="prognoz">
 			<span class="prognoz-title">Валенсия - Сарагоса</span>
 			<span class="time-prognoz">13.01.2018 20:00</span>

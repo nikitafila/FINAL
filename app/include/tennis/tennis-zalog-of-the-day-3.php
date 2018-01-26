@@ -1,5 +1,5 @@
 <div class="zalog-item grid">
-	<div class="sport-icon"></div>
+	<div class="sport-icon tennis-icon"></div>
 	<div class="prognoz">
 			<span class="prognoz-title">Дяченко В. (Rus) - Кузмова В. (Svk</span>
 			<span class="time-prognoz">23.01.2018 10:30</span>

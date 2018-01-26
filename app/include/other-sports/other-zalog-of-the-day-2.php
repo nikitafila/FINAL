@@ -1,5 +1,5 @@
 <div class="zalog-item grid">
-	<div class="sport-icon"></div>
+	<div class="sport-icon amfoot-icon"></div>
 	<div class="prognoz">
 			<span class="prognoz-title">Американски футбол. Питсбърг Стийлърс - Джаксънвил Джагуарс</span>
 			<span class="time-prognoz">20:05</span>

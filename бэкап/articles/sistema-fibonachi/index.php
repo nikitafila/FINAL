@@ -2,7 +2,15 @@
 <html lang="bg">
 
 <head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-112407505-1"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
 
+	  gtag('config', 'UA-112407505-1');
+	</script>
 	<meta charset="utf-8">
 
 	<title>Стратегия Фибоначи или система "Една стъпка напред, две назад"</title>
@@ -11,16 +19,7 @@
 	<link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
 	<link rel="stylesheet"  href="/css/main.css"/>
 	<link rel="stylesheet" href="/css/font-awesome.css">
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-112407505-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-112407505-1');
-</script>
-
+	<link rel="stylesheet" href="/css/menu.css">
 </head>
 
 <body>
@@ -53,5 +52,6 @@
 		</section>
 	<?php require '../../include/footer.php';?>
 	</div>
+	<script type="text/javascript" src="/js/menu.js"></script>
 </body>
 </html>
