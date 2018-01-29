@@ -1,15 +1,17 @@
 <div class="bet-item">
 	<div class="bet-1">
-		<span class="title-combi">
-			<a href="/profi/tipster-1/2018/january/combi/116/">Акумулатор</a>
-			<i class="fa fa-arrow-down" aria-hidden="true"></i>
+		<div class="title-single-1">
+			<span class="title-combi">
+				<a href="/profi/tipster-1/2018/january/combi/116/">Акумулатор</a>
+				<i class="fa fa-arrow-down" aria-hidden="true"></i>
+			</span>
 			<div class="acc-title single-acc">
 				<span><b>Комбиниран залог</b></span>
-				<span>26.01.2018</span>
+				<span class="small-text">26.01.2018</span>
 				<span>Общ коефициент: <b>4.44</b></span>
 				<i class="fa fa-check-circle-o fa-2x" aria-hidden="true"></i>
 			</div>
-		</span>
+		</div>
 		<div class="single-combi">
 			<div class="single-acc">
 				<span>Баскетбол. Евролига</span>

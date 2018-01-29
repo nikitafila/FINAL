@@ -25,13 +25,13 @@
 </head>
 
 <body>
-<?php require '../include/header.php';?>
-		<section class="main-block grid">
-				<h1>Най-добрите типстъри</h1>
-				<div class="top-zalog grid">
-					<?php require '../include/tipsters/tipster-1.php';?>
-				</div>
+	<?php require '../include/header.php';?>
+	<main>
+		<h1>Най-добрите типстъри</h1>
+		<section class="top-zalog">
+			<?php require '../include/tipsters/tipster-1.php';?>
 		</section>
+	</main>
 	<?php require '../include/footer.php';?>
 	<script type="text/javascript" src="/js/menu.js"></script>
 </body>

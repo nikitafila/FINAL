@@ -1,12 +1,10 @@
 <h1>Прогноза на деня</h1>
-<div class="bet-of-the-day grid">
+<div class="bet-of-the-day">
 	<img src="/img/bets/121.jpg">
-	<span class="cell-of-day kef">
-		<p>
-			<span class="red">1.94</span>
-			Коефициент
-		</p>
-	</span>
+	<div class="cell-of-day kef">
+		<span class="bold-mark">1.94</span>
+		<span>Коефициент</span>
+	</div>
 	<span class="cell-of-day time">
 		27.01.2018 - 17:15
 	</span>

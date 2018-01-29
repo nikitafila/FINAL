@@ -1,4 +1,4 @@
-<div class="zalog-item grid">
+<div class="zalog-item">
 	<div class="sport-icon basketball-icon"></div>
 	<div class="prognoz">
 			<span class="prognoz-title">Валенсия - Сарагоса</span>

@@ -7,7 +7,14 @@ $(document).ready(function(){
 
 $(document).ready(function(){
 	$('.single-combi').hide();
-	$('.title-combi').click(function(){
+	$('.title-single-1').click(function(){
+		$(this).next().slideToggle('slow');
+	});
+});
+
+$(document).ready(function(){
+	$('.full-year-stat').hide();
+	$('#year').click(function(){
 		$(this).next().slideToggle('slow');
 	});
 });
