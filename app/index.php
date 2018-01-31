@@ -30,7 +30,7 @@
 			<div class="logo"></div>	
 			<button class="menu"></button>
 			<ul>
-		      <li><a href="/profi/">Типстъри</a></li>
+		      <li><a href="/tipsters/">Типстъри</a></li>
 		      <li><a href="/bookmakers/">Букмейкъри</a></li>
 		      <li><a href="/bonus/">Бонуси</a></li>
 		      <li><a href="/articles/">Статии</a></li>
@@ -90,7 +90,7 @@
 				</a>
 			</div>
 		</section>
-		<section class="ad-dop-block">Доп блок Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto illo, amet, ratione quasi quaerat dolorum reprehenderit totam! Blanditiis dignissimos nobis doloribus officia tempore veniam at amet, similique molestias libero natus.</section>
+		<section class="ad-dop-block"></section>
 	</main>
 	<?php require 'include/footer.php';?>
 	<script src="js/menu.js" defer></script>

@@ -34,7 +34,7 @@
 				<span>4% от банка</span>
 				<span>Общ коефициент: <b>2.25</b></span>
 				<span>Статус на залога: <span class="red">Загуба</span></span>
-				<span>Типстър: <a href="/profi/tipster-1/">Веселин П</a></span>
+				<span>Типстър: Васил Маринов</span>
 			</div>
 		</div>					
 	</div>
