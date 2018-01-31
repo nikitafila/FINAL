@@ -15,17 +15,18 @@
 
 	<title>Съвети за залагане за картони във футбола</title>
 	<meta name="description" content="4 популярни системи за брой картони във футбола. Защо през второ полувреме показват повече картони. Реално ли да печелиш от залагания за червени и жълти картони.">
+
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
 	<link rel="stylesheet"  href="/css/main.css"/>
-	<link rel="stylesheet" href="/css/font-awesome.css">
 	<link rel="stylesheet" href="/css/menu.css">
+	<link rel="stylesheet" href="/css/font-awesome.css">
 </head>
 
 <body>
-	<div class="container grid">
-			<?php require '../../include/header.php';?>
-		<section class="main-block">
+	<?php require '../../include/header.php';?>
+	<main>
+		<section class="bgr-tip">
 			<article>
 				<h1>Залози за жълти и червени картони</h1>
 				<img class="opty" src="/img/articles/yellow-card-stratigii.jpg" alt="">
@@ -52,11 +53,10 @@
 				<h2 id="all">Общ брой картони за мача</h2>
 
 				<p>Букита предлагат пазарите за общия брой картони в играта. Анализирайки статистиката на отделни отбори, можем да предвидим по-малък или по-голям брой картони, показани в мача. Следете статистиката не само на отборите, но и на футболни съдии, за да видите, че характерът на работата на съдия реално влияе на брой показани в мача картони.</p>
-
 			</article>
 		</section>
+	</main>
 	<?php require '../../include/footer.php';?>
-	</div>
-	<script type="text/javascript" src="/js/menu.js"></script>
+	<script src="/js/menu.js" defer></script>
 </body>
 </html>

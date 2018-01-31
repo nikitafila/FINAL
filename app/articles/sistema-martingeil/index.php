@@ -15,17 +15,18 @@
 
 	<title>Стратегия Мартингейл: системата за удвояване на залога</title>
 	<meta name="description" content="Предимства и недостатъи на системата Мартингейл. Какви видове спорта да играем с тази стратегия, как да избираме коефииента за удовояване на залога.">
+
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
 	<link rel="stylesheet"  href="/css/main.css"/>
-	<link rel="stylesheet" href="/css/font-awesome.css">
 	<link rel="stylesheet" href="/css/menu.css">
+	<link rel="stylesheet" href="/css/font-awesome.css">
 </head>
 
 <body>
-	<div class="container grid">
-			<?php require '../../include/header.php';?>
-		<section class="main-block">
+	<?php require '../../include/header.php';?>
+	<main>
+		<section class="bgr-tip">
 			<article>
 				<h1>Системата Мартингейл – печеливша стратегия за залагане</h1>
 
@@ -107,8 +108,8 @@
 				<p>Във футбола Мартингейл може да се използва в мачове  на живо за пазара «Гол през първото полувреме».  Ако в мача се очаква голям брой голове и към 20-та минута още няма вкаран гол, възможно е да заложиш на «Голове 0.5 НАД - през първото полувреме» с добър коефициент.</p>
 			</article>
 		</section>
+	</main>
 	<?php require '../../include/footer.php';?>
-	</div>
-	<script type="text/javascript" src="/js/menu.js"></script>
+	<script src="/js/menu.js" defer></script>
 </body>
 </html>

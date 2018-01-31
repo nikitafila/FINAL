@@ -15,17 +15,18 @@
 
 	<title>Всички видове залози: единичен, комбиниран, система, верига, мултизалог</title>
 	<meta name="description" content="Кои видове залози предлагат българските букмейкъри? Разликата между акумулятор и комби залог, примери на системи.">
+
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
 	<link rel="stylesheet"  href="/css/main.css"/>
-	<link rel="stylesheet" href="/css/font-awesome.css">
 	<link rel="stylesheet" href="/css/menu.css">
+	<link rel="stylesheet" href="/css/font-awesome.css">
 </head>
 
 <body>
-	<div class="container grid">
-			<?php require '../../include/header.php';?>
-		<section class="main-block">
+	<?php require '../../include/header.php';?>
+	<main>
+		<section class="bgr-tip">
 			<article>
 				<h1>Видове залози: сравненение между букмейкъри, примери, детайлни обяснения</h1>
 				<img class="opty" src="/img/1.jpg" alt="">
@@ -132,8 +133,8 @@
 				<p>Брой селекции вътре блокове неограничен. Максимален брой блокове в мултизалог – 12.</p>
 			</article>
 		</section>
+	</main>
 	<?php require '../../include/footer.php';?>
-	</div>
-	<script type="text/javascript" src="/js/menu.js"></script>
+	<script src="/js/menu.js" defer></script>
 </body>
 </html>

@@ -19,16 +19,15 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
 	<link rel="stylesheet"  href="/css/main.css"/>
-	<link rel="stylesheet" href="/css/font-awesome.min.css">
 	<link rel="stylesheet" href="/css/menu.css">
+	<link rel="stylesheet" href="/css/font-awesome.min.css">
 </head>
 
 <body>
-	<div class="container grid">
-		<?php require '../include/header.php';?>
-		<section class="main-block grid bookmakers-page">
-				<div class="rating block rating-lg">
-					<div class="rating-bookmaker-row grid">
+	<?php require '../include/header.php';?>
+	<main>
+		<section class="rating rating-lg">
+					<div class="rating-bookmaker-row">
 						<div class="bookmaker pic first"></div>
 						<div class="bookmaker">
 							<div class="version mob"></div>
@@ -52,7 +51,7 @@
 							<div class="button revue">Ревю</div> 	
 						</div>
 					</div>
-					<div class="rating-bookmaker-row grid second">
+					<div class="rating-bookmaker-row second">
 						<div class="bookmaker pic second"></div>
 						<div class="bookmaker">
 							<div class="version mob"></div>
@@ -76,7 +75,7 @@
 							<div class="button revue">Ревю</div> 	
 						</div>
 					</div>
-					<div class="rating-bookmaker-row grid second">
+					<div class="rating-bookmaker-row second">
 						<div class="bookmaker pic third"></div>
 						<div class="bookmaker">
 							<div class="version mob"></div>
@@ -100,7 +99,7 @@
 							<div class="button revue">Ревю</div> 	
 						</div>
 					</div>
-					<div class="rating-bookmaker-row grid second">
+					<div class="rating-bookmaker-row second">
 						<div class="bookmaker pic fourth"></div>
 						<div class="bookmaker">
 							<div class="version mob"></div>
@@ -124,10 +123,9 @@
 							<div class="button revue">Ревю</div> 	
 						</div>
 					</div>
-				</div>
 		</section>
-		<?php require '../include/footer.php';?>
-	</div>
-	<script type="text/javascript" src="/js/menu.js"></script>
+	</main>
+	<?php require '../include/footer.php';?>
+	<script src="/js/menu.js" defer></script>
 </body>
 </html>

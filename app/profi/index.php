@@ -28,8 +28,67 @@
 	<?php require '../include/header.php';?>
 	<main>
 		<h1>Най-добрите типстъри</h1>
-		<section class="top-zalog">
-			<?php require '../include/tipsters/tipster-1.php';?>
+		<section class="bgr-tip tipsterok">
+			<div class="stat-tip tipok">
+				<a href="/profi/tipster-1/">Васил Маринов</a>
+				<div>Доход:<span class="green">+11.62</span></div>
+				<div>Сметка:<span class="green">+1162 лева</span></div>
+				<span>Ср. коеф. 1.89</span>
+				<div class="main-stat-tip">
+					<div class="item-tip">
+						<span>12</span>
+						<span>Печалби</span>
+					</div>
+					<div class="item-tip">
+						<span>0</span>
+						<span>Войд</span>
+					</div>
+					<div class="item-tip">
+						<span>11</span>
+						<span>Загуби</span>
+					</div>
+				</div>
+			</div>
+			<div class="stat-tip tipok">
+				<a href="/profi/tipster-1/">Васил Маринов</a>
+				<div>Доход:<span class="green">+11.62</span></div>
+				<div>Сметка:<span class="green">+1162 лева</span></div>
+				<span>Ср. коеф. 1.89</span>
+				<div class="main-stat-tip">
+					<div class="item-tip">
+						<span>12</span>
+						<span>Печалби</span>
+					</div>
+					<div class="item-tip">
+						<span>0</span>
+						<span>Войд</span>
+					</div>
+					<div class="item-tip">
+						<span>11</span>
+						<span>Загуби</span>
+					</div>
+				</div>
+			</div>
+			<div class="stat-tip tipok">
+				<a href="/profi/tipster-1/">Васил Маринов</a>
+				<div>Доход:<span class="green">+11.62</span></div>
+				<div>Сметка:<span class="green">+1162 лева</span></div>
+				<span>Ср. коеф. 1.89</span>
+				<div class="main-stat-tip">
+					<div class="item-tip">
+						<span>12</span>
+						<span>Печалби</span>
+					</div>
+					<div class="item-tip">
+						<span>0</span>
+						<span>Войд</span>
+					</div>
+					<div class="item-tip">
+						<span>11</span>
+						<span>Загуби</span>
+					</div>
+				</div>
+			</div>			
 		</section>
 	</main>
 	<?php require '../include/footer.php';?>

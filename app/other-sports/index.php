@@ -23,21 +23,21 @@
 </head>
 
 <body>
-<?php require '../include/header.php';?>
-		<section class="main-block grid">
-				<div class="top-zalog grid">
-					<div class="zalog-item-title grid">
-						<a href="/">Футбол</a>
-						<a href="/tennis/">Тенис</a>
-						<a href="/basketball/">Баскетбол</a>
-						<a class="active">Друго</a>
-					</div>	
-					<?php require '../include/other-sports/other-zalog-of-the-day-1.php';?>
-					<?php require '../include/other-sports/other-zalog-of-the-day-2.php';?>
-					<?php require '../include/other-sports/other-zalog-of-the-day-3.php';?>
-					<?php require '../include/other-sports/other-zalog-of-the-day-4.php';?>
-				</div>
+	<?php require '../include/header.php';?>
+	<main>
+		<section class="top-zalog inside">
+			<div class="zalog-item-title">
+				<a href="/">Футбол</a>
+				<a href="/tennis/">Тенис</a>
+				<a href="/basketball/">Баскетбол</a>
+				<a class="active">Друго</a>
+			</div>	
+			<?php require '../include/other-sports/other-zalog-of-the-day-1.php';?>
+			<?php require '../include/other-sports/other-zalog-of-the-day-2.php';?>
+			<?php require '../include/other-sports/other-zalog-of-the-day-3.php';?>
+			<?php require '../include/other-sports/other-zalog-of-the-day-4.php';?>
 		</section>
+	</main>
 	<?php require '../include/footer.php';?>
 	<script type="text/javascript" src="/js/menu.js"></script>
 </body>

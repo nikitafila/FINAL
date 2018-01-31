@@ -2,7 +2,7 @@
 	<div class="bet-1">
 		<div class="title-single-1">
 			<span class="title-combi">
-				<a href="/profi/tipster-1/2018/january/combi/114/">Акумулатор</a>
+				<span>Комбиниран залог</span>
 				<i class="fa fa-arrow-down" aria-hidden="true"></i>
 			</span>
 			<div class="acc-title single-acc">

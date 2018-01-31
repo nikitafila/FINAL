@@ -2,7 +2,7 @@
 	<div class="bet-1">
 		<div class="title-single">
 			<span class="title">
-				<a href="/profi/tipster-1/2018/january/130/">Cингъл</a>
+				<span>Сингъл</span>
 				<i class="fa fa-arrow-down" aria-hidden="true"></i>
 			</span>
 			<div class="single-match">

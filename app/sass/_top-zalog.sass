@@ -1,5 +1,6 @@
 .top-zalog
 	display: grid
+	align-self: start
 	margin-bottom: $gutter
 	background-color: $zalog
 	border: 1px solid $border
@@ -77,8 +78,9 @@
 @media screen and (min-width: 1024px)
 	.top-zalog
 		grid-row: 3/5
-		max-height: 600px
 		.zalog-item
 			max-height: 300px
+	.inside
+		grid-row: 1/2
 
 		

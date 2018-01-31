@@ -19,26 +19,26 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
 	<link rel="stylesheet"  href="/css/main.css"/>
-	<link rel="stylesheet" href="/css/font-awesome.min.css">
 	<link rel="stylesheet" href="/css/menu.css">
+	<link rel="stylesheet" href="/css/font-awesome.min.css">
 </head>
 
 <body>
-	<div class="container">
 	<?php require '../include/header.php';?>
-	<section class="main-block grid flag-page">
-				<h1>Всички бонуси от български букмейкъри</h1>
-				<div class="block bonus-flag">
-					<?php require '../include/bonus/flag-1.php';?>
-					<?php require '../include/bonus/flag-2.php';?>
-					<?php require '../include/bonus/flag-3.php';?>
-					<?php require '../include/bonus/flag-4.php';?>
-					<?php require '../include/bonus/flag-5.php';?>
-					<?php require '../include/bonus/flag-6.php';?>
-				</div>
-	</section>
+	<main>
+		<section class="top-zalog flag-page">
+			<h1>Всички бонуси от български букмейкъри</h1>
+			<div class="block bonus-flag">
+				<?php require '../include/bonus/flag-1.php';?>
+				<?php require '../include/bonus/flag-2.php';?>
+				<?php require '../include/bonus/flag-3.php';?>
+				<?php require '../include/bonus/flag-4.php';?>
+				<?php require '../include/bonus/flag-5.php';?>
+				<?php require '../include/bonus/flag-6.php';?>
+			</div>
+		</section>
+	</main>
 	<?php require '../include/footer.php';?>
-	</div>
-	<script type="text/javascript" src="/js/menu.js"></script>
+	<script src="/js/menu.js" defer></script>
 </body>
 </html>

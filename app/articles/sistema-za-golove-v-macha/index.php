@@ -16,17 +16,18 @@
 
 	<title>Как да залагаме на голове Под/Над във футбола</title>
 	<meta name="description" content="Стратегия за залагане на голове ПОД/НАД във футбола. Реален анализ на мача Реал Мадрид - Барселона. Защо трябва да играем Под 3.5.">
+
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
 	<link rel="stylesheet"  href="/css/main.css"/>
-	<link rel="stylesheet" href="/css/font-awesome.css">
 	<link rel="stylesheet" href="/css/menu.css">
+	<link rel="stylesheet" href="/css/font-awesome.css">
 </head>
 
 <body>
-	<div class="container grid">
-			<?php require '../../include/header.php';?>
-		<section class="main-block">
+	<?php require '../../include/header.php';?>
+	<main>
+		<section class="bgr-tip">
 			<article>
 				<h1>Как да залагаме на Общ брой голове в мача?</h1>
 				
@@ -90,8 +91,8 @@
 				<p><b>Ъпдейт: мачът завърши с резултат 0-3.</b></p>
 			</article>
 		</section>
+	</main>
 	<?php require '../../include/footer.php';?>
-	</div>
-	<script type="text/javascript" src="/js/menu.js"></script>
+	<script src="/js/menu.js" defer></script>
 </body>
 </html>

@@ -15,43 +15,42 @@
 
 	<title>Стратегии за залагане - Всички статии</title>
 	<meta name="description" content="Всички статии за залози. Стратегии от успешни типстъри, полезни професионални съвети за добра успеваемост.">
+	
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
 	<link rel="stylesheet"  href="/css/main.css"/>
-	<link rel="stylesheet" href="/css/font-awesome.css">
 	<link rel="stylesheet" href="/css/menu.css">
-
+	<link rel="stylesheet" href="/css/font-awesome.css">
 </head>
 
 <body>
-	<div class="container grid">
-			<?php require '../include/header.php';?>
-		<section class="main-block grid school-page">
+	<?php require '../include/header.php';?>
+	<main>
+		<section class="bgr-tip">
 			<h1>Стани профи типстър - всички статии за залагане</h1>
 			<div class="school-container">
-					<ul>
-						<li>
-							<i class="fa fa-file-text" aria-hidden="true"></i>
-							<a href="/articles/vidove-zalozi/">Видове залози</a>
-						</li>
-						<li>
-							<i class="fa fa-file-text" aria-hidden="true"></i>
-							<a href="/articles/sistema-martingeil/">Система Мартингейл</a>
-						</li>
-						<li>
-							<i class="fa fa-file-text" aria-hidden="true"></i>
-							<a href="/articles/zalozi-za-kartoni/">Залагане за брой картони в мача</a>
-						</li>
-						<li>
-							<i class="fa fa-file-text" aria-hidden="true"></i>
-							<a href="/articles/sistema-za-golove-v-macha/">Как да залагаме на голове в мача</a>
-						</li>
-						
-					</ul>
+				<ul>
+					<li>
+						<i class="fa fa-file-text" aria-hidden="true"></i>
+						<a href="/articles/vidove-zalozi/">Видове залози</a>
+					</li>
+					<li>
+						<i class="fa fa-file-text" aria-hidden="true"></i>
+						<a href="/articles/sistema-martingeil/">Система Мартингейл</a>
+					</li>
+					<li>
+						<i class="fa fa-file-text" aria-hidden="true"></i>
+						<a href="/articles/zalozi-za-kartoni/">Залагане за брой картони в мача</a>
+					</li>
+					<li>
+						<i class="fa fa-file-text" aria-hidden="true"></i>
+						<a href="/articles/sistema-za-golove-v-macha/">Как да залагаме на голове в мача</a>
+					</li>
+				</ul>
 			</div>
 		</section>
+	</main>
 	<?php require '../include/footer.php';?>
-	</div>
-	<script type="text/javascript" src="/js/menu.js"></script>
+	<script src="/js/menu.js" defer></script>
 </body>
 </html>

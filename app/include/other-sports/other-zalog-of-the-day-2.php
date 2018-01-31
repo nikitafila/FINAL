@@ -3,7 +3,7 @@
 	<div class="prognoz">
 			<span class="prognoz-title">Американски футбол. Питсбърг Стийлърс - Джаксънвил Джагуарс</span>
 			<span class="time-prognoz">20:05</span>
-			<span class="liga-prognoz"><a href="/profi/tipster-1/">Веселин П</a></span>
+			<span class="liga-prognoz"><a href="/profi/tipster-1/">Васил Маринов</a></span>
 			
 	</div>
 	<div class="kef-prognoz"><b>П1</b><br><span class="red">1.32</span></div>
