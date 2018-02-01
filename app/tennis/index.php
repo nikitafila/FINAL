@@ -27,7 +27,7 @@
 <body>
 	<?php require '../include/header.php';?>
 	<main>
-		<section class="top-zalog inside">
+		<section class="zalog-main">
 				<div class="zalog-item-title">
 					<a href="/">Футбол</a>
 					<a class="active">Тенис</a>

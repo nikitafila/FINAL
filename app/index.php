@@ -45,7 +45,7 @@
 			<?php require 'include/add/ad-section-main-block-1.php';?>
 			<?php require 'include/add/ad-section-main-block-2.php';?>
 		</sidebar>
-		<section class="top-zalog">
+		<section class="zalog-main">
 			<div class="zalog-item-title">
 				<a class="active">Футбол</a>
 				<a href="/tennis/">Тенис</a>
@@ -90,7 +90,6 @@
 				</a>
 			</div>
 		</section>
-		<section class="ad-dop-block"></section>
 	</main>
 	<?php require 'include/footer.php';?>
 	<script src="js/menu.js" defer></script>

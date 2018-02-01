@@ -119,7 +119,7 @@
 					</section>-->
 				</section>
 				<section class="stat-history">
-		
+					<?php require '../../include/bet/combi/117.php';?>
 				</section>
 		</section>
 	</main>
