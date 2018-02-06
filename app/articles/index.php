@@ -26,7 +26,7 @@
 <body>
 	<?php require '../include/header.php';?>
 	<main>
-		<section class="bgr-tip">
+		<section class="articles-page">
 			<h1>Стани профи типстър - всички статии за залагане</h1>
 			<div class="school-container">
 				<ul>
@@ -49,6 +49,11 @@
 				</ul>
 			</div>
 		</section>
+		<sidebar class="bonus-page">
+			<section class="ad-section-main-block statii other-statii">
+				<?php require '../include/add/ad-section-main-block-2.php';?>
+			</section>
+		</sidebar>
 	</main>
 	<?php require '../include/footer.php';?>
 	<script src="/js/menu.js" defer></script>

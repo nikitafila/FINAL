@@ -26,7 +26,7 @@
 <body>
 	<?php require '../include/header.php';?>
 	<main>
-		<section class="top-zalog flag-page">
+		<section class="flag-bonus">
 			<h1>Всички бонуси от български букмейкъри</h1>
 			<div class="block bonus-flag">
 				<?php require '../include/bonus/flag-1.php';?>
@@ -37,6 +37,12 @@
 				<?php require '../include/bonus/flag-6.php';?>
 			</div>
 		</section>
+		<sidebar class="bonus-page">
+			<section class="ad-section-main-block statii other-statii bonus-statii">
+				<?php require '../include/add/ad-section-main-block-1.php';?>
+			</section>
+				<?php require '../include/add/ad-section-main-block-2.php';?>
+		</sidebar>
 	</main>
 	<?php require '../include/footer.php';?>
 	<script src="/js/menu.js" defer></script>

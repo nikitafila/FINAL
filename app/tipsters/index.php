@@ -91,8 +91,9 @@
 			</div>			
 		</section>
 		<sidebar class="others-pages">
-			<?php require '../include/add/ad-section-main-block-1.php';?>
-			<?php require '../include/add/ad-section-main-block-2.php';?>
+			<section class="ad-section-main-block statii other-statii">
+				<?php require '../include/add/ad-section-main-block-1.php';?>
+			</section>
 		</sidebar>
 	</main>
 	<?php require '../include/footer.php';?>
