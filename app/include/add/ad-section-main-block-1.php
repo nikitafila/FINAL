@@ -1,4 +1,4 @@
-<section class="ad-section-main-block statii">
-	<span class="title-row art">Всички видове залози в една статия</span>
-	<span class="title-row art">Всички видове залози в една статия</span>
+<section class="ad-section-main-block statii other-statii">
+	<span class="title-row other-art">Всички видове залози в една статия</span>
+	<span class="title-row other-art">Стратегия Мартингейл</span>
 </section>

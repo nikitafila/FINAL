@@ -42,8 +42,39 @@
 			<?php require 'include/news.php';?>
 		</section>
 		<sidebar>
-			<?php require 'include/add/ad-section-main-block-1.php';?>
-			<?php require 'include/add/ad-section-main-block-2.php';?>
+			<section class="ad-section-main-block statii">
+				<span class="title-row art">Всички видове залози в една статия</span>
+				<span class="title-row art">Стратегия Мартингейл</span>
+			</section>
+			<section class="ad-section-main-block ad2">
+				<span class="title-row">Топ типстъри</span>
+				<div class="profil">
+					<div class="picture">
+						<img src="/img/icons/man.svg">
+					</div>
+					<div>
+						<span class="name">Васил Маринов</span>
+						<div class="profil-info">
+							<span class="small-text">Кол-во ставок: 14</span>
+							<span class="small-text">Удачных: 62%</span>
+							<span class="small-text">Прибыль: 410%</span>
+						</div>
+					</div>
+				</div>
+				<div class="profil">
+					<div class="picture">
+						<img src="/img/icons/man.svg">
+					</div>
+					<div>
+						<span class="name">Милиан Илиевски</span>
+						<div class="profil-info">
+							<span class="small-text">Кол-во ставок: 1</span>
+							<span class="small-text">Удачных: 62%</span>
+							<span class="small-text">Прибыль: 410%</span>
+						</div>
+					</div>
+				</div>
+			</section>
 		</sidebar>
 		<section class="zalog-main">
 			<div class="zalog-item-title">

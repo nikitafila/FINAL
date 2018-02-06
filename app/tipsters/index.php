@@ -90,6 +90,10 @@
 				</div>
 			</div>			
 		</section>
+		<sidebar class="others-pages">
+			<?php require '../include/add/ad-section-main-block-1.php';?>
+			<?php require '../include/add/ad-section-main-block-2.php';?>
+		</sidebar>
 	</main>
 	<?php require '../include/footer.php';?>
 	<script type="text/javascript" src="/js/menu.js"></script>
