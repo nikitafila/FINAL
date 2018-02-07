@@ -55,6 +55,12 @@
 				<p>Букита предлагат пазарите за общия брой картони в играта. Анализирайки статистиката на отделни отбори, можем да предвидим по-малък или по-голям брой картони, показани в мача. Следете статистиката не само на отборите, но и на футболни съдии, за да видите, че характерът на работата на съдия реално влияе на брой показани в мача картони.</p>
 			</article>
 		</section>
+		<sidebar class="article-page">
+			<section class="ad-section-main-block statii other-statii">
+				<?php require '../../include/add/ad-section-main-block-1.php';?>
+			</section>
+				<?php require '../../include/add/ad-section-main-block-2.php';?>
+		</sidebar>
 	</main>
 	<?php require '../../include/footer.php';?>
 	<script src="/js/menu.js" defer></script>

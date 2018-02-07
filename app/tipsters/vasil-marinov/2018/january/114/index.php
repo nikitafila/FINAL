@@ -27,11 +27,17 @@
 <body>
 	<?php require '../../../../../include/header.php';?>
 	<main>
-		<section class="bgr-tip">
+		<section class="articles-page">
 				<div class="tipster-bet">
 					<?php require '../../../../../include/bet/single/114.php';?>
 				</div>
 		</section>
+		<sidebar class="bonus-page">
+			<section class="ad-section-main-block statii other-statii bonus-statii">
+				<?php require '../../../../../include/add/ad-section-main-block-1.php';?>
+			</section>
+				<?php require '../../../../../include/add/ad-section-main-block-2.php';?>
+		</sidebar>
 	</main>
 	<?php require '../../../../../include/footer.php';?>
 	<script src="/js/menu.js" defer></script>

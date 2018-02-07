@@ -41,7 +41,7 @@
 		<section class="news">
 			<?php require 'include/news.php';?>
 		</section>
-		<sidebar>
+		<sidebar class="main-sidebar">
 			<section class="ad-section-main-block statii">
 				<span class="title-row art">Всички видове залози в една статия</span>
 				<span class="title-row art">Стратегия Мартингейл</span>

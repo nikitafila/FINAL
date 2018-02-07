@@ -13,7 +13,7 @@
 	</script>
 	<meta charset="utf-8">
 
-	<title>Комбиниран залог - Тенис - 23.01.2018</title>
+	<title>Комбиниран залог - Тенис - 24.01.2018</title>
 	
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
@@ -29,7 +29,7 @@
 	<main>
 		<section class="articles-page">
 				<div class="tipster-bet">
-					<?php require '../../../../../../include/bet/combi/114.php';?>
+					<?php require '../../../../../../include/bet/combi/116.php';?>
 				</div>
 		</section>
 		<sidebar class="bonus-page">

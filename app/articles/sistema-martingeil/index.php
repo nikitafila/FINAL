@@ -108,6 +108,12 @@
 				<p>Във футбола Мартингейл може да се използва в мачове  на живо за пазара «Гол през първото полувреме».  Ако в мача се очаква голям брой голове и към 20-та минута още няма вкаран гол, възможно е да заложиш на «Голове 0.5 НАД - през първото полувреме» с добър коефициент.</p>
 			</article>
 		</section>
+		<sidebar class="article-page">
+			<section class="ad-section-main-block statii other-statii">
+				<?php require '../../include/add/ad-section-main-block-1.php';?>
+			</section>
+				<?php require '../../include/add/ad-section-main-block-2.php';?>
+		</sidebar>
 	</main>
 	<?php require '../../include/footer.php';?>
 	<script src="/js/menu.js" defer></script>
