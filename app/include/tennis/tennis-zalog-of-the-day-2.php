@@ -1,9 +1,8 @@
-<div class="zalog-item grid">
+<a href="/tipsters/vasil-marinov/2018/january/114/" class="zalog-item hvr-fade">
 	<div class="sport-icon tennis-icon"></div>
 	<div class="prognoz">
-			<span class="prognoz-title">Тийм Д.	-	Пея Г.</span>
-			<span class="time-prognoz">16.01.2018 10:05</span>
-			<a href="/tipsters/vasil-marinov/">Васил Маринов</a>
+			<span class="prognoz-title">Сафранек В. (Cze) - Коярини А. (Arg)</span>
+			<span class="time-prognoz">13.01.2018 14:00</span>
 	</div>
-	<div class="kef-prognoz"><b>НАД 36.5</b><span class="green">1.75</span></div>
-</div>
+	<div class="kef-prognoz"><b>П1</b><span class="green">1.51</span></div>
+</a>

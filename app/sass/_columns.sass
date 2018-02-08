@@ -8,14 +8,14 @@ main
 	max-width: 1024px
 	align-content: start
 
-sidebar
+sidebar.main-sidebar
 	display: grid
 	grid-row: 4/5
 	margin: $gutter 0
 	align-content: start
 	grid-gap: 20px
 
-sidebar.others-pages, sidebar.bonus-page, sidebar.article-page
+sidebar.others-pages, sidebar.bonus-page
 	display: grid
 	margin: $gutter 0
 	align-content: start
@@ -55,9 +55,6 @@ sidebar.others-pages, sidebar.bonus-page, sidebar.article-page
 		grid-row: 1/3		
 		margin: 0 0 $gutter $gutter
 
-	sidebar.article-page
-		grid-column: 1/3
-
 @media screen and (min-width: 1024px)
 	main
 		margin: 0 auto
@@ -70,13 +67,9 @@ sidebar.others-pages, sidebar.bonus-page, sidebar.article-page
 		grid-row: 1/5
 	sidebar.others-pages
 		grid-column: 2/3
-		grid-row: 2/3
-		margin: 0 0 $gutter $gutter
-
-	sidebar.article-page
-		grid-column: 2/3
 		grid-row: 1/3
 		margin: 0 0 $gutter $gutter
+
 
 	.tips-page
 		grid-template-rows: 80px 290px 300px 400px

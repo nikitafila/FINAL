@@ -7,23 +7,20 @@
 
 html, body
 	height: 100%
+	color: #333
 
 body
-	font-size: 16px
-	min-width: 320px
-	position: relative
-	line-height: 1.65
-	font-family: $font-main
-	overflow-x: hidden
-	opacity: 1
-	background-color: $bg
-body
-	min-height: 100%
 	display: grid
 	grid-template-rows: auto 1fr auto
+	font-size: 16px
+	min-width: 320px
+	line-height: 1.5
+	font-family: $font-main
+	background-color: $bg
+	min-height: 100%
 a
 	text-decoration: none
-
+	color: #337ab7
 ul
 	list-style: none
 
@@ -95,3 +92,35 @@ h1
 		background-color: #f1f1f1
 .show
 	display: block
+
+.hvr-fade
+	display: inline-block
+	vertical-align: middle
+	-webkit-transform: perspective(1px) translateZ(0)
+	transform: perspective(1px) translateZ(0)
+	box-shadow: 0 0 1px transparent
+	overflow: hidden
+	-webkit-transition-duration: 0.3s
+	transition-duration: 0.3s
+	-webkit-transition-property: color, background-color
+	transition-property: color, background-color
+
+.hvr-fade:hover, .hvr-fade:focus, .hvr-fade:active
+	background-color: #2098D1
+	color: white
+
+/* Grow */
+.hvr-grow
+	display: inline-block
+	vertical-align: middle
+	-webkit-transform: perspective(1px) translateZ(0)
+	transform: perspective(1px) translateZ(0)
+	box-shadow: 0 0 1px transparent
+	-webkit-transition-duration: 0.3s
+	transition-duration: 0.3s
+	-webkit-transition-property: transform
+	transition-property: transform
+
+.hvr-grow:hover, .hvr-grow:focus, .hvr-grow:active
+	-webkit-transform: scale(1.1)
+	transform: scale(1.1)

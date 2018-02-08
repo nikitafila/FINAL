@@ -8,11 +8,14 @@
 			text-align: center
 			color: white
 		h1
-			font-size: 18px
+			grid-column: 1/3
 
 	.stat-tip
 		justify-items: center
 		display: grid
+		a:hover, active
+			text-decoration: underline
+			color: #23527c
 		.foto-tip
 			border-bottom: 1px solid #8b8b8b
 			width: 80%
@@ -199,13 +202,11 @@
 						color: #ec6b6b
 					.greens
 						color: #7fbf4b
-.tipsterok
-	display: grid
-	.tipok
-		background-color: #bfccd1
-		margin: 20px
-		padding: 10px
-		min-width: 205px
+.tipok
+	background-color: #bfccd1
+	margin: 20px
+	padding: 10px
+	min-width: 205px
 
 @media screen and (min-width: 615px)
 	.tipsterok

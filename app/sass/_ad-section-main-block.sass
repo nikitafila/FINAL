@@ -2,12 +2,16 @@
 	border: 1px solid $border
 	width: 100%
 	justify-self: center
-
 .profil
 	display: flex
+	position: relative
 	padding-top: 5px
+	a:hover, active
+		text-decoration: underline
+		color: #23527c
 .profil:first-of-type
 	border-bottom: 1px solid black
+
 .name
 	font-size: 14px
 .picture
@@ -19,10 +23,8 @@
 .profil-info
 	span
 		display: block
-
 .small-text
 	font-size: 12px
-
 .title-row
 	background-color: #78bf5a
 	width: 100%
@@ -69,6 +71,9 @@
 		flex-direction: column
 	.other-statii
 		flex-direction: row
+	.other-statii .art:first-of-type
+		margin-bottom: 0
+		margin-right: $gutter
 	.art:first-of-type
 		margin-bottom: $gutter
 		margin-right: 0
@@ -88,4 +93,7 @@
 		flex-direction: column
 	.other-art:first-of-type
 		margin-bottom: $gutter
-		margin-right: 0	
+		margin-right: 0
+	.other-statii .art:first-of-type
+		margin-bottom: $gutter
+		margin-right: 0

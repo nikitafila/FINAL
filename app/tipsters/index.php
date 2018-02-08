@@ -27,8 +27,8 @@
 <body>
 	<?php require '../include/header.php';?>
 	<main>
-		<h1>Най-добрите типстъри</h1>
-		<section class="bgr-tip tipsterok">
+		<section class="bgr-tip">
+			<h1>Най-добрите типстъри</h1>
 			<div class="stat-tip tipok">
 				<a href="/tipsters/vasil-marinov/">Васил Маринов</a>
 				<div>Доход: <span class="green">+11.62</span></div>

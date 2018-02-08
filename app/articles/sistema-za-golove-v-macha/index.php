@@ -91,7 +91,7 @@
 				<p><b>Ъпдейт: мачът завърши с резултат 0-3.</b></p>
 			</article>
 		</section>
-		<sidebar class="article-page">
+		<sidebar class="others-pages">
 			<section class="ad-section-main-block statii other-statii">
 				<?php require '../../include/add/ad-section-main-block-1.php';?>
 			</section>

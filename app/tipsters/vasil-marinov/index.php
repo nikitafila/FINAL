@@ -143,7 +143,7 @@
 					<?php require '../../include/bet/single/114.php';?>
 				</section>
 		</section>
-		<sidebar class="article-page">
+		<sidebar class="others-pages">
 			<section class="ad-section-main-block statii other-statii">
 				<?php require '../../include/add/ad-section-main-block-1.php';?>
 			</section>
