@@ -120,27 +120,118 @@
 				</section>
 				<section class="stat-history">
 					<?php require '../../include/bet/combi/116.php';?>
+						<a href="/tipsters/vasil-marinov/2018/january/combi/116/">Отвори залог</a>
+								</div>
+							</div>
+						</div>
+						</div>
 					<?php require '../../include/bet/single/134.php';?>
+						<a href="/tipsters/vasil-marinov/2018/january/single/134/">Отвори залог</a>
+								</div>
+							</div>
+						</div>
 					<?php require '../../include/bet/single/133.php';?>
+						<a href="/tipsters/vasil-marinov/2018/january/single/133/">Отвори залог</a>
+								</div>
+							</div>
+						</div>	
 					<?php require '../../include/bet/combi/115.php';?>
+						<a href="/tipsters/vasil-marinov/2018/january/combi/115/">Отвори залог</a>
+								</div>
+							</div>
+						</div>
+						</div>
 					<?php require '../../include/bet/combi/114.php';?>
+						<a href="/tipsters/vasil-marinov/2018/january/combi/114/">Отвори залог</a>
+								</div>
+							</div>
+						</div>
+						</div>
 					<?php require '../../include/bet/single/132.php';?>
-					<?php require '../../include/bet/single/131.php';?>					
+						<a href="/tipsters/vasil-marinov/2018/january/single/132/">Отвори залог</a>
+								</div>
+							</div>
+						</div>	
+					<?php require '../../include/bet/single/131.php';?>	
+						<a href="/tipsters/vasil-marinov/2018/january/single/131/">Отвори залог</a>
+								</div>
+							</div>
+						</div>			
 					<?php require '../../include/bet/single/130.php';?>
+						<a href="/tipsters/vasil-marinov/2018/january/single/130/">Отвори залог</a>
+								</div>
+							</div>
+						</div>
 					<?php require '../../include/bet/single/129.php';?>
+						<a href="/tipsters/vasil-marinov/2018/january/single/129/">Отвори залог</a>
+								</div>
+							</div>
+						</div>
 					<?php require '../../include/bet/single/126.php';?>
+						<a href="/tipsters/vasil-marinov/2018/january/single/126/">Отвори залог</a>
+								</div>
+							</div>
+						</div>
 					<?php require '../../include/bet/single/125.php';?>
+						<a href="/tipsters/vasil-marinov/2018/january/single/125/">Отвори залог</a>
+								</div>
+							</div>
+						</div>
 					<?php require '../../include/bet/single/124.php';?>
-					<?php require '../../include/bet/single/123.php';?>					
-					<?php require '../../include/bet/single/122.php';?>					
-					<?php require '../../include/bet/single/121.php';?>					
-					<?php require '../../include/bet/single/120.php';?>			
+						<a href="/tipsters/vasil-marinov/2018/january/single/124/">Отвори залог</a>
+								</div>
+							</div>
+						</div>
+					<?php require '../../include/bet/single/123.php';?>
+						<a href="/tipsters/vasil-marinov/2018/january/single/123/">Отвори залог</a>
+								</div>
+							</div>
+						</div>				
+					<?php require '../../include/bet/single/122.php';?>	
+						<a href="/tipsters/vasil-marinov/2018/january/single/122/">Отвори залог</a>
+								</div>
+							</div>
+						</div>			
+					<?php require '../../include/bet/single/121.php';?>
+						<a href="/tipsters/vasil-marinov/2018/january/single/121/">Отвори залог</a>
+								</div>
+							</div>
+						</div>					
+					<?php require '../../include/bet/single/120.php';?>
+						<a href="/tipsters/vasil-marinov/2018/january/single/120/">Отвори залог</a>
+								</div>
+							</div>
+						</div>		
 					<?php require '../../include/bet/single/119.php';?>
+						<a href="/tipsters/vasil-marinov/2018/january/single/119/">Отвори залог</a>
+								</div>
+							</div>
+						</div>
 					<?php require '../../include/bet/single/118.php';?>
+						<a href="/tipsters/vasil-marinov/2018/january/single/118/">Отвори залог</a>
+								</div>
+							</div>
+						</div>
 					<?php require '../../include/bet/single/117.php';?>
+						<a href="/tipsters/vasil-marinov/2018/january/single/117/">Отвори залог</a>
+								</div>
+							</div>
+						</div>
 					<?php require '../../include/bet/single/116.php';?>
+						<a href="/tipsters/vasil-marinov/2018/january/single/116/">Отвори залог</a>
+								</div>
+							</div>
+						</div>
 					<?php require '../../include/bet/single/115.php';?>
+						<a href="/tipsters/vasil-marinov/2018/january/single/115/">Отвори залог</a>
+								</div>
+							</div>
+						</div>
 					<?php require '../../include/bet/single/114.php';?>
+						<a href="/tipsters/vasil-marinov/2018/january/single/114/">Отвори залог</a>
+								</div>
+							</div>
+						</div>
 				</section>
 		</section>
 		<sidebar class="others-pages">

@@ -18,7 +18,4 @@
 			<span>Сума на залога: 100 лева</span>
 			<span>10% от банка</span>
 			<span>Статус на залога: <span class="green"><b>Печели (2-1)</b></span></span>
-			<span>Типстър: <a href="/profi/tipster-1/">Васил Маринов</a></span>
-		</div>
-	</div>
-</div>
+			

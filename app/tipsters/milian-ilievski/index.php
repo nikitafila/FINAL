@@ -60,11 +60,11 @@
 							<span>Войд</span>
 						</div>
 						<div class="item-tip">
-							<span>0</span>
+							<span>1</span>
 							<span>Загуби</span>
 						</div>
 						<div class="item-tip">
-							<span>2.0</span>
+							<span>2,27</span>
 							<span>Ср. Коеф</span>
 						</div>
 						<div class="item-tip">
@@ -81,16 +81,16 @@
 					<div class="month-stat">
 						<div class="month">
 							<span>Февруари 2018</span>
-							<span>Залози: 0</span>
+							<span>Залози: 2</span>
 							<span>Печалби: 0</span>
-							<span>Загуби: 0</span>
+							<span>Загуби: 1</span>
 							<span>Войд: 0</span>
 							<span>ROI: 0%</span>
 						</div>
 						<div class="bank-tip">
 							<span>Стартов баланс: 1000 лева</span>
-							<span>Текущт баланс: 1000 лева</span>
-							<span>В играта: 0 лева</span>
+							<span>Текущт баланс: 900 лева</span>
+							<span>В играта: 50 лева</span>
 							<span>Месец: +0%</span>
 						</div>
 					</div>
@@ -120,6 +120,16 @@
 				</section>
 				<section class="stat-history">
 					<?php require '../../include/bet/combi/117.php';?>
+						<a href="/tipsters/milian-ilievski/2018/february/combi/117/">Отвори залог</a>
+								</div>
+							</div>
+						</div>
+						</div>
+					<?php require '../../include/bet/single/135.php';?>
+						<a href="/tipsters/milian-ilievski/2018/february/single/114/">Отвори залог</a>
+								</div>
+							</div>
+						</div>	
 				</section>
 		</section>
 		<sidebar class="others-pages">

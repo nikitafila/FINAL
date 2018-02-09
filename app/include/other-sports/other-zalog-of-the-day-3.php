@@ -1,4 +1,4 @@
-<a href="/tipsters/vasil-marinov/2018/january/114/" class="zalog-item hvr-fade">
+<a href="/tipsters/vasil-marinov/2018/january/single/122/" class="zalog-item hvr-fade">
 	<div class="sport-icon amfoot-icon"></div>
 	<div class="prognoz">
 			<span class="prognoz-title">Американски футбол. Минесота Вайкингс - Ню Орлиънс Сейнтс</span>

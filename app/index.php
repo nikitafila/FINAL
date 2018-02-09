@@ -83,7 +83,6 @@
 				<a href="/basketball/">Баскетбол</a>
 				<a href="/other-sports/">Друго</a>
 			</div>
-			<?php require 'include/football/zalog-of-the-day-3.php';?>
 			<?php require 'include/football/zalog-of-the-day-1.php';?>
 		</section>
 		<section class="bonus-block">

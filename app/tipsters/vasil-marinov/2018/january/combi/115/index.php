@@ -30,7 +30,12 @@
 		<section class="articles-page">
 				<div class="tipster-bet">
 					<?php require '../../../../../../include/bet/combi/115.php';?>
+								<span>Типстър: <a href="/tipsters/vasil-marinov/">Васил Маринов</a></span>
+							</div>
+						</div>
+					</div>
 				</div>
+			</div>
 		</section>
 		<sidebar class="bonus-page">
 			<section class="ad-section-main-block statii other-statii bonus-statii">

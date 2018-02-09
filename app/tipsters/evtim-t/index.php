@@ -43,16 +43,16 @@
 					<div class="profit-tip">
 						<div>
 							<span>Доход</span>
-							<span>+0%</span>
+							<span>+11,04%</span>
 						</div>
 						<div>
 							<span>Баланс</span>
-							<span>1000 BGN</span>
+							<span>1110 BGN</span>
 						</div>
 					</div>
 					<div class="main-stat-tip">
 						<div class="item-tip">
-							<span>0</span>
+							<span>1</span>
 							<span>Печалби</span>
 						</div>
 						<div class="item-tip">
@@ -64,7 +64,7 @@
 							<span>Загуби</span>
 						</div>
 						<div class="item-tip">
-							<span>2.0</span>
+							<span>2.76</span>
 							<span>Ср. Коеф</span>
 						</div>
 						<div class="item-tip">
@@ -81,16 +81,16 @@
 					<div class="month-stat">
 						<div class="month">
 							<span>Февруари 2018</span>
-							<span>Залози: 0</span>
-							<span>Печалби: 0</span>
+							<span>Залози: 1</span>
+							<span>Печалби: 1</span>
 							<span>Загуби: 0</span>
 							<span>Войд: 0</span>
 							<span>ROI: 0%</span>
 						</div>
 						<div class="bank-tip">
 							<span>Стартов баланс: 1000 лева</span>
-							<span>Текущт баланс: 1000 лева</span>
-							<span>В играта: 0 лева</span>
+							<span>Текущт баланс: 1110 лева</span>
+							<span>В играта: 50 лева</span>
 							<span>Месец: +0%</span>
 						</div>
 					</div>
@@ -120,6 +120,16 @@
 				</section>
 				<section class="stat-history">
 					<?php require '../../include/bet/combi/118.php';?>
+						<a href="/tipsters/evtim-t/2018/february/combi/118/">Отвори залог</a>
+								</div>
+							</div>
+						</div>
+						</div>
+					<?php require '../../include/bet/single/136.php';?>
+						<a href="/tipsters/evtim-t/2018/february/single/115/">Отвори залог</a>
+								</div>
+							</div>
+						</div>	
 				</section>
 		</section>
 		<sidebar class="others-pages">
