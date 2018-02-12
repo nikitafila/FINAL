@@ -91,16 +91,17 @@
 		grid-column: 1/3		
 	.rating-lg
 		.rating-bookmaker-row
-			height: 110px
 			border-bottom: 1px solid $border
 			.first, .second, .third, .fourth
 				background-size: 110px
 
 @media screen and (min-width: 1024px)
+	.rating
+		grid-column: 1/2
 	.rating-lg
 		.rating-bookmaker-row
 			grid-template-columns: 1.5fr 1.7fr 0.8fr 3fr 2fr 1fr
-			height: 130px
+			height: 200px
 			.first, .second, .third, .fourth
 				background-size: 140px
 			.bookmaker:nth-child(4)			

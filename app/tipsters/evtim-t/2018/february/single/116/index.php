@@ -13,8 +13,8 @@
 	</script>
 	<meta charset="utf-8">
 
-	<title>Комбиниран залог - Evtim T - 01.02.2018</title>
-	
+	<title>Единичен залог - Ст. Етиен - Марсилия - 09.02.2018</title>
+
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
 	<link rel="stylesheet"  href="/css/main.css"/>
@@ -29,12 +29,11 @@
 	<main>
 		<section class="articles-page">
 				<div class="tipster-bet">
-					<?php require '../../../../../../include/bet/combi/118.php';?>
+					<?php require '../../../../../../include/bet/single/evtim-t/116.php';?>
 						<span>Типстър: <a href="/tipsters/evtim-t/">Evtim T</a></span>
 							</div>
 						</div>
 					</div>
-				</div>
 				</div>
 		</section>
 		<sidebar class="bonus-page">

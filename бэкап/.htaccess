@@ -23,6 +23,9 @@ Options +FollowSymLinks
 RewriteEngine On
 RewriteCond %{HTTP_HOST} ^www.vaskotips.com$ [NC]
 RewriteRule ^(.*)$ https://vaskotips.com/$1 [R=301,L]
+RewriteRule ^profi/(.*)$ /tipsters/$1 [L,R=301]
+RewriteRule ^tipsters/tipster-1/(.*)$ /tipsters/vasil-marinov/$1 [L,R=301]
+
 
 <IfModule mod_headers.c>
   <FilesMatch ".(js|css|xml|gz|html|php)$">
