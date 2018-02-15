@@ -43,16 +43,16 @@
 					<div class="profit-tip">
 						<div>
 							<span>Доход</span>
-							<span>+11,04%</span>
+							<span>+14%</span>
 						</div>
 						<div>
 							<span>Баланс</span>
-							<span>1060 BGN</span>
+							<span>1140 BGN</span>
 						</div>
 					</div>
 					<div class="main-stat-tip">
 						<div class="item-tip">
-							<span>1</span>
+							<span>2</span>
 							<span>Печалби</span>
 						</div>
 						<div class="item-tip">
@@ -64,7 +64,7 @@
 							<span>Загуби</span>
 						</div>
 						<div class="item-tip">
-							<span>2.22</span>
+							<span>2.08</span>
 							<span>Ср. Коеф</span>
 						</div>
 						<div class="item-tip">
@@ -81,17 +81,17 @@
 					<div class="month-stat">
 						<div class="month">
 							<span>Февруари 2018</span>
-							<span>Залози: 2</span>
-							<span>Печалби: 1</span>
+							<span>Залози: 3</span>
+							<span>Печалби: 2</span>
 							<span>Загуби: 1</span>
 							<span>Войд: 0</span>
 							<span>ROI: 0%</span>
 						</div>
 						<div class="bank-tip">
 							<span>Стартов баланс: 1000 лева</span>
-							<span>Текущт баланс: 1060 лева</span>
+							<span>Текущт баланс: 1140 лева</span>
 							<span>В играта: 0 лева</span>
-							<span>Месец: +0%</span>
+							<span>Месец: +14%</span>
 						</div>
 					</div>
 					<!--<section class="year-stat">

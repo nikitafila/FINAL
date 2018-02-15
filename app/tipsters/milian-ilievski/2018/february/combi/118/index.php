@@ -13,8 +13,8 @@
 	</script>
 	<meta charset="utf-8">
 
-	<title>Единичен залог - Тенис - 12.02.2018</title>
-
+	<title>Комбиниран залог - Шампионска Лига - 14.02.2018</title>
+	
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
 	<link rel="stylesheet"  href="/css/main.css"/>
@@ -29,11 +29,12 @@
 	<main>
 		<section class="articles-page">
 				<div class="tipster-bet">
-					<?php require '../../../../../../include/bet/single/evtim-t/116.php';?>
-						<span>Типстър: <a href="/tipsters/evtim-t/">Evtim T</a></span>
+					<?php require '../../../../../../include/bet/combi/milian/118.php';?>
+						<span>Типстър: <a href="/tipsters/milian-ilievski/">Милиан Илиевски</a></span>
 							</div>
 						</div>
 					</div>
+				</div>
 				</div>
 		</section>
 		<sidebar class="bonus-page">

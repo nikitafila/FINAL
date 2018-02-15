@@ -31,7 +31,8 @@
 				<a href="/tennis/">Тенис</a>
 				<a href="/basketball/">Баскетбол</a>
 				<a class="active">Друго</a>
-			</div>	
+			</div>
+			<?php require '../include/other-sports/other-zalog-of-the-day-5.php';?>
 			<?php require '../include/other-sports/other-zalog-of-the-day-1.php';?>
 			<?php require '../include/other-sports/other-zalog-of-the-day-2.php';?>
 			<?php require '../include/other-sports/other-zalog-of-the-day-3.php';?>

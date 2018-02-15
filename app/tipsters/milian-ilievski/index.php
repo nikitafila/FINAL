@@ -129,7 +129,18 @@
 						<a href="/tipsters/milian-ilievski/2018/february/single/114/">Отвори залог</a>
 								</div>
 							</div>
-						</div>	
+						</div>
+					<?php require '../../include/bet/single/milian/115.php';?>
+						<a href="/tipsters/milian-ilievski/2018/february/single/115/">Отвори залог</a>
+								</div>
+							</div>
+						</div>
+					<?php require '../../include/bet/combi/milian/118.php';?>
+						<a href="/tipsters/milian-ilievski/2018/february/combi/118/">Отвори залог</a>
+								</div>
+							</div>
+						</div>
+						</div>
 				</section>
 		</section>
 		<sidebar class="others-pages">

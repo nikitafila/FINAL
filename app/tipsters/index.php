@@ -51,12 +51,12 @@
 			</div>
 			<div class="stat-tip tipok">
 				<a href="/tipsters/evtim-t/">Evtim T</a>
-				<div>Доход: <span class="green">0</span></div>
-				<div>Сметка: <span class="green">1000 лева</span></div>
-				<span>Ср. коеф. 2.0</span>
+				<div>Доход: <span class="green">+14%</span></div>
+				<div>Сметка: <span class="green">1140 лева</span></div>
+				<span>Ср. коеф. 2.08</span>
 				<div class="main-stat-tip">
 					<div class="item-tip">
-						<span>0</span>
+						<span>2</span>
 						<span>Печалби</span>
 					</div>
 					<div class="item-tip">
@@ -64,19 +64,19 @@
 						<span>Войд</span>
 					</div>
 					<div class="item-tip">
-						<span>0</span>
+						<span>1</span>
 						<span>Загуби</span>
 					</div>
 				</div>
 			</div>
 			<div class="stat-tip tipok">
 				<a href="/tipsters/milian-ilievski/">Милиан Илиевски</a>
-				<div>Доход: <span class="green">0</span></div>
-				<div>Сметка: <span class="green">1000 лева</span></div>
-				<span>Ср. коеф. 2.0</span>
+				<div>Доход: <span class="green">4%</span></div>
+				<div>Сметка: <span class="green">1044 лева</span></div>
+				<span>Ср. коеф. 2.22</span>
 				<div class="main-stat-tip">
 					<div class="item-tip">
-						<span>0</span>
+						<span>1</span>
 						<span>Печалби</span>
 					</div>
 					<div class="item-tip">
@@ -84,7 +84,7 @@
 						<span>Войд</span>
 					</div>
 					<div class="item-tip">
-						<span>0</span>
+						<span>1</span>
 						<span>Загуби</span>
 					</div>
 				</div>
