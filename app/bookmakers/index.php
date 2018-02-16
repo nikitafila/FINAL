@@ -20,109 +20,79 @@
 	<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
 	<link rel="stylesheet"  href="/css/main.css"/>
 	<link rel="stylesheet" href="/css/menu.css">
+	<link rel="stylesheet" href="/css/buttons.css">
 	<link rel="stylesheet" href="/css/font-awesome.min.css">
 </head>
 
 <body>
 	<?php require '../include/header.php';?>
 	<main>
-		<section class="rating rating-lg">
-					<div class="rating-bookmaker-row">
-						<div class="bookmaker pic first"></div>
-						<div class="bookmaker">
-							<div class="version mob"></div>
-							<div class="version pay"></div>
-							<div class="version bitc"></div>
-							<div class="version support"></div>
-						</div>
-						<div class="bookmaker pic first-otziv"></div>
-						<div class="bookmaker description">
-							<ul>
-								<li><i class="fa-indent"></i>Теглене: 2-3 дни</li>			
-								<li><i></i>Спортбук: 5 звезди</li>
-								<li><i></i>Верификация: 24 часа</li>
-								<li><i></i>Работи на пазар: 2 години</li>
+		<section class="bgr-tip">
+			<table class="rating">
+				<thead>
+					<tr>
+						<td></td>
+						<td class="plusandminus">+/-</td>
+						<td>Бонус</td>
+						<td class="rating-nomber">Рейтинг</td>
+						<td class="revu">Ревю</td>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td class="booklogo"><img src="/img/icons/bet365-logo.png" alt="bet365"></td>
+						<td class="plusandminus">
+							<ul class="nomargin">
+								<li>Добър продукт</li>
+								<li>Затвори залог</li>
+								<li>Бърз сайт</li>
 							</ul>
-						</div>
-						<div class="bookmaker">
-							<div class="button bonus">100 евро</div> 	
-						</div>
-						<div class="bookmaker">
-							<div class="button revue">Ревю</div> 	
-						</div>
-					</div>
-					<div class="rating-bookmaker-row second">
-						<div class="bookmaker pic second"></div>
-						<div class="bookmaker">
-							<div class="version mob"></div>
-							<div class="version pay"></div>
-							<div class="version bitc"></div>
-							<div class="version support"></div>
-						</div>
-						<div class="bookmaker pic first-otziv"></div>
-						<div class="bookmaker description">
-							<ul>
-								<li><i></i>Теглене: 2-3 дни</li>			
-								<li><i></i>Спортбук: 4 звезди</li>
-								<li><i></i>Верификация: 48 часа</li>
-								<li><i></i>Работи на пазар: 2 години</li>
+						</td>
+						<td>200 лева</td>
+						<td class="rating-nomber">№1</td>
+						<td><button class="bttn-simple bttn-md bttn-success">Ревю</button></td>
+					</tr>
+					<tr>
+						<td class="booklogo"><img src="/img/icons/Betfair-logo.png" alt="betfair"></td>
+						<td class="plusandminus">
+							<ul class="nomargin">
+								<li>Добър продукт</li>
+								<li>Затвори залог</li>
+								<li>Бърз сайт</li>
 							</ul>
-						</div>
-						<div class="bookmaker">
-							<div class="button bonus">100 лева</div> 	
-						</div>
-						<div class="bookmaker">
-							<div class="button revue">Ревю</div> 	
-						</div>
-					</div>
-					<div class="rating-bookmaker-row second">
-						<div class="bookmaker pic third"></div>
-						<div class="bookmaker">
-							<div class="version mob"></div>
-							<div class="version pay"></div>
-							<div class="version bitc"></div>
-							<div class="version support"></div>
-						</div>
-						<div class="bookmaker pic first-otziv"></div>
-						<div class="bookmaker description">
-							<ul>
-								<li><i></i>Теглене: 3-4 дни</li>			
-								<li><i></i>Спортбук: 4 звезди</li>
-								<li><i></i>Верификация: 24 часа</li>
-								<li><i></i>Работи на пазар: 2 години</li>
+						</td>
+						<td>100 лева</td>
+						<td class="rating-nomber">№2</td>
+						<td><button class="bttn-simple bttn-md bttn-success">Ревю</button></td>
+					</tr>
+					<tr>
+						<td class="booklogo"><img src="/img/icons/efbet-logo.png" alt="efbet"></td>
+						<td class="plusandminus">
+							<ul class="nomargin">
+								<li>Добър продукт</li>
+								<li>Затвори залог</li>
+								<li>Бърз сайт</li>
 							</ul>
-						</div>
-						<div class="bookmaker">
-							<div class="button bonus">50 евро</div> 	
-						</div>
-						<div class="bookmaker">
-							<div class="button revue">Ревю</div> 	
-						</div>
-					</div>
-					<div class="rating-bookmaker-row second">
-						<div class="bookmaker pic fourth"></div>
-						<div class="bookmaker">
-							<div class="version mob"></div>
-							<div class="version pay"></div>
-							<div class="version bitc"></div>
-							<div class="version support"></div>
-						</div>
-						<div class="bookmaker pic first-otziv"></div>	
-						<div class="bookmaker description">
-							<ul>
-								<li><i></i>Теглене: 1-5 дни</li>			
-								<li><i></i>Спортбук: 3 звезди</li>
-								<li><i></i>Верификация: 72 часа</li>
-								<li><i></i>Работи на пазар: 1 години</li>
+						</td>
+						<td>100 лева</td>
+						<td class="rating-nomber">№3</td>
+						<td><button class="bttn-simple bttn-md bttn-success">Ревю</button></td>
+					</tr>
+					<tr>
+						<td class="booklogo"><img src="/img/icons/bwin-logo.png" alt="bwin"></td>
+						<td class="plusandminus">
+							<ul class="nomargin">
+								<li>Добър продукт</li>
+								<li>Затвори залог</li>
+								<li>Бърз сайт</li>
 							</ul>
-						</div>
-						<div class="bookmaker">
-							<div class="button bonus">100 евро</div> 	
-						</div>
-						<div class="bookmaker">
-							<div class="button revue">Ревю</div> 	
-						</div>
-					</div>
+						</td>
+						<td>50 лева</td>
+						<td class="rating-nomber">№4</td>
+						<td><button class="bttn-simple bttn-md bttn-success">Ревю</button></td>
+					</tr>
+				</tbody>
+			</table>	
 		</section>
 		<sidebar class="others-pages">
 			<section class="ad-section-main-block statii other-statii">
@@ -135,3 +105,4 @@
 	<script src="/js/menu.js" defer></script>
 </body>
 </html>
+

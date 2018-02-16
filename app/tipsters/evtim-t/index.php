@@ -64,7 +64,7 @@
 							<span>Загуби</span>
 						</div>
 						<div class="item-tip">
-							<span>2.08</span>
+							<span>1.96</span>
 							<span>Ср. Коеф</span>
 						</div>
 						<div class="item-tip">
@@ -90,7 +90,7 @@
 						<div class="bank-tip">
 							<span>Стартов баланс: 1000 лева</span>
 							<span>Текущт баланс: 1140 лева</span>
-							<span>В играта: 0 лева</span>
+							<span>В играта: 60 лева</span>
 							<span>Месец: +14%</span>
 						</div>
 					</div>
@@ -134,7 +134,12 @@
 						<a href="/tipsters/evtim-t/2018/february/single/116/">Отвори залог</a>
 								</div>
 							</div>
-						</div>	
+						</div>
+					<?php require '../../include/bet/single/evtim-t/117.php';?>
+						<a href="/tipsters/evtim-t/2018/february/single/117/">Отвори залог</a>
+								</div>
+							</div>
+						</div>
 				</section>
 		</section>
 		<sidebar class="others-pages">
