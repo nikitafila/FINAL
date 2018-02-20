@@ -1,6 +1,6 @@
 <div class="flag">
 	<a href="#">
-		<img src="/img/bwin-logo.png" alt="">
+		<img src="/img/icons/betfair-logo.png" alt="">
 		<div class="vote">
 			<i></i>
 			<span>43</span>

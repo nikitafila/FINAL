@@ -29,7 +29,7 @@
 	<main>
 		<section class="zalog-main">
 				<div class="zalog-item-title">
-					<a href="/">Футбол</a>
+					<a href="/football/">Футбол</a>
 					<a class="active">Тенис</a>
 					<a href="/basketball/">Баскетбол</a>
 					<a href="/other-sports/">Друго</a>
@@ -38,6 +38,12 @@
 				<?php require '../include/tennis/tennis-zalog-of-the-day-2.php';?>
 				<?php require '../include/tennis/tennis-zalog-of-the-day-1.php';?>
 		</section>
+		<sidebar class="bonus-page">
+			<section class="ad-section-main-block statii bonus-statii">
+				<?php require '../include/add/ad-section-main-block-1.php';?>
+			</section>
+				<?php require '../include/add/ad-section-main-block-2.php';?>
+		</sidebar>
 	</main>
 	<?php require '../include/footer.php';?>
 	<script src="/js/menu.js"></script>

@@ -43,7 +43,7 @@
 						<td class="booklogo"><img src="/img/icons/bet365-logo.png" alt="bet365"></td>
 						<td class="plusandminus">
 							<ul class="nomargin">
-								<li>Добър продукт</li>
+								<li>Лиценз за България</li>
 								<li>Затвори залог</li>
 								<li>Бърз сайт</li>
 							</ul>
@@ -56,7 +56,7 @@
 						<td class="booklogo"><img src="/img/icons/Betfair-logo.png" alt="betfair"></td>
 						<td class="plusandminus">
 							<ul class="nomargin">
-								<li>Добър продукт</li>
+								<li>Лиценз за България</li>
 								<li>Затвори залог</li>
 								<li>Бърз сайт</li>
 							</ul>
@@ -69,7 +69,7 @@
 						<td class="booklogo"><img src="/img/icons/efbet-logo.png" alt="efbet"></td>
 						<td class="plusandminus">
 							<ul class="nomargin">
-								<li>Добър продукт</li>
+								<li>Лиценз за България</li>
 								<li>Затвори залог</li>
 								<li>Бърз сайт</li>
 							</ul>
@@ -82,7 +82,7 @@
 						<td class="booklogo"><img src="/img/icons/bwin-logo.png" alt="bwin"></td>
 						<td class="plusandminus">
 							<ul class="nomargin">
-								<li>Добър продукт</li>
+								<li>Лиценз за България</li>
 								<li>Затвори залог</li>
 								<li>Бърз сайт</li>
 							</ul>

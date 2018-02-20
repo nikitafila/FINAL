@@ -15,7 +15,7 @@
 	</div>
 	<div class="profil">
 		<a href="/tipsters/milian-ilievski/" class="picture">
-			<img src="/img/icons/man.svg">
+			<img src="/img/icons/man-1.svg">
 		</a>
 		<div>
 			<a href="/tipsters/milian-ilievski/" class="name">Милиан Илиевски</a>

@@ -30,12 +30,13 @@
 	<main>
 		<section class="zalog-main">
 			<div class="zalog-item-title">
-				<a href="/football/">Футбол</a>
+				<a href="/">Футбол</a>
 				<a href="/tennis/">Тенис</a>
 				<a class="active">Баскетбол</a>
 				<a href="/other-sports/">Друго</a>
 			</div>
-			<?php require '../include/basketball/basketball-zalog-of-the-day-1.php';?>
+			<?php require '../include/football/zalog-of-the-day-2.php';?>
+			<?php require '../include/football/zalog-of-the-day-1.php';?>
 		</section>
 		<sidebar class="bonus-page">
 			<section class="ad-section-main-block statii bonus-statii">

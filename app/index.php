@@ -30,11 +30,19 @@
 			<div class="logo"></div>	
 			<button class="menu"></button>
 			<ul>
-		      <li><a href="/tipsters/">Типстъри</a></li>
-		      <li><a href="/bookmakers/">Букмейкъри</a></li>
-		      <li><a href="/bonus/">Бонуси</a></li>
-		      <li><a href="/articles/">Статии</a></li>
-		    </ul>
+		  <li><a href="#">Прогнози</a>
+		  	<ul class="submenu">
+		  		<li><a href="/football/">Футбол</a></li>
+		  		<li><a href="/tennis/">Тенис</a></li>
+		  		<li><a href="/basketball/">Баскетбол</a></li>
+		  		<li><a href="/other-sports/">Друго</a></li>
+		  	</ul>
+		  </li>
+	      <li><a href="/tipsters/">Типстъри</a></li>
+	      <li><a href="/bookmakers/">Букмейкъри</a></li>
+	      <li><a href="/bonus/">Бонуси</a></li>
+	      <li><a href="/articles/">Статии</a></li>
+	    </ul>
 		</nav>
 	</header>
 	<main>
@@ -63,7 +71,7 @@
 				</div>
 				<div class="profil">
 					<a href="/tipsters/milian-ilievski/" class="picture">
-						<img src="/img/icons/man.svg">
+						<img src="/img/icons/man-1.svg">
 					</a>
 					<div>
 						<a href="/tipsters/milian-ilievski/" class="name">Милиан Илиевски</a>
@@ -78,7 +86,7 @@
 		</sidebar>
 		<section class="zalog-main">
 			<div class="zalog-item-title">
-				<a class="active">Футбол</a>
+				<a href="/football/">Футбол</a>
 				<a href="/tennis/">Тенис</a>
 				<a href="/basketball/">Баскетбол</a>
 				<a href="/other-sports/">Друго</a>
