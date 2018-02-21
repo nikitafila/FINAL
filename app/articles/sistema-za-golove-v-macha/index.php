@@ -33,7 +33,7 @@
 				
 				<p>Подробен предварителен анализ на пазара за брой голове в мача Реал Мадрид - Барселона, който ще се състои на 23.12.2017.</p>
 
-				<img class="opty" src="/img/articles/zalozi-za-golove-nad-pod.jpg" alt="">
+				<img class="opty" src="/img/articles/sistema-za-golove-v-macha/zalozi-za-golove-nad-pod.jpg" alt="">
 
 				<h2>Анализ на линия (коефициенти)</h2>
 
@@ -51,7 +51,7 @@
 
 				<p>Прецените, колко често отборът играе "Под" и какъв е средният брой голове в срещите с участието му. В допълнение към общата статистика е необходимо да се вземат предвид резултатите за домакини (домакински срещи) и гости (мачове, които се играят на терена на противника).</p>
 
-				<img class="opty" src="/img/articles/golove-nad-pod-strategiya.jpg" alt="">
+				<img class="opty" src="/img/articles/sistema-za-golove-v-macha/golove-nad-pod-strategiya.jpg" alt="">
 				
 				<p>Това, което видим сега, ни дава сигнал да залагаме ПОД 3.5 гола в мача.</p>
 				

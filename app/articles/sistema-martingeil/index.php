@@ -34,7 +34,7 @@
 
 				<p>Смисъла на стратегията е да удвояваш сумата на залога след всяка загуба, за да върнеш изгубените парите и все пак да получиш печалбата.</p>
 
-				<img class="opty" src="/img/articles/martingeil-sistema.jpg" alt="Система-на-залагания-мартингейл">
+				<img class="opty" src="/img/articles/sistema-martingeil/martingeil-sistema.jpg" alt="Система-на-залагания-мартингейл">
 					<ul>
 						<li><a href="#realen-martingeil">Реално ли да печелите от стратегия Мартингейл?</a></li>
 						<li><a href="#martingeil-sport">Удвояване и спортни залози</a></li>

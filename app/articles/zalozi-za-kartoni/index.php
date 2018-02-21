@@ -29,7 +29,7 @@
 		<section class="bgr-tip">
 			<article>
 				<h1>Залози за жълти и червени картони</h1>
-				<img class="opty" src="/img/articles/yellow-card-stratigii.jpg" alt="">
+				<img class="opty" src="/img/articles/zalozi-za-kartoni/yellow-card-stratigii.jpg" alt="">
 					<ul>
 						<li><a href="#prv">Играчът от кой отбор първи ще бъде предупреден с жълт картон?</a>
 						<li><a href="#nad">Общо НАД/ПОД за картони</a>
