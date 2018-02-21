@@ -57,8 +57,8 @@
 						<td class="plusandminus">
 							<ul class="nomargin">
 								<li>Лиценз за България</li>
-								<li>Затвори залог</li>
-								<li>Бърз сайт</li>
+								<li>Качествена поддръжка</li>
+								<li>Голям брой разплащания</li>
 							</ul>
 						</td>
 						<td>100 лева</td>
@@ -70,8 +70,8 @@
 						<td class="plusandminus">
 							<ul class="nomargin">
 								<li>Лиценз за България</li>
-								<li>Затвори залог</li>
-								<li>Бърз сайт</li>
+								<li>Добри коефициенти</li>
+								<li>Бърза верификация</li>
 							</ul>
 						</td>
 						<td>100 лева</td>
@@ -83,7 +83,7 @@
 						<td class="plusandminus">
 							<ul class="nomargin">
 								<li>Лиценз за България</li>
-								<li>Затвори залог</li>
+								<li>Най-добър продукт</li>
 								<li>Бърз сайт</li>
 							</ul>
 						</td>
