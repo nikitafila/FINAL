@@ -1,10 +1,10 @@
-<a href="/tipsters/vasil-marinov/2018/january/114/" class="zalog-item hvr-fade">
+<a href="/tipsters/evtim-t/2018/february/single/118/" class="zalog-item hvr-fade">
 	<div class="sport-icon"></div>
 	<div class="prognoz">
-		<span class="prognoz-title">Севиля - Атлетико</span>
-		<span class="time-prognoz">22.01. 21:30</span>
+		<span class="prognoz-title">Арсенал - Йостерсунд</span>
+		<span class="time-prognoz">22.02.2018 - 22:05</span>
 	</div>
 	<div class="kef-prognoz">
-		<span class="green">КФ. 1.74</span>
+		<span>КФ. 2.03</span>
 	</div>
 </a>

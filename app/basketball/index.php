@@ -36,6 +36,7 @@
 				<a href="/other-sports/">Друго</a>
 			</div>
 			<?php require '../include/basketball/basketball-zalog-of-the-day-1.php';?>
+			<?php require '../include/basketball/basketball-zalog-of-the-day-2.php';?>
 		</section>
 		<sidebar class="bonus-page">
 			<section class="ad-section-main-block statii bonus-statii">

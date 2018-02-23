@@ -140,6 +140,11 @@
 								</div>
 							</div>
 						</div>
+					<?php require '../../include/bet/single/evtim-t/118.php';?>
+						<a href="/tipsters/evtim-t/2018/february/single/118/">Отвори залог</a>
+								</div>
+							</div>
+						</div>
 				</section>
 		</section>
 		<sidebar class="others-pages">

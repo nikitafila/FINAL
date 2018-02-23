@@ -4,5 +4,5 @@
 			<span class="prognoz-title">Американски футбол. Тенеси - Ню Инглънд</span>
 			<span class="time-prognoz">03:20</span>
 	</div>
-	<div class="kef-prognoz"><b>Над 47,5</b><br><span class="green">1.85</span></div>
+	<div class="kef-prognoz"><b>Над 47,5</b><br>1.85</div>
 </a>
