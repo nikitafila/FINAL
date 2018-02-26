@@ -141,6 +141,11 @@
 							</div>
 						</div>
 						</div>
+					<?php require '../../include/bet/single/milian/116.php';?>
+						<a href="/tipsters/milian-ilievski/2018/february/single/116/">Отвори залог</a>
+								</div>
+							</div>
+						</div>
 				</section>
 		</section>
 		<sidebar class="others-pages">

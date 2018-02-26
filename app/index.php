@@ -13,7 +13,7 @@
 	</script>
 	<meta charset="utf-8">
 
-	<title>Футболни прогнози за днес - VaskoTips.com</title>
+	<title>Сигурни прогнози за днес - VaskoTips.com</title>
 	<meta name="description" content="Ежедневни спортни прогнози на футбол, тенис, баскетбол и други видове спорове. Мачове с добра успеваемост, ROI, детайлна статистика, математически анализи.">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">

@@ -43,20 +43,20 @@
 					<div class="profit-tip">
 						<div>
 							<span>Доход</span>
-							<span>+11.62%</span>
+							<span>+11.42%</span>
 						</div>
 						<div>
 							<span>Баланс</span>
-							<span>+1162 BGN</span>
+							<span>+1142 BGN</span>
 						</div>
 					</div>
 					<div class="main-stat-tip">
 						<div class="item-tip">
-							<span>12</span>
+							<span>13</span>
 							<span>Печалби</span>
 						</div>
 						<div class="item-tip">
-							<span>0</span>
+							<span>1</span>
 							<span>Войд</span>
 						</div>
 						<div class="item-tip">
@@ -74,22 +74,22 @@
 					</div>
 					<div class="main-stat-tip">
 						<h5>Последни 3 месеца</h5>
-						<div class="item-tip month-good">+11.62%</div>
+						<div class="item-tip month-good">+11.42%</div>
 						<div class="item-tip month-bad">0%</div>
 						<div class="item-tip month-bad">0%</div>
 					</div>
 					<div class="month-stat">
 						<div class="month">
 							<span>Февруари 2018</span>
-							<span>Залози: 0</span>
-							<span>Печалби: 0</span>
+							<span>Залози: 2</span>
+							<span>Печалби: 1</span>
 							<span>Загуби: 0</span>
-							<span>Войд: 0</span>
+							<span>Войд: 1</span>
 							<span>ROI: 0%</span>
 						</div>
 						<div class="bank-tip">
 							<span>Стартов баланс: 1000 лева</span>
-							<span>Текущт баланс: 1000 лева</span>
+							<span>Текущт баланс: 980 лева</span>
 							<span>В играта: 0 лева</span>
 							<span>Месец: +0%</span>
 						</div>

@@ -13,8 +13,8 @@
 	</script>
 	<meta charset="utf-8">
 
-	<title>Сигурни баскетболни прогнози за днес</title>
-	<meta name="description" content="Всички прогнози за баскетбол. Ежедневни залози за NBA, Евролига, българското първество.">
+	<title>Футболни прогнози - статистика, ТОП шампионати</title>
+	<meta name="description" content="Сигурни футболни прогнози за днес. Статистика за печалби и загуби, ROI, ">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">

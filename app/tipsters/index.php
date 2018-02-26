@@ -31,8 +31,8 @@
 			<h1>Най-добрите типстъри</h1>
 			<div class="stat-tip tipok">
 				<a href="/tipsters/vasil-marinov/">Васил Маринов</a>
-				<div>Доход: <span class="green">+11.62</span></div>
-				<div>Сметка: <span class="green">+1162 лева</span></div>
+				<div>Доход: <span class="green">+10.84</span></div>
+				<div>Сметка: <span class="green">+1142 лева</span></div>
 				<span>Ср. коеф. 1.89</span>
 				<div class="main-stat-tip">
 					<div class="item-tip">
@@ -51,9 +51,29 @@
 			</div>
 			<div class="stat-tip tipok">
 				<a href="/tipsters/evtim-t/">Evtim T</a>
-				<div>Доход: <span class="green">+14%</span></div>
-				<div>Сметка: <span class="green">1140 лева</span></div>
-				<span>Ср. коеф. 2.08</span>
+				<div>Доход: <span class="green">+10.84%</span></div>
+				<div>Сметка: <span class="green">1108,4 лева</span></div>
+				<span>Ср. коеф. 1.97</span>
+				<div class="main-stat-tip">
+					<div class="item-tip">
+						<span>3</span>
+						<span>Печалби</span>
+					</div>
+					<div class="item-tip">
+						<span>0</span>
+						<span>Войд</span>
+					</div>
+					<div class="item-tip">
+						<span>2</span>
+						<span>Загуби</span>
+					</div>
+				</div>
+			</div>
+			<div class="stat-tip tipok">
+				<a href="/tipsters/milian-ilievski/">Милиан Илиевски</a>
+				<div>Доход: <span class="green">0.05%</span></div>
+				<div>Сметка: <span class="green">1000,5 лева</span></div>
+				<span>Ср. коеф. 2.40</span>
 				<div class="main-stat-tip">
 					<div class="item-tip">
 						<span>2</span>
@@ -64,27 +84,7 @@
 						<span>Войд</span>
 					</div>
 					<div class="item-tip">
-						<span>1</span>
-						<span>Загуби</span>
-					</div>
-				</div>
-			</div>
-			<div class="stat-tip tipok">
-				<a href="/tipsters/milian-ilievski/">Милиан Илиевски</a>
-				<div>Доход: <span class="green">4%</span></div>
-				<div>Сметка: <span class="green">1044 лева</span></div>
-				<span>Ср. коеф. 2.22</span>
-				<div class="main-stat-tip">
-					<div class="item-tip">
-						<span>1</span>
-						<span>Печалби</span>
-					</div>
-					<div class="item-tip">
 						<span>0</span>
-						<span>Войд</span>
-					</div>
-					<div class="item-tip">
-						<span>1</span>
 						<span>Загуби</span>
 					</div>
 				</div>
