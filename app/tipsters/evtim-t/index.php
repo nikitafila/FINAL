@@ -43,16 +43,16 @@
 					<div class="profit-tip">
 						<div>
 							<span>Доход</span>
-							<span>+14%</span>
+							<span>+10,84%</span>
 						</div>
 						<div>
 							<span>Баланс</span>
-							<span>1140 BGN</span>
+							<span>1108,4 BGN</span>
 						</div>
 					</div>
 					<div class="main-stat-tip">
 						<div class="item-tip">
-							<span>2</span>
+							<span>3</span>
 							<span>Печалби</span>
 						</div>
 						<div class="item-tip">
@@ -60,41 +60,36 @@
 							<span>Войд</span>
 						</div>
 						<div class="item-tip">
-							<span>1</span>
+							<span>2</span>
 							<span>Загуби</span>
 						</div>
 						<div class="item-tip">
-							<span>1.96</span>
+							<span>1.97</span>
 							<span>Ср. Коеф</span>
-						</div>
-						<div class="item-tip">
-							<span>0%</span>
-							<span>ROI</span>
 						</div>
 					</div>
 					<div class="main-stat-tip">
 						<h5>Последни 3 месеца</h5>
-						<div class="item-tip month-good">0%</div>
+						<div class="item-tip month-good">10,84%</div>
 						<div class="item-tip month-bad">0%</div>
 						<div class="item-tip month-bad">0%</div>
 					</div>
 					<div class="month-stat">
 						<div class="month">
-							<span>Февруари 2018</span>
-							<span>Залози: 3</span>
-							<span>Печалби: 2</span>
-							<span>Загуби: 1</span>
+							<span>Март 2018</span>
+							<span>Залози: 1</span>
+							<span>Печалби: 0</span>
+							<span>Загуби: 0</span>
 							<span>Войд: 0</span>
-							<span>ROI: 0%</span>
 						</div>
 						<div class="bank-tip">
 							<span>Стартов баланс: 1000 лева</span>
-							<span>Текущт баланс: 1140 лева</span>
-							<span>В играта: 60 лева</span>
-							<span>Месец: +14%</span>
+							<span>Текущт баланс: 950 лева</span>
+							<span>В играта: 50 лева</span>
+							<span>Месец: +0%</span>
 						</div>
 					</div>
-					<!--<section class="year-stat">
+					<section class="year-stat">
 							<div class="profit-tip" id="year">
 								<span>Статистиката за всеки месец <i class="fa fa-arrow-down" aria-hidden="true"></i>
 								</span>
@@ -102,23 +97,27 @@
 							<div class="full-year-stat">
 								<div class="month-stat">
 									<div class="month">
-										<span>Януари 2017</span>
-										<span>Залози: 23</span>
-										<span>Печалби: 12</span>
-										<span>Загуби: 11</span>
+										<span>Февруари 2018</span>
+										<span>Залози: 5</span>
+										<span>Печалби: 3</span>
+										<span>Загуби: 2</span>
 										<span>Войд: 0</span>
-										<span>ROI: 11.2%</span>
 									</div>
 									<div class="bank-tip">
 										<span>Стартов баланс: 1000 лева</span>
-										<span>Краен баланс: 1162 лева</span>
-										<span>Месец: +11.62%</span>
+										<span>Краен баланс: 1108,4 лева</span>
+										<span>Месец: +10,84%</span>
 									</div>
 								</div>
 							</div>
-					</section>-->
+					</section>
 				</section>
 				<section class="stat-history">
+					<?php require '../../include/bet/single/evtim-t/119.php';?>
+						<a href="/tipsters/evtim-t/2018/february/single/119/">Отвори залог</a>
+								</div>
+							</div>
+						</div>
 					<?php require '../../include/bet/combi/118.php';?>
 						<a href="/tipsters/evtim-t/2018/february/combi/118/">Отвори залог</a>
 								</div>

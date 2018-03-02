@@ -43,16 +43,16 @@
 					<div class="profit-tip">
 						<div>
 							<span>Доход</span>
-							<span>17%</span>
+							<span>+5,61%</span>
 						</div>
 						<div>
 							<span>Баланс</span>
-							<span>1170 BGN</span>
+							<span>+1056,1 BGN</span>
 						</div>
 					</div>
 					<div class="main-stat-tip">
 						<div class="item-tip">
-							<span>2</span>
+							<span>4</span>
 							<span>Печалби</span>
 						</div>
 						<div class="item-tip">
@@ -60,41 +60,36 @@
 							<span>Войд</span>
 						</div>
 						<div class="item-tip">
-							<span>1</span>
+							<span>2</span>
 							<span>Загуби</span>
 						</div>
 						<div class="item-tip">
-							<span>2,39</span>
+							<span>2,21</span>
 							<span>Ср. Коеф</span>
-						</div>
-						<div class="item-tip">
-							<span>0%</span>
-							<span>ROI</span>
 						</div>
 					</div>
 					<div class="main-stat-tip">
 						<h5>Последни 3 месеца</h5>
-						<div class="item-tip month-good">0%</div>
+						<div class="item-tip month-good">+5,61%</div>
 						<div class="item-tip month-bad">0%</div>
 						<div class="item-tip month-bad">0%</div>
 					</div>
 					<div class="month-stat">
 						<div class="month">
-							<span>Февруари 2018</span>
-							<span>Залози: 4</span>
-							<span>Печалби: 2</span>
-							<span>Загуби: 1</span>
+							<span>Март 2018</span>
+							<span>Залози: 1</span>
+							<span>Печалби: 1</span>
+							<span>Загуби: 0</span>
 							<span>Войд: 0</span>
-							<span>ROI: 0%</span>
 						</div>
 						<div class="bank-tip">
 							<span>Стартов баланс: 1000 лева</span>
-							<span>Текущт баланс: 1170 лева</span>
-							<span>В играта: 30 лева</span>
-							<span>Месец: +17%</span>
+							<span>Текущт баланс: 1040,5 лева</span>
+							<span>В играта: 0 лева</span>
+							<span>Месец: +4,05%</span>
 						</div>
 					</div>
-					<!--<section class="year-stat">
+					<section class="year-stat">
 							<div class="profit-tip" id="year">
 								<span>Статистиката за всеки месец <i class="fa fa-arrow-down" aria-hidden="true"></i>
 								</span>
@@ -102,49 +97,69 @@
 							<div class="full-year-stat">
 								<div class="month-stat">
 									<div class="month">
-										<span>Януари 2017</span>
-										<span>Залози: 23</span>
-										<span>Печалби: 12</span>
-										<span>Загуби: 11</span>
+										<span>Февруари 2018</span>
+										<span>Залози: 7</span>
+										<span>Печалби: 4</span>
+										<span>Загуби: 2</span>
 										<span>Войд: 0</span>
-										<span>ROI: 11.2%</span>
 									</div>
 									<div class="bank-tip">
 										<span>Стартов баланс: 1000 лева</span>
-										<span>Краен баланс: 1162 лева</span>
-										<span>Месец: +11.62%</span>
+										<span>Краен баланс: 1056,1 лева</span>
+										<span>Месец: +5,61%</span>
 									</div>
 								</div>
 							</div>
-					</section>-->
+					</section>
 				</section>
 				<section class="stat-history">
-					<?php require '../../include/bet/combi/117.php';?>
-						<a href="/tipsters/milian-ilievski/2018/february/combi/117/">Отвори залог</a>
+					<?php require '../../include/bet/single/milian/119.php';?>
+						<a href="/tipsters/milian-ilievski/2018/february/single/119/">Отвори залог</a>
 								</div>
 							</div>
 						</div>
-						</div>
-					<?php require '../../include/bet/single/135.php';?>
-						<a href="/tipsters/milian-ilievski/2018/february/single/114/">Отвори залог</a>
+					<?php require '../../include/bet/single/milian/118.php';?>
+						<a href="/tipsters/milian-ilievski/2018/february/single/118/">Отвори залог</a>
 								</div>
 							</div>
 						</div>
-					<?php require '../../include/bet/single/milian/115.php';?>
-						<a href="/tipsters/milian-ilievski/2018/february/single/115/">Отвори залог</a>
+					<?php require '../../include/bet/single/milian/117.php';?>
+						<a href="/tipsters/milian-ilievski/2018/february/single/117/">Отвори залог</a>
 								</div>
 							</div>
 						</div>
+					
+					<?php require '../../include/bet/single/milian/116.php';?>
+						<a href="/tipsters/milian-ilievski/2018/february/single/116/">Отвори залог</a>
+								</div>
+							</div>
+						</div>
+
 					<?php require '../../include/bet/combi/milian/118.php';?>
 						<a href="/tipsters/milian-ilievski/2018/february/combi/118/">Отвори залог</a>
 								</div>
 							</div>
 						</div>
 						</div>
-					<?php require '../../include/bet/single/milian/116.php';?>
-						<a href="/tipsters/milian-ilievski/2018/february/single/116/">Отвори залог</a>
+
+					
+					<?php require '../../include/bet/single/milian/115.php';?>
+						<a href="/tipsters/milian-ilievski/2018/february/single/115/">Отвори залог</a>
 								</div>
 							</div>
+						</div>
+				
+					
+					<?php require '../../include/bet/single/135.php';?>
+						<a href="/tipsters/milian-ilievski/2018/february/single/114/">Отвори залог</a>
+								</div>
+							</div>
+						</div>
+					<?php require '../../include/bet/combi/117.php';?>
+						<a href="/tipsters/milian-ilievski/2018/february/combi/117/">Отвори залог</a>
+								</div>
+							</div>
+						</div>
 						</div>
 				</section>
 		</section>

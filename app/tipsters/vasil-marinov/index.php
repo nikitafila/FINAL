@@ -43,11 +43,11 @@
 					<div class="profit-tip">
 						<div>
 							<span>Доход</span>
-							<span>+11.42%</span>
+							<span>+19.2%</span>
 						</div>
 						<div>
 							<span>Баланс</span>
-							<span>+1142 BGN</span>
+							<span>+1192 BGN</span>
 						</div>
 					</div>
 					<div class="main-stat-tip">
@@ -67,29 +67,24 @@
 							<span>1.86</span>
 							<span>Ср. Коеф</span>
 						</div>
-						<div class="item-tip">
-							<span>11.2%</span>
-							<span>ROI</span>
-						</div>
 					</div>
 					<div class="main-stat-tip">
 						<h5>Последни 3 месеца</h5>
-						<div class="item-tip month-good">+11.42%</div>
-						<div class="item-tip month-bad">0%</div>
+						<div class="item-tip month-good">+3%</div>
+						<div class="item-tip month-good">+16,2%</div>
 						<div class="item-tip month-bad">0%</div>
 					</div>
 					<div class="month-stat">
 						<div class="month">
-							<span>Февруари 2018</span>
-							<span>Залози: 2</span>
-							<span>Печалби: 1</span>
+							<span>Март 2018</span>
+							<span>Залози: 0</span>
+							<span>Печалби: 0</span>
 							<span>Загуби: 0</span>
-							<span>Войд: 1</span>
-							<span>ROI: 0%</span>
+							<span>Войд: 0</span>
 						</div>
 						<div class="bank-tip">
 							<span>Стартов баланс: 1000 лева</span>
-							<span>Текущт баланс: 980 лева</span>
+							<span>Текущт баланс: 1000 лева</span>
 							<span>В играта: 0 лева</span>
 							<span>Месец: +0%</span>
 						</div>
@@ -102,17 +97,30 @@
 							<div class="full-year-stat">
 								<div class="month-stat">
 									<div class="month">
-										<span>Януари 2017</span>
+										<span>Февруари 2018</span>
+										<span>Залози: 2</span>
+										<span>Печалби: 1</span>
+										<span>Загуби: 0</span>
+										<span>Войд: 1</span>
+									</div>
+									<div class="bank-tip">
+										<span>Стартов баланс: 1000 лева</span>
+										<span>Краен баланс: 1030 лева</span>
+										<span>Месец: +3%</span>
+									</div>
+								</div>
+								<div class="month-stat">
+									<div class="month">
+										<span>Януари 2018</span>
 										<span>Залози: 23</span>
 										<span>Печалби: 12</span>
 										<span>Загуби: 11</span>
 										<span>Войд: 0</span>
-										<span>ROI: 11.2%</span>
 									</div>
 									<div class="bank-tip">
 										<span>Стартов баланс: 1000 лева</span>
 										<span>Краен баланс: 1162 лева</span>
-										<span>Месец: +11.62%</span>
+										<span>Месец: +16,2%</span>
 									</div>
 								</div>
 							</div>

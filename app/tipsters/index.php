@@ -31,16 +31,16 @@
 			<h1>Най-добрите типстъри</h1>
 			<div class="stat-tip tipok">
 				<a href="/tipsters/vasil-marinov/">Васил Маринов</a>
-				<div>Доход: <span class="green">+10.84</span></div>
-				<div>Сметка: <span class="green">+1142 лева</span></div>
+				<div>Доход: <span class="green">+19.2</span></div>
+				<div>Сметка: <span class="green">+1192 лева</span></div>
 				<span>Ср. коеф. 1.89</span>
 				<div class="main-stat-tip">
 					<div class="item-tip">
-						<span>12</span>
+						<span>13</span>
 						<span>Печалби</span>
 					</div>
 					<div class="item-tip">
-						<span>0</span>
+						<span>1</span>
 						<span>Войд</span>
 					</div>
 					<div class="item-tip">
@@ -71,12 +71,12 @@
 			</div>
 			<div class="stat-tip tipok">
 				<a href="/tipsters/milian-ilievski/">Милиан Илиевски</a>
-				<div>Доход: <span class="green">0.05%</span></div>
-				<div>Сметка: <span class="green">1000,5 лева</span></div>
-				<span>Ср. коеф. 2.40</span>
+				<div>Доход: <span class="green">+5,61%</span></div>
+				<div>Сметка: <span class="green">1056,1 лева</span></div>
+				<span>Ср. коеф. 2.21</span>
 				<div class="main-stat-tip">
 					<div class="item-tip">
-						<span>2</span>
+						<span>4</span>
 						<span>Печалби</span>
 					</div>
 					<div class="item-tip">
@@ -84,7 +84,7 @@
 						<span>Войд</span>
 					</div>
 					<div class="item-tip">
-						<span>0</span>
+						<span>2</span>
 						<span>Загуби</span>
 					</div>
 				</div>

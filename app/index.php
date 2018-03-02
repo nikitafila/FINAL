@@ -91,10 +91,10 @@
 				<a href="/basketball/">Баскетбол</a>
 				<a href="/other-sports/">Друго</a>
 			</div>
-			<?php require 'include/football/zalog-of-the-day-4.php';?>
-			<?php require 'include/football/zalog-of-the-day-3.php';?>
-			<?php require 'include/football/zalog-of-the-day-2.php';?>
-			<?php require 'include/football/zalog-of-the-day-1.php';?>
+			<?php require 'include/football/zalog-of-the-day-8.php';?>
+			<?php require 'include/football/zalog-of-the-day-7.php';?>
+			<?php require 'include/football/zalog-of-the-day-6.php';?>
+			<?php require 'include/football/zalog-of-the-day-5.php';?>
 		</section>
 		<section class="bonus-block">
 			<div class="bonus-row">
