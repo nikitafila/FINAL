@@ -1,0 +1,97 @@
+.logo {
+  height: 46px;
+  width: 100%;
+  background-color: #FFBE00;
+  border-bottom: 1px solid Wheat;
+  background-image: url(/img/logo.png);
+  background-repeat: no-repeat;
+}
+button.menu {
+  height: 46px;
+  margin-top: -46px;
+  width: 50px;
+  float: right;
+}
+
+button.menu::before {
+  content: '\2261';
+  font-size: 2em;
+}
+button.menu[aria-expanded="true"]::before {
+  content: '×';
+}
+nav ul {
+  margin: 0;
+  padding: 0;
+  display: none;
+}
+nav ul li {
+  text-align: left;
+  background-color: #FFBE00;
+  border-bottom: 1px solid Wheat;
+}
+nav ul li a {
+  padding: .7em 1.5em;
+  color: LemonChiffon;
+  display: block;
+  font-weight: bold;
+}
+nav ul li a:hover {
+  background-color: Chocolate;
+}
+nav ul li a:focus {
+  outline: thin dotted;
+  outline-offset: -2px;
+}
+
+ul {
+    display: block;
+}
+ul.submenu {
+    display: none;
+    width: 100%;
+    padding-left: 20px;
+}
+ul.submenu > li {
+    display: block;
+}
+ul > li:hover > ul.submenu {
+  display: block;
+  z-index: 1;
+}
+
+
+[aria-hidden="false"] {
+  display: block;
+}
+@media screen and (min-width: 768px) {
+  button.menu {
+    display: none;
+  }
+
+  nav ul {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-end;
+    margin-top: -46px;
+    float: right;
+  }
+  nav ul li {
+    text-align: center;
+    border-left: 1px dotted Wheat;
+    border-bottom: none;
+  }
+  .logo {
+    border-bottom: none;
+  }
+  ul.submenu {
+    display: none;
+    position: absolute;
+    top: 90px;
+    width: inherit;
+    padding-left: 0px;
+  }
+}
+  
+
+
