@@ -1,4 +1,4 @@
-<a href="/tipsters/evtim-t/2018/february/single/119/" class="zalog-item hvr-fade">
+<a href="/tipsters/evtim-t/2018/march/single/119/" class="zalog-item hvr-fade">
 	<div class="sport-icon"></div>
 	<div class="prognoz">
 		<span class="prognoz-title">Монако - Бордо</span>
