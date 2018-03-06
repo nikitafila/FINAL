@@ -113,6 +113,16 @@
 					</section>
 				</section>
 				<section class="stat-history">
+					<?php require '../../include/bet/single/milian/121.php';?>
+						<a href="/tipsters/milian-ilievski/2018/march/single/121/">Отвори залог</a>
+								</div>
+							</div>
+						</div>
+					<?php require '../../include/bet/single/milian/120.php';?>
+						<a href="/tipsters/milian-ilievski/2018/march/single/120/">Отвори залог</a>
+								</div>
+							</div>
+						</div>
 					<?php require '../../include/bet/single/milian/119.php';?>
 						<a href="/tipsters/milian-ilievski/2018/march/single/119/">Отвори залог</a>
 								</div>

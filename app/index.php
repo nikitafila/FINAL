@@ -91,6 +91,7 @@
 				<a href="/basketball/">Баскетбол</a>
 				<a href="/other-sports/">Друго</a>
 			</div>
+			<?php require 'include/football/zalog-of-the-day-10.php';?>
 			<?php require 'include/football/zalog-of-the-day-9.php';?>
 			<?php require 'include/football/zalog-of-the-day-8.php';?>
 			<?php require 'include/football/zalog-of-the-day-7.php';?>
