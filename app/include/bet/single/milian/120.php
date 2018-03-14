@@ -11,11 +11,11 @@
 				<span class="small-text">06.03.2018 - 21:45</span>
 				<span>Прогноза: <b>Да се класира - Реал</b></span>
 				<span>КФ: <b>1.30</b></span>
-				<i class="fa fa-check-circle-o fa-2x" aria-hidden="true"></i>
+				<i class="fa fa-check-circle-o greens fa-2x" aria-hidden="true"></i>
 			</div>
 		</div>
 		<div class="single-match-result">
 			<span>Сума на залога: 300 лева</span>
 			<span>30% от банка</span>
-			<span>Статус на залога:</span>
+			<span>Статус на залога: <span class="green">Печели</span></span>
 			

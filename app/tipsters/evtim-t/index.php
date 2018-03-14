@@ -113,6 +113,17 @@
 					</section>
 				</section>
 				<section class="stat-history">
+					<?php require '../../include/bet/single/evtim-t/122.php';?>
+						<a href="/tipsters/evtim-t/2018/march/single/122/">Отвори залог</a>
+								</div>
+							</div>
+						</div>
+					<?php require '../../include/bet/combi/evtim-t/119.php';?>
+						<a href="/tipsters/evtim-t/2018/march/combi/119/">Отвори залог</a>
+								</div>
+							</div>
+						</div>
+						</div>
 					<?php require '../../include/bet/single/evtim-t/121.php';?>
 						<a href="/tipsters/evtim-t/2018/march/single/121/">Отвори залог</a>
 								</div>
