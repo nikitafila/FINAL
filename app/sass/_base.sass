@@ -25,12 +25,35 @@ ul
 	list-style: none
 
 h1
-	font-size: 1.5em
 	text-align: center
+	margin: 0
+table
+	width: 100%
+	background-color: transparent
+	border-collapse: collapse
+	border-spacing: 0
+	thead
+		th
+			vertical-align: bottom
+			border-bottom: 2px solid #e9ecef
+			text-align: left
+
+table
+	td, th
+		padding: .75rem
+		vertical-align: top
+		border-top: 1px solid #e9ecef
+.table-striped
+	tbody
+		tr:nth-of-type(odd)
+			background-color: rgba(0,0,0,.05)
+
+.thead-inverse th
+	color: #fff
+	background-color: #212529
 
 .text-center
 	text-align: center
-
 .button
 	display: grid
 	border: none

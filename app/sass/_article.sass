@@ -14,7 +14,6 @@ article
 	&:focus
 		width: auto
 		z-index: 100
-
 .pic-right
 	display: block
 	margin: 0 auto
@@ -28,6 +27,37 @@ article
 	display: block
 	max-width: 100%
 	height: auto
+.list
+	margin: .5rem 0 1rem 0
+	border: 1px solid #e0e0e0
+	border-radius: 2px
+	padding-left: 0
+.list-item
+	line-height: 1.5rem
+	padding: 10px 20px
+	border-bottom: 1px solid #e0e0e0
+.list .list-item:last-child
+	border-bottom: none
+.card
+	display: flex
+	flex-direction: column
+	word-wrap: break-word
+	background-clip: border-box
+	margin: 0 -20px
+.card-header
+	margin: 0 -20px //для h1 на всю ширину статьи
+	padding: .75rem 1.25rem
+	margin-bottom: 0
+	background-color: rgba(0,0,0,.03)
+	border-bottom: 1px solid rgba(0,0,0,.125)
+.card-body
+	border: 1px solid #17a2b8
+	border-radius: .25rem
+	flex: 1 1 auto
+	padding: 1.25rem
+	margin: 20px
+.card-title
+	margin-bottom: .75rem
 
 @media screen and (min-width: 768px)
 	.articles-page
