@@ -40,16 +40,21 @@
 					</li>
 					<li>
 						<i class="fa fa-file-text" aria-hidden="true"></i>
+						<a href="/articles/sistema-antimartingeil/">Антимартингейл</a>
+					</li>
+					<li>
+						<i class="fa fa-file-text" aria-hidden="true"></i>
+						<a href="/articles/sistema-fiksiran-procent/">Фиксиран процент</a>
+					</li>
+					<li>
+						<i class="fa fa-file-text" aria-hidden="true"></i>
 						<a href="/articles/zalozi-za-kartoni/">Залагане за брой картони в мача</a>
 					</li>
 					<li>
 						<i class="fa fa-file-text" aria-hidden="true"></i>
 						<a href="/articles/sistema-za-golove-v-macha/">Как да залагаме на голове в мача</a>
 					</li>
-					<li>
-						<i class="fa fa-file-text" aria-hidden="true"></i>
-						<a href="/articles/sistema-antimartingeil/">Антимартингейл</a>
-					</li>
+					
 				</ul>
 			</div>
 		</section>
