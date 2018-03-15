@@ -1329,6 +1329,10 @@ article {
 .list .list-item:last-child {
   border-bottom: none; }
 
+.list-item-title {
+  color: #0c5460;
+  background-color: #bee5eb; }
+
 .card {
   display: -webkit-box;
   display: -webkit-flex;
