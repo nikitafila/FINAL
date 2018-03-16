@@ -11,6 +11,91 @@
 	width: 100px
 .revu
 	min-width: 80px
+.bet-description-card
+	display: flex
+	flex-direction: column
+	margin: 20px 0
+	justify-content: space-around
+	align-items: stretch
+.bet-description-card-item
+	position: relative
+	text-align: center
+	border: 2px solid #d8d8d8
+	border-radius: 6px
+	width: 100%
+	min-height: 100px
+	padding: 20px 0
+	font-size: 15px
+	line-height: 1.375
+	color: #222
+	font-weight: 500
+	margin-bottom: 30px
+.bet-description-card-item-top
+	position: absolute
+	left: 0
+	right: 0
+	margin: 0 auto
+	top: -15px
+	width: 50px
+	height: 30px
+	background-color: #fff
+.bet-description-like
+	display: inline-block
+	width: 22px
+	height: 20px
+	background-image: url(//s5o.ru/source/_desktop/sections/bets/views/characteristics/images/like-dislike.png)
+.rating-card
+	padding: 20px
+.rating-card-content-wrapper
+	padding: 10px 0
+.rating-card-item 
+	position: relative
+	display: flex
+	flex-direction: row
+	flex-wrap: nowrap
+	justify-content: space-between
+	align-content: stretch
+	align-items: flex-start
+	width: 100%
+.progress
+	display: flex
+	height: 5px
+	overflow: hidden
+	font-size: 0.75rem
+	background-color: #e9ecef
+	border-radius: 0.25rem
+.progress-bar
+	display: flex
+	align-items: center
+	justify-content: center
+	color: #fff
+	background-color: #007bff
+.badge
+	display: inline-block
+	padding: 0.25em 0.4em
+	font-size: 75%
+	font-weight: bold
+	line-height: 1
+	color: #fff
+	text-align: center
+	white-space: nowrap
+	vertical-align: baseline
+	border-radius: 0.25rem
+.badge-primary
+	color: #fff
+	background-color: #007bff
+.badge-primary[href]:focus, .badge-primary[href]:hover
+	color: #fff
+	text-decoration: none
+	background-color: #0062cc
+.book-icon
+	color: #7c6ed2
+.fa-check
+	color: #7fbf4b
+.fa-times
+	color: #c4c4c4
+.last-column-th
+	width: 10%
 @media screen and (min-width: 480px)
 	.plusandminus
 		display: table-cell
@@ -22,4 +107,11 @@
 @media screen and (min-width: 768px)
 	.booklogo img
 		width: 150px
+	.bet-description-card
+		display: flex
+		flex-direction: row
+	.bet-description-card-item
+		width: 45%
+		margin-bottom: 0px
+
 
