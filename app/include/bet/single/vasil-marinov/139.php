@@ -11,11 +11,11 @@
 				<span class="small-text">15.03.2018 19:45</span>
 				<span>Прогноза: <b>П1</b></span>
 				<span>КФ: <b>1.70</b></span>
-				<i class="fa fa-check-circle-o fa-2x" aria-hidden="true"></i>
+				<i class="fa fa-check-circle-o greens fa-2x" aria-hidden="true"></i>
 			</div>
 		</div>
 		<div class="single-match-result">
 			<span>Сума на залога: 70 лева</span>
 			<span>7% от банка</span>
-			<span>Статус на залога:</span>
+			<span>Статус на залога: <span class="green">Печели</span></span>
 			

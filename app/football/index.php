@@ -35,6 +35,7 @@
 				<a class="active">Баскетбол</a>
 				<a href="/other-sports/">Друго</a>
 			</div>
+			<?php require '../include/football/zalog-of-the-day-15.php';?>
 			<?php require '../include/football/zalog-of-the-day-14.php';?>
 			<?php require '../include/football/zalog-of-the-day-13.php';?>
 			<?php require '../include/football/zalog-of-the-day-12.php';?>
