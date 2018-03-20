@@ -58,6 +58,10 @@
 						<i class="fa fa-file-text" aria-hidden="true"></i>
 						<a href="/articles/negativna-progresiya/">Негативни финансови прогресии</a>
 					</li>
+					<li>
+						<i class="fa fa-file-text" aria-hidden="true"></i>
+						<a href="/articles/finansova-strategiya-fibonachi/">Стратегия Фибоначи</a>
+					</li>
 					
 					
 				</ul>
