@@ -62,6 +62,16 @@
 						<i class="fa fa-file-text" aria-hidden="true"></i>
 						<a href="/articles/finansova-strategiya-fibonachi/">Стратегия Фибоначи</a>
 					</li>
+					<li>
+						<i class="fa fa-file-text" aria-hidden="true"></i>
+						<a href="/articles/finansova-strategiya-dalamber/">Стратегия Даламбер</a>
+					</li>
+					<li>
+						<i class="fa fa-file-text" aria-hidden="true"></i>
+						<a href="/articles/zalozi-na-tenis-favorit/">Залагаме на фаворити в тенис</a>
+					</li>
+					
+					
 					
 					
 				</ul>

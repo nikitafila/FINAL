@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="bg">
+<html lang="bg-BG">
 
 <head>
 	<!-- Global site tag (gtag.js) - Google Analytics -->
@@ -20,11 +20,10 @@
 	<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
 	<link rel="stylesheet"  href="css/main.css"/>
 	<link rel="stylesheet"  href="css/menu.css"/>
-	<script src="js/jquery-3.3.1.min.js" defer></script>
-	<script  src="js/common.js" defer></script>
 </head>
 
 <body>
+<div class="container">
 	<header>
 		<nav>
 			<div class="logo"></div>	
@@ -135,6 +134,9 @@
 		</section>
 	</main>
 	<?php require 'include/footer.php';?>
+</div>
+	<script src="js/jquery-3.3.1.min.js" defer></script>
+	<script  src="js/common.js" defer></script>
 	<script src="js/menu.js" defer></script>
 </body>
 </html>
