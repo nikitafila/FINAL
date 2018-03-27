@@ -90,11 +90,11 @@
 				<a href="/basketball/">Баскетбол</a>
 				<a href="/other-sports/">Друго</a>
 			</div>
+			<?php require 'include/football/zalog-of-the-day-20.php';?>
 			<?php require 'include/football/zalog-of-the-day-18.php';?>
 			<?php require 'include/football/zalog-of-the-day-17.php';?>
 			<?php require 'include/football/zalog-of-the-day-16.php';?>
 			<?php require 'include/football/zalog-of-the-day-15.php';?>
-			<?php require 'include/football/zalog-of-the-day-14.php';?>
 		</section>
 		<section class="bonus-block">
 			<div class="bonus-row">

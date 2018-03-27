@@ -9,29 +9,29 @@
 				<span><b>Комбиниран залог</b></span>
 				<span class="small-text">26.03.2018</span>
 				<span>Общ коефициент: <b>2.37</b></span>
-				<i class="fa fa-check-circle-o fa-2x" aria-hidden="true"></i>
+				<i class="fa fa-check-circle-o reds fa-2x" aria-hidden="true"></i>
 			</div>
 		</div>
 		<div class="single-combi">
 			<div class="single-acc">
 				<span>Футбол. Приятелски срещи</span>
-				<span class="match-name">Финландия - Малта</span>
+				<span class="match-name">Финландия - Малта (5-0)</span>
 				<span class="small-text">26.03.2018</span>
 				<span>Прогноза: <b>Голове (Под 3.5)</b></span>
 				<span>КФ: <b>1.66</b></span>
-				<i class="fa fa-check-circle-o fa" aria-hidden="true"></i>
+				<i class="fa fa-check-circle-o reds fa" aria-hidden="true"></i>
 			</div>
 			<div class="single-acc">
 				<span>Футбол. Приятелски срещи</span>
-				<span class="match-name">България - Казахстан</span>
+				<span class="match-name">България - Казахстан (2-1)</span>
 				<span class="small-text">26.03.2018</span>
 				<span>Прогноза: <b>Хендикап Казахстан (+1.5)</b></span>
 				<span>КФ: <b>1.43</b></span>
-				<i class="fa fa-check-circle-o fa" aria-hidden="true"></i>
+				<i class="fa fa-check-circle-o greens fa" aria-hidden="true"></i>
 			</div>	
 			<div class="single-match-result-1">
 				<span>Сума на залога: 30 лева</span>
 				<span>3% от банка</span>
 				<span>Общ коефициент: <b>2.37</b></span>
-				<span>Статус на залога:</span>
+				<span>Статус на залога: <span class="red">Загуба</span></span>
 				
