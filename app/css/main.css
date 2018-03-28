@@ -625,7 +625,7 @@ h2 {
 
 footer {
   display: grid;
-  background-color: #7c6ed2;
+  background-color: #788CB2;
   width: 100%;
   -webkit-box-pack: center;
   -webkit-justify-content: center;
@@ -1582,7 +1582,7 @@ article a:hover, article active {
   background-color: #fff;
   display: grid; }
   .bgr-tip .name-tip div, .articles-page .name-tip div {
-    background-color: green;
+    background-color: #7fbf4b;
     -webkit-border-radius: 5px 5px 0 0;
             border-radius: 5px 5px 0 0;
     text-align: center;
@@ -1611,7 +1611,7 @@ article a:hover, article active {
       -webkit-justify-content: space-around;
           -ms-flex-pack: distribute;
               justify-content: space-around;
-      background-color: #1d315b;
+      background-color: #1d2f47;
       font-weight: bold;
       color: white;
       font-size: 12px;
@@ -1780,7 +1780,7 @@ article a:hover, article active {
                 border-radius: 5px; }
         .bgr-tip .stat-history .bet-item .bet-1 .title, .bgr-tip .stat-history .bet-item .bet-1 .title-combi, .bgr-tip .stat-history .bet-item .title-single .title, .bgr-tip .stat-history .bet-item .title-single .title-combi, .bgr-tip .stat-history .bet-item .title-single-1 .title, .bgr-tip .stat-history .bet-item .title-single-1 .title-combi, .bgr-tip .tipster-bet .bet-item .bet-1 .title, .bgr-tip .tipster-bet .bet-item .bet-1 .title-combi, .bgr-tip .tipster-bet .bet-item .title-single .title, .bgr-tip .tipster-bet .bet-item .title-single .title-combi, .bgr-tip .tipster-bet .bet-item .title-single-1 .title, .bgr-tip .tipster-bet .bet-item .title-single-1 .title-combi, .articles-page .stat-history .bet-item .bet-1 .title, .articles-page .stat-history .bet-item .bet-1 .title-combi, .articles-page .stat-history .bet-item .title-single .title, .articles-page .stat-history .bet-item .title-single .title-combi, .articles-page .stat-history .bet-item .title-single-1 .title, .articles-page .stat-history .bet-item .title-single-1 .title-combi, .articles-page .tipster-bet .bet-item .bet-1 .title, .articles-page .tipster-bet .bet-item .bet-1 .title-combi, .articles-page .tipster-bet .bet-item .title-single .title, .articles-page .tipster-bet .bet-item .title-single .title-combi, .articles-page .tipster-bet .bet-item .title-single-1 .title, .articles-page .tipster-bet .bet-item .title-single-1 .title-combi {
           text-align: center;
-          background-color: #006daa;
+          background-color: #689EE0;
           color: #fff;
           font-weight: bold;
           -webkit-border-radius: 5px 5px 0 0;
