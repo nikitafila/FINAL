@@ -42,7 +42,7 @@
 	height: 130px
 .other-art:first-of-type
 	margin-bottom: $gutter
-.statii
+.statii, .other-statii
 	display: flex
 	flex-direction: column
 	border: none
@@ -50,7 +50,7 @@
 		height: 100px
 
 @media screen and (min-width: 480px)
-	.statii
+	.statii, .other-statii
 		flex-direction: row
 	.art:first-of-type
 		margin-bottom: 0
@@ -59,8 +59,8 @@
 		margin-bottom: 0
 		margin-right: $gutter	
 	.ad2
-		display: grid
-		grid-template-columns: 1fr 1fr
+		display: flex
+		flex-wrap: wrap
 	.title-row
 		grid-column: 1/3
 	.profil:first-of-type
@@ -69,8 +69,6 @@
 @media screen and (min-width: 768px)
 	.statii
 		flex-direction: column
-	.other-statii
-		flex-direction: row
 	.other-statii .art:first-of-type
 		margin-bottom: 0
 		margin-right: $gutter

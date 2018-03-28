@@ -1,0 +1,39 @@
+table
+	width: 100%
+	background-color: transparent
+	border-collapse: collapse
+	border-spacing: 0
+	thead
+		th
+			vertical-align: bottom
+			border-bottom: 2px solid $border
+			text-align: left
+table
+	td, th
+		padding: .75rem
+		vertical-align: top
+		border-top: 1px solid $border
+		text-align: left
+
+.table-striped
+	tbody
+		tr:nth-of-type(odd)
+			background-color: rgba(0,0,0,.05)
+.thead-inverse th
+	color: #fff
+	background-color: #212529
+.none-xs, .none-s, .none-sm, .none-m
+	display: none
+@media screen and (min-width: 380px)
+	.none-s
+		display: table-cell
+@media screen and (min-width: 440px)
+	.none-sm
+		display: table-cell
+@media screen and (min-width: 520px)
+	.none-m
+		display: table-cell
+
+
+
+

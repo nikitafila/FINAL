@@ -16,11 +16,10 @@
 	<title>Cтратегия за залози на Далмбер</title>
 	<meta name="description" content="Агресивна финансова стратегия Даламбер. Разликата между система Даламбер и Мартингейл. Още една прогресивна стратегия.">
 
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
 	<link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
 	<link rel="stylesheet"  href="/css/main.css"/>
 	<link rel="stylesheet" href="/css/menu.css">
-	<link rel="stylesheet" href="/css/font-awesome.css">
 </head>
 
 <body>
@@ -45,46 +44,46 @@
 				<table class="table-striped">
 		            <thead class="thead-inverse">
 		                <tr>
-		                    <th>№ Залог</th>
+		                    <th class="none-m">№ Залог</th>
 		                    <th>Сума на залога</th>
-		                    <th>Статус на залога</th>
+		                    <th class="none-sm">Статус на залога</th>
 		                    <th>Сума на печалба</th>
 		                    <th>Балансът</th>
 		                </tr>
 		            </thead>
 		            <tbody>
 		                <tr>
-		                    <th>1</th>
+		                    <th class="none-m">1</th>
 		                    <td>100 лева</td>
-		                    <td>Загуба</td>
+		                    <td class="none-sm">Загуба</td>
 							<td>0</td>
 		                    <td>-100 лева</td>
 		                </tr>
 		                <tr>
-		                    <th>2</th>
-		                    <td>200 лева (<small>увеличаваме сумата на залога с една единица след загуба</small>)</td>
-		                    <td>Загуба</td>
+		                    <th class="none-m">2</th>
+		                    <td>200 лева <small class="none-m">(увеличаваме сумата на залога с една единица след загуба)</small></td>
+		                    <td class="none-sm">Загуба</td>
 		                    <td>0</td>
 		                    <td>-300 лева</td>
 		                </tr>
 		                <tr>
-		                    <th>3</th>
-		                    <td>300 лева (<small>увеличаваме сумата на залога с една единица след загуба</small>) </td>
-		                    <td>Печалба</td>
+		                    <th class="none-m">3</th>
+		                    <td>300 лева <small class="none-m">(увеличаваме сумата на залога с една единица след загуба)</small> </td>
+		                    <td class="none-sm">Печалба</td>
 		                    <td>600 лева</td>
 		                    <td>0 лева</td>
 		                </tr>
 		                <tr>
-		                    <th>4</th>
-		                    <td>200 лева (<small>намаляваме размера на залога с една единица слеб печалба</small>)</td>
-		                    <td>Загуба</td>
+		                    <th class="none-m">4</th>
+		                    <td>200 лева <small class="none-m">(намаляваме размера на залога с една единица слеб печалба)</small></td>
+		                    <td class="none-sm">Загуба</td>
 		                    <td>0</td>
 		                    <td>-200 лева</td>
 		                </tr>
 		                <tr>
-		                    <th>5</th>
-		                    <td>300 лева (<small>увеличаваме сумата на залога с една единица след загуба</small>)</td>
-		                    <td>Печалба</td>
+		                    <th class="none-m">5</th>
+		                    <td>300 лева <small class="none-m">(увеличаваме сумата на залога с една единица след загуба)</small></td>
+		                    <td class="none-sm">Печалба</td>
 		                    <td>600 лева</td>
 		                    <td>100 лева</td>
 		                </tr>
@@ -96,12 +95,12 @@
 
 			</article>
 		</section>
-		<sidebar class="others-pages">
-			<section class="ad-section-main-block statii other-statii">
+		<div class="others-pages">
+			<section class="ad-section-main-block other-statii">
 				<?php require '../../include/add/ad-section-main-block-1.php';?>
 			</section>
 				<?php require '../../include/add/ad-section-main-block-2.php';?>
-		</sidebar>
+		</div>
 	</main>
 	<?php require '../../include/footer.php';?>
 	<script src="/js/menu.js" defer></script>

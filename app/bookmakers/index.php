@@ -21,7 +21,6 @@
 	<link rel="stylesheet"  href="/css/main.css"/>
 	<link rel="stylesheet" href="/css/menu.css">
 	<link rel="stylesheet" href="/css/buttons.css">
-	<link rel="stylesheet" href="/css/font-awesome.min.css">
 </head>
 
 <body>

@@ -48,7 +48,7 @@
 		<section class="news">
 			<?php require 'include/news.php';?>
 		</section>
-		<sidebar class="main-sidebar">
+		<div class="main-sidebar">
 			<section class="ad-section-main-block statii">
 				<a href="/articles/vidove-zalozi/" class="title-row art"><span class="hvr-grow">Всички видове залози в една статия</span></a>
 				<a href="/articles/sistema-martingeil/" class="title-row art"><span class="hvr-grow">Стратегия Мартингейл</span></a>
@@ -82,7 +82,7 @@
 					</div>
 				</div>
 			</section>
-		</sidebar>
+		</div>
 		<section class="zalog-main">
 			<div class="zalog-item-title">
 				<a href="/football/">Футбол</a>

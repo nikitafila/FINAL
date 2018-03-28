@@ -46,68 +46,68 @@
 		                <tr>
 		                    <th>Сметка</th>
 		                    <th>Сума на залога</th>
-		                    <th>% от сметка</th>
-		                    <th>Статус на залога</th>
+		                    <th class="none-sm">% от сметка</th>
+		                    <th class="none-m">Статус на залога</th>
 		                    <th>Сума на печалба</th>
-		                    <th>Доход</th>
+		                    <th class="none-s">Доход</th>
 		                </tr>
 		            </thead>
 		            <tbody>
 		                <tr>
 		                    <th>1000</th>
 		                    <td>5%</td>
-		                    <td>50</td>
-		                    <td>Загуба</td>
+		                    <td class="none-sm">50</td>
+		                    <td class="none-m">Загуба</td>
 		                    <td>0</td>
-		                   	<td>-50</td>
+		                   	<td class="none-s">-50</td>
 		                </tr>
 		                <tr>
 		                    <th>950</th>
 		                    <td>5%</td>
-		                    <td>47.50</td>
-		                    <td>Загуба</td>
+		                    <td class="none-sm">47.50</td>
+		                    <td class="none-m">Загуба</td>
 		                    <td>0</td>
-		                    <td>-100</td>
+		                    <td class="none-s">-100</td>
 		                </tr>
 		                <tr>
 		                    <th>902,50</th>
 		                    <td>5%</td>
-		                    <td>45,10</td>
-		                    <td>Печели</td>
+		                    <td class="none-sm">45,10</td>
+		                    <td class="none-m">Печели</td>
 		                    <td>90,2</td>
-		                    <td>-52,40</td>
+		                    <td class="none-s">-52,40</td>
 		                </tr>
 		                <tr>
 		                    <th>947,60</th>
 		                    <td>5%</td>
-		                    <td>47,35</td>
-		                    <td>Печели</td>
+		                    <td class="none-sm">47,35</td>
+		                    <td class="none-m">Печели</td>
 		                    <td>94,7</td>
-		                    <td>-5,05</td>
+		                    <td class="none-s">-5,05</td>
 		                </tr>
 		                <tr>
 		                    <th>994,95</th>
 		                    <td>5%</td>
-		                    <td>49,70</td>
-		                    <td>Печели</td>
+		                    <td class="none-sm">49,70</td>
+		                    <td class="none-m">Печели</td>
 		                    <td>90,40</td>
-		                    <td>+44,65</td>
+		                    <td class="none-s">+44,65</td>
 		                </tr>
 		                <tr>
 		                    <th>1044,65</th>
 		                    <td>5%</td>
-		                    <td>52.20</td>
-		                    <td>Загуба</td>
+		                    <td class="none-sm">52.20</td>
+		                    <td class="none-m">Загуба</td>
 		                    <td>0</td>
-		                    <td>-7,55</td>
+		                    <td class="none-s">-7,55</td>
 		                </tr>
 		                <tr>
 		                    <th>992,45</th>
 		                    <td>5%</td>
-		                    <td>49.6</td>
-		                    <td>Печели</td>
+		                    <td class="none-sm">49.6</td>
+		                    <td class="none-m">Печели</td>
 		                    <td>99,2</td>
-		                    <td>+42,05</td>
+		                    <td class="none-s">+42,05</td>
 		                </tr>
 		            </tbody>
 		        </table>

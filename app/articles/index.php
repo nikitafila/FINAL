@@ -13,7 +13,7 @@
 	</script>
 	<meta charset="utf-8">
 
-	<title>Стратегии за залагане - Всички статии</title>
+	<title>Ръководство за залагания - Най-печелившите стратегии и системи</title>
 	<meta name="description" content="Всички статии за залози. Стратегии от успешни типстъри, полезни професионални съвети за добра успеваемост.">
 	
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -26,66 +26,80 @@
 <body>
 	<?php require '../include/header.php';?>
 	<main>
-		<section class="articles-page">
-			<h1>Стани профи типстър - всички статии за залагане</h1>
+		<section class="bgr-tip">
+			<h1 class="mt-3">Стани профи типстър - всички статии за залагане</h1>
 			<div class="school-container">
-				<ul>
-					<li>
-						<i class="fa fa-file-text" aria-hidden="true"></i>
-						<a href="/articles/vidove-zalozi/">Видове залози</a>
-					</li>
-					<li>
-						<i class="fa fa-file-text" aria-hidden="true"></i>
-						<a href="/articles/sistema-martingeil/">Система Мартингейл</a>
-					</li>
-					<li>
-						<i class="fa fa-file-text" aria-hidden="true"></i>
-						<a href="/articles/sistema-antimartingeil/">Антимартингейл</a>
-					</li>
-					<li>
-						<i class="fa fa-file-text" aria-hidden="true"></i>
-						<a href="/articles/sistema-fiksiran-procent/">Фиксиран процент</a>
-					</li>
-					<li>
-						<i class="fa fa-file-text" aria-hidden="true"></i>
-						<a href="/articles/zalozi-za-kartoni/">Залагане за брой картони в мача</a>
-					</li>
-					<li>
-						<i class="fa fa-file-text" aria-hidden="true"></i>
-						<a href="/articles/sistema-za-golove-v-macha/">Как да залагаме на голове в мача</a>
-					</li>
-					<li>
-						<i class="fa fa-file-text" aria-hidden="true"></i>
-						<a href="/articles/negativna-progresiya/">Негативни финансови прогресии</a>
-					</li>
-					<li>
-						<i class="fa fa-file-text" aria-hidden="true"></i>
-						<a href="/articles/finansova-strategiya-fibonachi/">Стратегия Фибоначи</a>
-					</li>
-					<li>
-						<i class="fa fa-file-text" aria-hidden="true"></i>
-						<a href="/articles/finansova-strategiya-dalamber/">Стратегия Даламбер</a>
-					</li>
-					<li>
-						<i class="fa fa-file-text" aria-hidden="true"></i>
-						<a href="/articles/zalozi-na-tenis-favorit/">Залагаме на фаворити в тенис</a>
-					</li>
-					<li>
-						<i class="fa fa-file-text" aria-hidden="true"></i>
-						<a href="/articles/zalagame-na-tenis-na-zivo/">Дали първият сервис в тенис дава предимство?</a>
-					</li>
-					
-					
-					
-					
-				</ul>
+				<div class="block-articles">
+					<h2>Общи въпроси</h2>
+					<ul>
+						<li>
+							<i class="fa fa-file-text" aria-hidden="true"></i>
+							<a href="/articles/vidove-zalozi/">Видове залози</a>
+						</li>
+					</ul>
+				</div>
+				<div class="block-articles">
+					<h2>Финансови стратегии</h2>
+					<ul>
+						<li>
+							<i class="fa fa-file-text" aria-hidden="true"></i>
+							<a href="/articles/negativna-progresiya/">Негативни финансови прогресии</a>
+						</li>
+						<li>
+							<i class="fa fa-file-text" aria-hidden="true"></i>
+							<a href="/articles/sistema-fiksiran-procent/">Фиксиран процент</a>
+						</li>
+						<li>
+							<i class="fa fa-file-text" aria-hidden="true"></i>
+							<a href="/articles/sistema-martingeil/">Система Мартингейл</a>
+						</li>
+						<li>
+							<i class="fa fa-file-text" aria-hidden="true"></i>
+							<a href="/articles/sistema-antimartingeil/">Антимартингейл</a>
+						</li>
+						<li>
+							<i class="fa fa-file-text" aria-hidden="true"></i>
+							<a href="/articles/finansova-strategiya-fibonachi/">Стратегия Фибоначи</a>
+						</li>
+						<li>
+							<i class="fa fa-file-text" aria-hidden="true"></i>
+							<a href="/articles/finansova-strategiya-dalamber/">Стратегия Даламбер</a>
+						</li>
+					</ul>
+				</div>
+				<div class="block-articles">
+					<h2>Футбол стратегии</h2>
+					<ul>
+						<li>
+							<i class="fa fa-file-text" aria-hidden="true"></i>
+							<a href="/articles/zalozi-za-kartoni/">Залагане за брой картони в мача</a>
+						</li>
+						<li>
+							<i class="fa fa-file-text" aria-hidden="true"></i>
+							<a href="/articles/sistema-za-golove-v-macha/">Как да залагаме на голове в мача</a>
+						</li>
+					</ul>
+				</div>
+				<div class="block-articles">
+					<h2>Тенис стратегии</h2>
+					<ul>
+						<li>
+							<i class="fa fa-file-text" aria-hidden="true"></i>
+							<a href="/articles/zalozi-na-tenis-favorit/">Залагаме на фаворити в тенис</a>
+						</li>
+						<li>
+							<i class="fa fa-file-text" aria-hidden="true"></i>
+							<a href="/articles/zalagame-na-tenis-na-zivo/">Дали първият сервис в тенис дава предимство?</a>
+						</li>
+					</ul>
+				</div>
 			</div>
 		</section>
-		<sidebar class="bonus-page">
+		<div class="others-pages">
 			<section class="ad-section-main-block statii other-statii">
 				<?php require '../include/add/ad-section-main-block-2.php';?>
 			</section>
-		</sidebar>
+		</div>
 	</main>
 	<?php require '../include/footer.php';?>
 	<script src="/js/menu.js" defer></script>

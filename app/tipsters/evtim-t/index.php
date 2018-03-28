@@ -113,6 +113,11 @@
 					</section>
 				</section>
 				<section class="stat-history">
+					<?php require '../../include/bet/single/evtim-t/127.php';?>
+						<a href="/tipsters/evtim-t/2018/march/single/127">Отвори залог</a>
+								</div>
+							</div>
+						</div>
 					<?php require '../../include/bet/combi/evtim-t/120.php';?>
 						<a href="/tipsters/evtim-t/2018/march/combi/120/">Отвори залог</a>
 								</div>

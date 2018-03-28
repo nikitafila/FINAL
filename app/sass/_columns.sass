@@ -1,32 +1,27 @@
 .grid
 	display: grid
 main
-	background-color: #fff
 	width: 100%
 	padding: 20px
 	display: grid
 	max-width: 1024px
 	align-content: start
-
-sidebar.main-sidebar
+	min-height: 90vh
+.main-sidebar
 	display: grid
 	grid-row: 4/5
 	margin: $gutter 0
 	align-content: start
 	grid-gap: 20px
-
-sidebar.others-pages, sidebar.bonus-page
+.others-pages, .bonus-page
 	display: grid
 	margin: $gutter 0
 	align-content: start
 	grid-gap: 20px
-
 .text-area
 	margin: 20px
-
 .articles
 	margin: 20px
-
 .title-header
 	margin-left: 20px  
 	.tips-title
@@ -41,16 +36,16 @@ sidebar.others-pages, sidebar.bonus-page
 	h1
 		grid-column: 1/3
 
-	sidebar.main-sidebar
+	.main-sidebar
 		grid-column: 2/3
 		grid-row: 2/4
 		margin: 0 0 $gutter $gutter
 
-	sidebar.others-pages
+	.others-pages
 		grid-column: 1/3
 		grid-row: 3/4
 	
-	sidebar.bonus-page
+	.bonus-page
 		grid-column: 2/3
 		grid-row: 1/3		
 		margin: 0 0 $gutter $gutter
@@ -63,9 +58,9 @@ sidebar.others-pages, sidebar.bonus-page
 		.flag-page-fix
 			grid-column: 2/3
 	
-	sidebar.main-sidebar
+	.main-sidebar
 		grid-row: 1/5
-	sidebar.others-pages
+	.others-pages
 		grid-column: 2/3
 		grid-row: 1/3
 		margin: 0 0 $gutter $gutter

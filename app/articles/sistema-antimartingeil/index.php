@@ -37,60 +37,60 @@
  				<table class="table-striped">
 		            <thead class="thead-inverse">
 		                <tr>
-		                    <th>№</th>
+		                    <th class="none-sm">№</th>
 		                    <th>Сума на залога</th>
-		                    <th>Статус на залога</th>
+		                    <th class="none-s">Статус на залога</th>
 		                    <th>Сума на печалба</th>
 		                    <th>Доход</th>
 		                </tr>
 		            </thead>
 		            <tbody>
 		                <tr>
-		                    <th>Залог №1</th>
+		                    <th class="none-sm">Залог №1</th>
 		                    <td>100</td>
-		                    <td>Печели</td>
+		                    <td class="none-s">Печели</td>
 		                    <td>200</td>
 		                   	<td>+100</td>
 		                </tr>
 		                <tr>
-		                    <th>Залог №2</th>
+		                    <th class="none-sm">Залог №2</th>
 		                    <td>200</td>
-		                    <td>Печели</td>
+		                    <td class="none-s">Печели</td>
 		                    <td>400</td>
 		                    <td>+300</td>
 		                </tr>
 		                <tr>
-		                    <th>Залог №3</th>
+		                    <th class="none-sm">Залог №3</th>
 		                    <td>400</td>
-		                    <td>Печели</td>
+		                    <td class="none-s">Печели</td>
 		                    <td>800</td>
 		                    <td>+700</td>
 		                </tr>
 		                <tr>
-		                    <th>Залог №4</th>
+		                    <th class="none-sm">Залог №4</th>
 		                    <td>800</td>
-		                    <td>Загуба</td>
+		                    <td class="none-s">Загуба</td>
 		                    <td>0</td>
 		                    <td>-100</td>
 		                </tr>
 		                <tr>
-		                    <th>Залог №5</th>
+		                    <th class="none-sm">Залог №5</th>
 		                    <td>100</td>
-		                    <td>Загуба</td>
+		                    <td class="none-s">Загуба</td>
 		                    <td>0</td>
 		                    <td>-200</td>
 		                </tr>
 		                <tr>
-		                    <th>Залог №6</th>
+		                    <th class="none-sm">Залог №6</th>
 		                    <td>100</td>
-		                    <td>Печели</td>
+		                    <td class="none-s">Печели</td>
 		                    <td>200</td>
 		                    <td>-100</td>
 		                </tr>
 		                <tr>
-		                    <th>Залог №7</th>
+		                    <th class="none-sm">Залог №7</th>
 		                    <td>200</td>
-		                    <td>Печели</td>
+		                    <td class="none-s">Печели</td>
 		                    <td>400</td>
 		                    <td>+100</td>
 		                </tr>
