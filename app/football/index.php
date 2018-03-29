@@ -30,9 +30,9 @@
 	<main>
 		<section class="zalog-main">
 			<div class="zalog-item-title">
-				<a href="/">Футбол</a>
+				<a class="active">Футбол</a>
 				<a href="/tennis/">Тенис</a>
-				<a class="active">Баскетбол</a>
+				<a href="/basketball/">Баскетбол</a>
 				<a href="/other-sports/">Друго</a>
 			</div>
 			<?php require '../include/football/zalog-of-the-day-20.php';?>
