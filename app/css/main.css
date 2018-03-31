@@ -1959,3 +1959,102 @@ table td, table th {
       -ms-flex-align: center;
           align-items: center;
   justify-self: center; }
+
+.container-2 {
+  padding: 20px;
+  margin: 0 auto;
+  display: grid;
+  max-width: 1024px; }
+  .container-2 .group {
+    max-width: 550px;
+    margin: 50px auto; }
+  .container-2 .container-tables {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column; }
+  .container-2 .h2-bg {
+    width: 100%;
+    padding: 5px;
+    background-color: #d8e0e3; }
+  .container-2 .resalt {
+    font-size: 15px; }
+  .container-2 table thead tr td {
+    border-top: none;
+    text-align: center; }
+    .container-2 table thead tr td a {
+      color: #333; }
+    .container-2 table thead tr td a:hover {
+      text-decoration: underline; }
+  .container-2 table td, .container-2 table th {
+    padding: .45rem;
+    vertical-align: middle; }
+  .container-2 table tbody tr:hover {
+    background-color: #89BAFC; }
+  .container-2 .qouta {
+    background-color: #f8f8f8; }
+  .container-2 .border-blocks {
+    height: 5px;
+    width: 100%;
+    margin: 20px 0;
+    background-color: #d8e0e3; }
+  .container-2 .pic-lang {
+    width: 7%;
+    background-image: url("/img/lang/svg/vu.svg");
+    background-repeat: no-repeat;
+    background-position: 50%;
+    -webkit-background-size: contain;
+            background-size: contain; }
+  .container-2 .russia {
+    background-image: url("/img/lang/svg/ru.svg"); }
+  .container-2 .urugvai {
+    background-image: url("/img/lang/svg/uy.svg"); }
+  .container-2 .egipt {
+    background-image: url("/img/lang/svg/eg.svg"); }
+  .container-2 .sa {
+    background-image: url("/img/lang/svg/sa.svg"); }
+
+.aside-main {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex; }
+
+@media screen and (min-width: 480px) {
+  .container-2 .main-block {
+    border: 1px solid #e0e0e0;
+    padding: 20px; }
+  .container-2 .resalt .pic-lang {
+    -webkit-background-size: 80% 80%;
+            background-size: 80%; } }
+
+@media screen and (min-width: 768px) {
+  .container-2 .group {
+    max-width: 1024px; }
+  .container-2 .container-tables {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    -webkit-flex-wrap: nowrap;
+        -ms-flex-wrap: nowrap;
+            flex-wrap: nowrap; }
+  .container-2 .border-blocks {
+    max-width: 5px;
+    margin: 0 15px;
+    height: 200px; } }
+
+@media screen and (min-width: 1024px) {
+  .container-2 {
+    grid-template-columns: 1fr 260px; }
+    .container-2 .resalt .pic-lang {
+      -webkit-background-size: 120% 120%;
+              background-size: 120%; }
+  .aside-main {
+    margin-left: 20px; } }

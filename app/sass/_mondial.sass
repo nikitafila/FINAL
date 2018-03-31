@@ -1,0 +1,82 @@
+.container-2
+	padding: 20px
+	margin: 0 auto
+	display: grid
+	max-width: 1024px
+	.group
+		max-width: 550px
+		margin: 50px auto
+	.container-tables
+		display: flex
+		flex-direction: column
+	.h2-bg
+		width: 100%
+		padding: 5px
+		background-color: #d8e0e3
+	.resalt
+		font-size: 15px
+	table thead tr td
+		border-top: none
+		text-align: center
+		a
+			color: #333
+		a:hover
+			text-decoration: underline
+	table td, table th
+		padding: .45rem
+		vertical-align: middle
+	table tbody tr:hover
+		background-color: #89BAFC
+	.qouta
+		background-color: #f8f8f8
+	.border-blocks
+		height: 5px
+		width: 100%
+		margin: 20px 0
+		background-color: #d8e0e3
+	.pic-lang
+		width: 7%
+		background-image: url('/img/lang/svg/vu.svg')
+		background-repeat: no-repeat
+		background-position: 50%
+		background-size: contain
+	.russia
+		background-image: url('/img/lang/svg/ru.svg')
+	.urugvai
+		background-image: url('/img/lang/svg/uy.svg')
+	.egipt
+		background-image: url('/img/lang/svg/eg.svg')
+	.sa
+		background-image: url('/img/lang/svg/sa.svg')
+.aside-main
+	display: flex
+@media screen and (min-width: 480px)
+	.container-2
+		.main-block
+			border: 1px solid #e0e0e0
+			padding: 20px
+		.resalt .pic-lang
+			background-size: 80%
+@media screen and (min-width: 768px)
+	.container-2
+		.group
+			max-width: 1024px
+		.container-tables
+			flex-direction: row
+			flex-wrap: nowrap
+		.border-blocks
+			max-width: 5px
+			margin: 0 15px
+			height: 200px
+@media screen and (min-width: 1024px)
+	.container-2
+		grid-template-columns: 1fr 260px
+		.resalt .pic-lang
+			background-size: 120%
+	.aside-main
+		margin-left: 20px
+		
+
+
+
+
