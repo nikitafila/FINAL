@@ -43,16 +43,16 @@
 					<div class="profit-tip">
 						<div>
 							<span>Доход</span>
-							<span>+5,61%</span>
+							<span>+31,5%</span>
 						</div>
 						<div>
 							<span>Баланс</span>
-							<span>+1056,1 BGN</span>
+							<span>+1315,6 BGN</span>
 						</div>
 					</div>
 					<div class="main-stat-tip">
 						<div class="item-tip">
-							<span>4</span>
+							<span>10</span>
 							<span>Печалби</span>
 						</div>
 						<div class="item-tip">
@@ -60,33 +60,33 @@
 							<span>Войд</span>
 						</div>
 						<div class="item-tip">
-							<span>2</span>
+							<span>4</span>
 							<span>Загуби</span>
 						</div>
 						<div class="item-tip">
-							<span>2,21</span>
+							<span>2,01</span>
 							<span>Ср. Коеф</span>
 						</div>
 					</div>
 					<div class="main-stat-tip">
 						<h5>Последни 3 месеца</h5>
-						<div class="item-tip month-good">+5,61%</div>
-						<div class="item-tip month-bad">0%</div>
+						<div class="item-tip month-good">+17,2%</div>
+						<div class="item-tip month-good">+14,3%</div>
 						<div class="item-tip month-bad">0%</div>
 					</div>
 					<div class="month-stat">
 						<div class="month">
-							<span>Март 2018</span>
-							<span>Залози: 3</span>
-							<span>Печалби: 2</span>
+							<span>Април 2018</span>
+							<span>Залози: 0</span>
+							<span>Печалби: 0</span>
 							<span>Загуби: 0</span>
 							<span>Войд: 0</span>
 						</div>
 						<div class="bank-tip">
 							<span>Стартов баланс: 1000 лева</span>
-							<span>Текущт баланс: 1090,5 лева</span>
+							<span>Текущт баланс: 1000 лева</span>
 							<span>В играта: 0 лева</span>
-							<span>Месец: +9,05%</span>
+							<span>Месец: 0%</span>
 						</div>
 					</div>
 					<section class="year-stat">
@@ -97,22 +97,41 @@
 							<div class="full-year-stat">
 								<div class="month-stat">
 									<div class="month">
-										<span>Февруари 2018</span>
+										<span>Март 2018</span>
 										<span>Залози: 7</span>
-										<span>Печалби: 4</span>
+										<span>Печалби: 5</span>
 										<span>Загуби: 2</span>
 										<span>Войд: 0</span>
 									</div>
 									<div class="bank-tip">
 										<span>Стартов баланс: 1000 лева</span>
-										<span>Краен баланс: 1056,1 лева</span>
-										<span>Месец: +5,61%</span>
+										<span>Краен баланс: 1172,2 лева</span>
+										<span>Месец: +17,2%</span>
+									</div>
+								</div>
+								<div class="month-stat">
+									<div class="month">
+										<span>Февруари 2018</span>
+										<span>Залози: 7</span>
+										<span>Печалби: 5</span>
+										<span>Загуби: 2</span>
+										<span>Войд: 0</span>
+									</div>
+									<div class="bank-tip">
+										<span>Стартов баланс: 1000 лева</span>
+										<span>Краен баланс: 1143,4 лева</span>
+										<span>Месец: +14,3%</span>
 									</div>
 								</div>
 							</div>
 					</section>
 				</section>
 				<section class="stat-history">
+					<?php require '../../include/bet/single/milian/126.php';?>
+						<a href="/tipsters/milian-ilievski/2018/april/single/126/">Отвори залог</a>
+								</div>
+							</div>
+						</div>
 					<?php require '../../include/bet/single/milian/125.php';?>
 						<a href="/tipsters/milian-ilievski/2018/march/single/125/">Отвори залог</a>
 								</div>
@@ -194,7 +213,7 @@
 				</section>
 		</section>
 		<sidebar class="others-pages">
-			<section class="ad-section-main-block statii other-statii">
+			<section class="ad-section-main-block other-statii">
 				<?php require '../../include/add/ad-section-main-block-1.php';?>
 			</section>
 				<?php require '../../include/add/ad-section-main-block-2.php';?>

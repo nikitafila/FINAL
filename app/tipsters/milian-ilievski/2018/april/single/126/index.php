@@ -13,8 +13,8 @@
 	</script>
 	<meta charset="utf-8">
 
-	<title>Комбиниран залог - Баскетбол - 26.01.2018</title>
-	
+	<title>Единичен залог | Белененсеш - Порто | Португалия. Премейра Лига | 02.04.2018 - 22:00</title>
+
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
 	<link rel="stylesheet"  href="/css/main.css"/>
@@ -29,13 +29,12 @@
 	<main>
 		<section class="articles-page">
 				<div class="tipster-bet">
-					<?php require '../../../../../../include/bet/combi/116.php';?>
-								<span>Типстър: <a href="/tipsters/vasil-marinov/">Васил Маринов</a></span>
+					<?php require '../../../../../../include/bet/single/milian/126.php';?>
+						<span>Типстър: <a href="/tipsters/milian-ilievski/">Милиан Илиевски</a></span>
 							</div>
 						</div>
 					</div>
 				</div>
-			</div>
 		</section>
 		<sidebar class="bonus-page">
 			<section class="ad-section-main-block statii other-statii bonus-statii">

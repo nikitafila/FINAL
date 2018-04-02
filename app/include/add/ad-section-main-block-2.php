@@ -7,9 +7,9 @@
 		<div>
 			<a href="/tipsters/vasil-marinov/" class="name">Васил Маринов</a>
 			<div class="profil-info">
-				<span class="small-text">Залози: 25</span>
-				<span class="small-text">Познаваемост: 53%</span>
-				<span class="small-text">Доход: +19,2%</span>
+				<span class="small-text">Залози: 31</span>
+				<span class="small-text">Познаваемост: 56,6%</span>
+				<span class="small-text">Доход: +23,2%</span>
 			</div>
 		</div>
 	</div>
@@ -20,9 +20,9 @@
 		<div>
 			<a href="/tipsters/milian-ilievski/" class="name">Милиан Илиевски</a>
 			<div class="profil-info">
-				<span class="small-text">Залози: 7</span>
-				<span class="small-text">Познаваемост: 58%</span>
-				<span class="small-text">Доход: +5,61%</span>
+				<span class="small-text">Залози: 14</span>
+				<span class="small-text">Познаваемост: 71,4%</span>
+				<span class="small-text">Доход: +31,5%</span>
 			</div>
 		</div>
 	</div>

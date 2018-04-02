@@ -13,8 +13,8 @@
 	</script>
 	<meta charset="utf-8">
 
-	<title>Мондиал 2018 - Програма за Световно Първенство по футбол в Русия</title>
-	<meta name="description" content="Най-добрите типстъри на VaskoTips.com. Професионални мнения, сигурни мачове, VIP залози.">
+	<title>Мондиал 2018 - Програма за Световното Първенство по футбол в Русия</title>
+	<meta name="description" content="Вижте пълна програма за Мондиал 2018 по дни и часове. Класиране за световно първенство по футбол в Русия. Резултати, статистиката, мачове. ">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
@@ -28,8 +28,7 @@
 	<?php require '../include/header.php';?>
 	<div class="container-2">
 		<div class="main-block">
-			<h1>Програма за Мондиал 2018</h1>
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint tenetur fugit vel, eligendi illum, placeat quo vero reiciendis consectetur voluptatibus atque et itaque, hic, deleniti. Sunt commodi tempora voluptatum dolorum.</p>
+			<h1>Програмата за Мондиал 2018</h1>
 
 			<section class="group">
 					<h2 class="h2-bg">Група А</h2>
@@ -946,7 +945,8 @@
 		</div>
 		<aside class="aside-main">
 			<section class="ad-section-main-block other-statii">
-				<?php require '../include/add/ad-section-main-block-1.php';?>
+				<a href="/articles/zalozi-za-kartoni/" class="title-row art"><span class="hvr-grow">Залози за жълти и червени картони</span></a>
+				<a href="/articles/sistema-fiksiran-procent/" class="title-row art"><span class="hvr-grow">Система Фиксиран Процент</span></a>
 			</section>
 		</aside>
 	</div>

@@ -41,7 +41,7 @@
 				<?php require '../include/tennis/tennis-zalog-of-the-day-1.php';?>
 		</section>
 		<sidebar class="bonus-page">
-			<section class="ad-section-main-block statii bonus-statii">
+			<section class="ad-section-main-block statii">
 				<?php require '../include/add/ad-section-main-block-1.php';?>
 			</section>
 				<?php require '../include/add/ad-section-main-block-2.php';?>

@@ -902,16 +902,19 @@ main {
       -ms-flex-line-pack: center;
           align-content: center; }
 
-.art {
-  height: 130px; }
+.title-row-2 {
+  background-color: white;
+  background-image: url("/img/fonts/world-cup-2018.jpg");
+  -webkit-background-size: cover;
+          background-size: cover;
+  background-repeat: norepeat; }
 
-.art:first-of-type {
+.art {
+  height: 130px;
   margin-bottom: 20px; }
 
 .other-art {
-  height: 130px; }
-
-.other-art:first-of-type {
+  height: 130px;
   margin-bottom: 20px; }
 
 .statii, .other-statii {
@@ -935,12 +938,17 @@ main {
     -webkit-flex-direction: row;
         -ms-flex-direction: row;
             flex-direction: row; }
-  .art:first-of-type {
+  .art {
     margin-bottom: 0;
     margin-right: 20px; }
-  .other-art:first-of-type {
+  .art:last-of-type {
+    margin-right: 0; }
+  .other-art {
     margin-bottom: 0;
     margin-right: 20px; }
+  .other-art:last-of-type {
+    margin-bottom: 0;
+    margin-right: 0; }
   .ad2 {
     display: -webkit-box;
     display: -webkit-flex;
@@ -961,25 +969,18 @@ main {
     -webkit-flex-direction: column;
         -ms-flex-direction: column;
             flex-direction: column; }
-  .other-statii .art:first-of-type {
+  .art {
+    margin-bottom: 20px;
+    margin-right: 0; }
+  .other-statii .art {
     margin-bottom: 0;
     margin-right: 20px; }
-  .art:first-of-type {
-    margin-bottom: 20px;
+  .other-statii .art:last-of-type {
     margin-right: 0; }
   .ad2 {
     display: block; }
   .profil:first-of-type {
-    border-bottom: 1px solid black; }
-  .bonus-statii {
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-    -webkit-flex-direction: column;
-        -ms-flex-direction: column;
-            flex-direction: column; }
-    .bonus-statii:first-child .other-art:first-of-type {
-      margin-bottom: 20px;
-      margin-right: 0; } }
+    border-bottom: 1px solid black; } }
 
 @media screen and (min-width: 1024px) {
   .other-statii {
@@ -988,10 +989,7 @@ main {
     -webkit-flex-direction: column;
         -ms-flex-direction: column;
             flex-direction: column; }
-  .other-art:first-of-type {
-    margin-bottom: 20px;
-    margin-right: 0; }
-  .other-statii .art:first-of-type {
+  .other-statii .art {
     margin-bottom: 20px;
     margin-right: 0; } }
 

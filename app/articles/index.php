@@ -96,9 +96,10 @@
 			</div>
 		</section>
 		<div class="others-pages">
-			<section class="ad-section-main-block statii other-statii">
-				<?php require '../include/add/ad-section-main-block-2.php';?>
+			<section class="ad-section-main-block other-statii">
+				<a href="/mondial-2018/" class="title-row title-row-2 art"><span class="hvr-grow">Програмата<br> за Мондиал 2018</span></a>
 			</section>
+				<?php require '../include/add/ad-section-main-block-2.php';?>
 		</div>
 	</main>
 	<?php require '../include/footer.php';?>

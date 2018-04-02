@@ -31,12 +31,12 @@
 			<h1>Най-добрите типстъри</h1>
 			<div class="stat-tip tipok">
 				<a href="/tipsters/vasil-marinov/">Васил Маринов</a>
-				<div>Доход: <span class="green">+19.2</span></div>
-				<div>Сметка: <span class="green">+1192 лева</span></div>
-				<span>Ср. коеф. 1.89</span>
+				<div>Доход: <span class="green">+23.2</span></div>
+				<div>Сметка: <span class="green">1232,50 лева</span></div>
+				<span>Ср. коеф. 1.79</span>
 				<div class="main-stat-tip">
 					<div class="item-tip">
-						<span>13</span>
+						<span>17</span>
 						<span>Печалби</span>
 					</div>
 					<div class="item-tip">
@@ -44,19 +44,19 @@
 						<span>Войд</span>
 					</div>
 					<div class="item-tip">
-						<span>11</span>
+						<span>13</span>
 						<span>Загуби</span>
 					</div>
 				</div>
 			</div>
 			<div class="stat-tip tipok">
 				<a href="/tipsters/evtim-t/">Evtim T</a>
-				<div>Доход: <span class="green">+10.84%</span></div>
-				<div>Сметка: <span class="green">1108,4 лева</span></div>
-				<span>Ср. коеф. 1.97</span>
+				<div>Доход: <span class="green">+15.4%</span></div>
+				<div>Сметка: <span class="green">1154,3 лева</span></div>
+				<span>Ср. коеф. 2.00</span>
 				<div class="main-stat-tip">
 					<div class="item-tip">
-						<span>3</span>
+						<span>9</span>
 						<span>Печалби</span>
 					</div>
 					<div class="item-tip">
@@ -64,19 +64,19 @@
 						<span>Войд</span>
 					</div>
 					<div class="item-tip">
-						<span>2</span>
+						<span>8</span>
 						<span>Загуби</span>
 					</div>
 				</div>
 			</div>
 			<div class="stat-tip tipok">
 				<a href="/tipsters/milian-ilievski/">Милиан Илиевски</a>
-				<div>Доход: <span class="green">+5,61%</span></div>
-				<div>Сметка: <span class="green">1056,1 лева</span></div>
-				<span>Ср. коеф. 2.21</span>
+				<div>Доход: <span class="green">+31,5%</span></div>
+				<div>Сметка: <span class="green">1315,6 лева</span></div>
+				<span>Ср. коеф. 2.01</span>
 				<div class="main-stat-tip">
 					<div class="item-tip">
-						<span>4</span>
+						<span>10</span>
 						<span>Печалби</span>
 					</div>
 					<div class="item-tip">
@@ -84,14 +84,14 @@
 						<span>Войд</span>
 					</div>
 					<div class="item-tip">
-						<span>2</span>
+						<span>4</span>
 						<span>Загуби</span>
 					</div>
 				</div>
 			</div>			
 		</section>
 		<sidebar class="others-pages">
-			<section class="ad-section-main-block statii other-statii">
+			<section class="ad-section-main-block other-statii">
 				<?php require '../include/add/ad-section-main-block-1.php';?>
 			</section>
 		</sidebar>

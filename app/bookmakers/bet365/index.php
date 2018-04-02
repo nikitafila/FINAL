@@ -184,7 +184,7 @@
 		</div>
 
 		<sidebar class="others-pages">
-			<section class="ad-section-main-block statii other-statii">
+			<section class="ad-section-main-block other-statii">
 				<?php require '../../include/add/ad-section-main-block-1.php';?>
 			</section>
 				<?php require '../../include/add/ad-section-main-block-2.php';?>
