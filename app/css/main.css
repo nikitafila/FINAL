@@ -1981,7 +1981,8 @@ table td, table th {
   .container-2 .h2-bg {
     width: 100%;
     padding: 5px;
-    background-color: #d8e0e3; }
+    background-color: #5C5F7C;
+    color: #fff; }
   .container-2 .resalt {
     font-size: 15px; }
   .container-2 table thead tr td {
@@ -2018,6 +2019,62 @@ table td, table th {
     background-image: url("/img/lang/svg/eg.svg"); }
   .container-2 .sa {
     background-image: url("/img/lang/svg/sa.svg"); }
+  .container-2 .portugal {
+    background-image: url("/img/lang/svg/pt.svg"); }
+  .container-2 .spain {
+    background-image: url("/img/lang/svg/es.svg"); }
+  .container-2 .marocco {
+    background-image: url("/img/lang/svg/ma.svg"); }
+  .container-2 .iran {
+    background-image: url("/img/lang/svg/ir.svg"); }
+  .container-2 .france {
+    background-image: url("/img/lang/svg/fr.svg"); }
+  .container-2 .dania {
+    background-image: url("/img/lang/svg/dk.svg"); }
+  .container-2 .peru {
+    background-image: url("/img/lang/svg/pe.svg"); }
+  .container-2 .australia {
+    background-image: url("/img/lang/svg/au.svg"); }
+  .container-2 .crovatia {
+    background-image: url("/img/lang/svg/hr.svg"); }
+  .container-2 .islind {
+    background-image: url("/img/lang/svg/is.svg"); }
+  .container-2 .argentin {
+    background-image: url("/img/lang/svg/ar.svg"); }
+  .container-2 .nigeria {
+    background-image: url("/img/lang/svg/ng.svg"); }
+  .container-2 .switz {
+    background-image: url("/img/lang/svg/ch.svg"); }
+  .container-2 .serbia {
+    background-image: url("/img/lang/svg/rs.svg"); }
+  .container-2 .brazil {
+    background-image: url("/img/lang/svg/br.svg"); }
+  .container-2 .costa {
+    background-image: url("/img/lang/svg/cr.svg"); }
+  .container-2 .sveden {
+    background-image: url("/img/lang/svg/se.svg"); }
+  .container-2 .german {
+    background-image: url("/img/lang/svg/de.svg"); }
+  .container-2 .mexico {
+    background-image: url("/img/lang/svg/mx.svg"); }
+  .container-2 .koria {
+    background-image: url("/img/lang/svg/kr.svg"); }
+  .container-2 .belgia {
+    background-image: url("/img/lang/svg/be.svg"); }
+  .container-2 .england {
+    background-image: url("/img/lang/svg/gb.svg"); }
+  .container-2 .tunis {
+    background-image: url("/img/lang/svg/tn.svg"); }
+  .container-2 .panama {
+    background-image: url("/img/lang/svg/pa.svg"); }
+  .container-2 .poland {
+    background-image: url("/img/lang/svg/pl.svg"); }
+  .container-2 .columbia {
+    background-image: url("/img/lang/svg/co.svg"); }
+  .container-2 .senegal {
+    background-image: url("/img/lang/svg/sn.svg"); }
+  .container-2 .japan {
+    background-image: url("/img/lang/svg/jp.svg"); }
 
 .aside-main {
   display: -webkit-box;
