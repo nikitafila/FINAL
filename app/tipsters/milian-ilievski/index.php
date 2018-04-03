@@ -77,16 +77,16 @@
 					<div class="month-stat">
 						<div class="month">
 							<span>Април 2018</span>
-							<span>Залози: 0</span>
+							<span>Залози: 1</span>
 							<span>Печалби: 0</span>
-							<span>Загуби: 0</span>
+							<span>Загуби: 1</span>
 							<span>Войд: 0</span>
 						</div>
 						<div class="bank-tip">
 							<span>Стартов баланс: 1000 лева</span>
-							<span>Текущт баланс: 1000 лева</span>
-							<span>В играта: 0 лева</span>
-							<span>Месец: 0%</span>
+							<span>Текущт баланс: 910 лева</span>
+							<span>В играта: 60 лева</span>
+							<span>Месец: -9%</span>
 						</div>
 					</div>
 					<section class="year-stat">
@@ -127,6 +127,11 @@
 					</section>
 				</section>
 				<section class="stat-history">
+					<?php require '../../include/bet/single/milian/127.php';?>
+						<a href="/tipsters/milian-ilievski/2018/april/single/127/">Отвори залог</a>
+								</div>
+							</div>
+						</div>
 					<?php require '../../include/bet/single/milian/126.php';?>
 						<a href="/tipsters/milian-ilievski/2018/april/single/126/">Отвори залог</a>
 								</div>
