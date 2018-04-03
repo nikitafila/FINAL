@@ -49,6 +49,7 @@
 	display: flex
 	flex-direction: column
 	border: none
+	margin-bottom: 20px
 	img
 		height: 100px
 
@@ -73,7 +74,6 @@
 		grid-column: 1/3
 	.profil:first-of-type
 		border-bottom: none
-	
 @media screen and (min-width: 768px)
 	.statii
 		flex-direction: column
@@ -85,14 +85,13 @@
 		margin-right: $gutter
 	.other-statii .art:last-of-type
 		margin-right: 0	
-	.ad2
-		display: block
-	.profil:first-of-type
-		border-bottom: 1px solid black
-
 @media screen and (min-width: 1024px)
 	.other-statii
 		flex-direction: column
 	.other-statii .art
 		margin-bottom: $gutter
 		margin-right: 0
+	.ad2
+		flex-direction: column
+	.profil:first-of-type
+		border-bottom: 1px solid black

@@ -11,26 +11,55 @@
 	width: 100px
 .revu
 	min-width: 80px
-.bet-description-card
+.book-review-title
 	display: flex
 	flex-direction: column
+.book-review
+	display: flex
+	flex-direction: column
+	justify-content: center
+	align-items: center
+	padding: 20px
+	color: $text-white
+	margin: 0 -20px
+	background-image: url('/img/fonts/365.png')
+	background-size: cover
+	background-repeat: norepeat
+.book-review-stars
 	margin: 20px 0
+.fa-star
+	color: #ffc647
+.book-review-list
+	display: flex
+	flex-direction: column
+	margin-bottom: 20px
+.book-review-list span::before
+	content: "\f00c"
+	font-family: FontAwesome
+	margin-right: 5px
+	/* style */
+.bet-card
+	display: flex
+	flex-direction: column
+	margin: 20px 0 0 0
 	justify-content: space-around
 	align-items: stretch
-.bet-description-card-item
+.bet-card-item
 	position: relative
 	text-align: center
 	border: 2px solid #d8d8d8
 	border-radius: 6px
 	width: 100%
-	min-height: 100px
+	min-height: 80px
 	padding: 20px 0
 	font-size: 15px
 	line-height: 1.375
 	color: #222
 	font-weight: 500
 	margin-bottom: 30px
-.bet-description-card-item-top
+.bet-card-item:last-of-type
+	margin-bottom: 0
+.bet-card-item-top
 	position: absolute
 	left: 0
 	right: 0
@@ -39,13 +68,15 @@
 	width: 50px
 	height: 30px
 	background-color: #fff
-.bet-description-like
+.bet-like
 	display: inline-block
-	width: 22px
-	height: 20px
-	background-image: url(//s5o.ru/source/_desktop/sections/bets/views/characteristics/images/like-dislike.png)
+	width: 25px
+	height: 25px
+	background-image: url('/img/icons/like.png')
+	background-repeat: no-repeat
 .rating-card
 	padding: 20px
+	padding-left: 40px
 .rating-card-content-wrapper
 	padding: 10px 0
 .rating-card-item 
@@ -69,7 +100,7 @@
 	align-items: center
 	justify-content: center
 	color: #fff
-	background-color: #007bff
+	background-color: #7fbf4b
 .badge
 	display: inline-block
 	padding: 0.25em 0.4em
@@ -83,7 +114,7 @@
 	border-radius: 0.25rem
 .badge-primary
 	color: #fff
-	background-color: #007bff
+	background-color: #7fbf4b
 .badge-primary[href]:focus, .badge-primary[href]:hover
 	color: #fff
 	text-decoration: none
@@ -104,14 +135,23 @@
 	.rating-nomber
 		display: table-cell
 		width: 50px
+@media screen and (min-width: 650px)
+	.book-review-title
+		flex-direction: row
+		background-image: url('/img/fonts/365.png')
+		background-size: cover
+		background-repeat: norepeat
+	.book-review
+		width: 60%
+	.rating-card
+		width: 40%
 @media screen and (min-width: 768px)
 	.booklogo img
 		width: 150px
-	.bet-description-card
+	.bet-card-rating-wrapper
 		display: flex
-		flex-direction: row
-	.bet-description-card-item
-		width: 45%
-		margin-bottom: 0px
+	.bet-card, .rating-card
+		width: 50%
+		justify-content: center
 
 
