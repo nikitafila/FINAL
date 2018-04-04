@@ -1283,7 +1283,7 @@ main {
 .bet-card-item {
   position: relative;
   text-align: center;
-  border: 2px solid #d8d8d8;
+  border: 1px solid #ddd;
   -webkit-border-radius: 6px;
           border-radius: 6px;
   width: 100%;
@@ -1410,6 +1410,18 @@ main {
 .last-column-th {
   width: 10%; }
 
+.title-table-book .text-uppercase {
+  font-size: 13px; }
+
+.container-collapsible {
+  border: 1px solid #ddd; }
+  .container-collapsible .headercol {
+    padding: 0 10px; }
+  .container-collapsible .contentcol {
+    display: none;
+    border-top: 1px solid #ddd;
+    padding: 10px 20px; }
+
 @media screen and (min-width: 480px) {
   .plusandminus {
     display: table-cell;
@@ -1417,7 +1429,9 @@ main {
     padding: 10px 30px; }
   .rating-nomber {
     display: table-cell;
-    width: 50px; } }
+    width: 50px; }
+  .title-table-book .text-uppercase {
+    font-size: 15px; } }
 
 @media screen and (min-width: 650px) {
   .book-review-title {
@@ -1451,7 +1465,22 @@ main {
     -webkit-box-pack: center;
     -webkit-justify-content: center;
         -ms-flex-pack: center;
-            justify-content: center; } }
+            justify-content: center; }
+  .bet-card {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    -webkit-box-align: stretch;
+    -webkit-align-items: stretch;
+        -ms-flex-align: stretch;
+            align-items: stretch; }
+  .bet-card-item {
+    margin-right: 20px;
+    margin-bottom: 0; }
+  .bet-card-item:last-of-type {
+    margin-right: 0; } }
 
 .flag-bonus {
   background-color: #fff;
