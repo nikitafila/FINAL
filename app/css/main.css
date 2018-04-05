@@ -1413,14 +1413,50 @@ main {
 .title-table-book .text-uppercase {
   font-size: 13px; }
 
+.active-border {
+  border: 2px solid #9189c7;
+  -webkit-border-radius: 2px;
+          border-radius: 2px; }
+
+.headercolclick.active-border::after {
+  content: "\f0d8" !important;
+  font-family: FontAwesome;
+  float: right; }
+
 .container-collapsible {
   border: 1px solid #ddd; }
   .container-collapsible .headercol {
-    padding: 0 10px; }
+    cursor: pointer;
+    margin: 0;
+    padding: 20px; }
+  .container-collapsible .headercol::after {
+    content: "\f0d7";
+    font-family: FontAwesome;
+    float: right;
+    /* style */ }
   .container-collapsible .contentcol {
     display: none;
     border-top: 1px solid #ddd;
     padding: 10px 20px; }
+
+.book-info {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  border: 1px solid #ddd;
+  margin: 20px 0; }
+  .book-info div {
+    text-align: center;
+    border-bottom: 1px solid #ddd; }
+
+.deposit .last-column-th {
+  display: none; }
 
 @media screen and (min-width: 480px) {
   .plusandminus {
@@ -1431,7 +1467,9 @@ main {
     display: table-cell;
     width: 50px; }
   .title-table-book .text-uppercase {
-    font-size: 15px; } }
+    font-size: 15px; }
+  .deposit .last-column-th {
+    display: table-cell; } }
 
 @media screen and (min-width: 650px) {
   .book-review-title {
@@ -1451,7 +1489,18 @@ main {
     margin: 0; }
   .rating-card {
     width: 36%;
-    background-color: rgba(255, 255, 255, 0.8); } }
+    background-color: rgba(255, 255, 255, 0.8); }
+  .book-info {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    -webkit-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap; }
+    .book-info div {
+      width: 50%; } }
 
 @media screen and (min-width: 768px) {
   .booklogo img {

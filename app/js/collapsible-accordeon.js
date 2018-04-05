@@ -2,6 +2,7 @@ $(".headercol").click(function () {
 
     $headercol = $(this);
     //getting the next element
+    $('.contentcol').not($(this).next()).slideUp(200);
     $contentcol = $headercol.next();
     //open up the content needed - toggle the slide- if visible, slide up, if not slidedown.
     $contentcol.slideToggle(200, function () {
@@ -12,10 +13,5 @@ $(".headercol").click(function () {
             //return $contentcol.is(":visible") ? "Как да се регистрирам в букмейкърска къща bet365?" : "Как да се регистрирам в букмейкърска къща bet365?";
         //});
     });
-});
 
-$(document).ready(function(){
-    $('.headercol').click(function () {
-        $(this).toggleClass('headercolclick');
-        });
 });

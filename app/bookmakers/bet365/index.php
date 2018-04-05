@@ -28,7 +28,7 @@
 	<?php require '../../include/header.php';?>
 	<div class="container-2">
 		<div class="main-block">
-			<h1 class="card-header">Bet365 - Пълно ревю на букмейкъра</h1>
+			<h1 class="card-header">Bet365 - Пълно ревю за букмейкъра</h1>
 
 			<div class="book-review-title">
 				<section class="book-review">
@@ -128,6 +128,29 @@
 				    <span class="bet-like"></span>
 				  </span>
 				  Онлайн стриймове
+				</div>
+			</section>
+
+			<section class="book-info">
+				<div>
+					<h6>Компанията</h6>
+					<p>Бет365</p>
+				</div>
+				<div>
+					<h6>Адрес</h6>
+					<p>Бет365</p>
+				</div>
+				<div>
+					<h6>Телефон</h6>
+					<p>Бет365</p>
+				</div>
+				<div>
+					<h6>Имейл</h6>
+					<p>Бет365</p>
+				</div>
+				<div>
+					<h6>Дата на създаване</h6>
+					<p>05/023/123</p>
 				</div>
 			</section>
 
@@ -323,6 +346,76 @@
 			            </tbody>
 		        </table>
 		    </section>
+		    <section class="mt-3 deposit">
+		        <table>
+			           <thead>
+			                <tr class="title-table-book">
+			                    <th class="text-center">
+			                      #
+			                    </th>
+			                    <th>
+			                      Мин депозит
+			                    </th>
+			                    <th>
+			                      Мин теглене
+			                    </th>
+			                    <th class="last-column-th">
+			                      Времетраене
+			                    </th>
+			                </tr>
+			           	</thead>
+			            <tbody>
+			                <tr>
+			                    <th><img src="/img/icons/payments/visa.png" alt="Visa"></th>
+			                    <td>1</td>
+			                    <td>2</td>
+			                    <td class="last-column-th">3</td>
+			                </tr>
+			                <tr>
+			                    <th><img src="/img/icons/payments/mastercard.png" alt="MasterCard"></th>
+			                    <td>1</td>
+			                    <td>2</td>
+			                    <td class="last-column-th">3</td>
+			                </tr>
+			                <tr>
+			                    <th><img src="/img/icons/payments/neteller.png" alt="Neteller"></th>
+			                    <td>1</td>
+			                    <td>2</td>
+			                    <td class="last-column-th">3</td>
+			                </tr>
+			                <tr>
+			                    <th><img src="/img/icons/payments/skrill.png" alt="Skrill"></th>
+			                    <td>1</td>
+			                    <td>2</td>
+			                    <td class="last-column-th">3</td>
+			                </tr>
+			                <tr>
+			                    <th>Webmoney</th>
+			                    <td>1</td>
+			                    <td>2</td>
+			                    <td class="last-column-th">3</td>
+			                </tr>
+			                <tr>
+			                    <th>Банк Тран</th>
+			                    <td>1</td>
+			                    <td>2</td>
+			                    <td class="last-column-th">3</td>
+			                </tr>
+			                <tr>
+			                    <th>EcoPayz</th>
+			                    <td>1</td>
+			                    <td>2</td>
+			                    <td class="last-column-th">3</td>
+			                </tr>
+			                <tr>
+			                    <th></th>
+			                    <td>1</td>
+			                    <td>2</td>
+			                    <td class="last-column-th">3</td>
+			                </tr>
+			            </tbody>
+		        </table>
+		    </section>
 		</div>
 		<aside class="aside-main">
 			<section class="ad-section-main-block other-statii">
@@ -334,6 +427,7 @@
 	<?php require '../../include/footer.php';?>
 	<script src="/js/jquery-3.3.1.min.js" defer></script>
 	<script src="/js/collapsible.js" defer></script>
+	<script src="/js/active.js" defer></script>
 	<script src="/js/menu.js" defer></script>
 </body>
 </html>

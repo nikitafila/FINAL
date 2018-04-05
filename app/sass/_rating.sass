@@ -128,14 +128,38 @@
 	width: 10%
 .title-table-book .text-uppercase
 	font-size: 13px
+.active-border
+	border: 2px solid $border-active
+	border-radius: 2px
+.headercolclick.active-border::after
+	content: "\f0d8" !important
+	font-family: FontAwesome
+	float: right
 .container-collapsible
 	border: 1px solid $border-3
 	.headercol
-		padding: 0 10px
+		cursor: pointer
+		margin: 0
+		padding: 20px
+	.headercol::after
+		content: "\f0d7"
+		font-family: FontAwesome
+		float: right
+		/* style */
 	.contentcol
 		display: none
 		border-top: 1px solid $border-3
 		padding: 10px 20px
+.book-info
+	display: flex
+	flex-direction: column
+	border: 1px solid $border-3
+	margin: 20px 0
+	div
+		text-align: center
+		border-bottom: 1px solid $border-3
+.deposit .last-column-th
+	display: none
 @media screen and (min-width: 480px)
 	.plusandminus
 		display: table-cell
@@ -146,6 +170,8 @@
 		width: 50px
 	.title-table-book .text-uppercase
 		font-size: 15px
+	.deposit .last-column-th
+		display: table-cell
 @media screen and (min-width: 650px)
 	.book-review-title
 		flex-direction: row
@@ -160,6 +186,11 @@
 	.rating-card
 		width: 36%
 		background-color: rgba(255, 255, 255, 0.8)
+	.book-info
+		flex-direction: row
+		flex-wrap: wrap
+		div
+			width: 50%
 @media screen and (min-width: 768px)
 	.booklogo img
 		width: 150px
