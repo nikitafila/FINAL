@@ -77,16 +77,16 @@
 					<div class="month-stat">
 						<div class="month">
 							<span>Април 2018</span>
-							<span>Залози: 0</span>
-							<span>Печалби: 0</span>
+							<span>Залози: 2</span>
+							<span>Печалби: 1</span>
 							<span>Загуби: 0</span>
 							<span>Войд: 0</span>
 						</div>
 						<div class="bank-tip">
 							<span>Стартов баланс: 1000 лева</span>
-							<span>Краен баланс: 1000 лева</span>
-							<span>В играта: 0 лева</span>
-							<span>Месец: +0%</span>
+							<span>Текущт баланс: 1021 лева</span>
+							<span>В играта: 30 лева</span>
+							<span>Месец: +5.1%</span>
 						</div>
 					</div>
 					<section class="year-stat">
@@ -141,6 +141,11 @@
 					</section>
 				</section>
 				<section class="stat-history">
+					<?php require '../../include/bet/single/vasil-marinov/146.php';?>
+						<a href="/tipsters/vasil-marinov/2018/april/single/146/">Отвори залог</a>
+								</div>
+							</div>
+						</div>
 					<?php require '../../include/bet/single/vasil-marinov/145.php';?>
 						<a href="/tipsters/vasil-marinov/2018/april/single/145/">Отвори залог</a>
 								</div>
