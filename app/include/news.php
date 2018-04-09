@@ -1,13 +1,13 @@
 <h1>Прогноза на деня</h1>
 <div class="bet-of-the-day">
-	<img src="/img/bets/162.jpg">
+	<img src="/img/bets/163.jpg">
 	<div class="cell-of-day kef">
-		<span class="bold-mark">2.37</span>
+		<span class="bold-mark">1.94</span>
 		<span>Коефициент</span>
 	</div>
 	<span class="cell-of-day time">
-		06.04.2018 - 21:30
+		09.04.2018 - 21:00
 	</span>
-	<span class="cell-of-day place">Футбол. Германия. Бундеслига</span>
-	<span class="cell-of-day text"><a href="/tipsters/vasil-marinov/2018/april/single/146/">Хановер - Вердер. Победа Вердер. 2.37</a></span>
+	<span class="cell-of-day place">Футбол. Испания. Ла Лига</span>
+	<span class="cell-of-day text"><a href="/tipsters/vasil-marinov/2018/april/single/147/">Виляреал - Атлетико Билбао. Победа Виляреал. 1.94</a></span>
 </div>

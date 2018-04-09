@@ -2085,6 +2085,19 @@ table td, table th {
 .none-xs, .none-s, .none-sm, .none-m {
   display: none; }
 
+.standart-table {
+  border: 1px solid #e0e0e0; }
+  .standart-table tbody tr th {
+    border: 1px solid #e0e0e0;
+    font-weight: 100;
+    font-size: 14px; }
+  .standart-table .good-value {
+    background-color: #a0d5a2; }
+  .standart-table .standart-value {
+    background-color: #E4D385; }
+  .standart-table .bad-value {
+    background-color: #E49596; }
+
 @media screen and (min-width: 380px) {
   .none-s {
     display: table-cell; } }
