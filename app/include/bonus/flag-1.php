@@ -1,14 +1,12 @@
 <div class="flag">
-	<a href="#">
-		<img src="/img/icons/efbet-logo.png" alt="">
-		<div class="vote">
-			<i></i>
-			<span>43</span>
-		</div>
-		<div class="bon">
-			<div class="text">Бонус</div>
-			<div class="sum">200 лева</div>
-		</div>
-		<div class="button version-2">Вземи</div> 
-	</a>
+	<img src="/img/icons/efbet-logo.png" alt="">
+	<div class="vote">
+		<i></i>
+		<span>43</span>
+	</div>
+	<div class="bon">
+		<div class="text">Бонус</div>
+		<div class="sum">200 лева</div>
+	</div>
+	<div class="version-2"><a href="#">Вземи</a></div> 
 </div>

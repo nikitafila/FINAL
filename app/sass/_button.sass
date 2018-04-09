@@ -1,19 +1,28 @@
 .button
-	display: grid
+	display: inline-block
 	border: none
 	color: #fff
 	text-decoration: none
 	background-color: $headfoot
-	padding: 0 15px
+	padding: 8px 25px
 	font-size: 13px
 	text-transform: uppercase
 	font-weight: 600
 	letter-spacing: 3px
-	border-radius: 2px
+	border-radius: 1px
 	text-align: center
+	position: relative
+	outline: none
 	transition: background-color .1s ease
 	cursor: pointer
-	height: 30px
-	align-self: center
-	align-items: center
-	justify-self: center
+	&:focus, &:hover
+		text-decoration: none
+		color: #fff
+	&:hover
+		background-color: lighten($headfoot, 5%)
+		&::after
+			opacity: .22
+	&:active
+		background-color: darken($headfoot, 5%)
+		&::after
+			opacity: .32

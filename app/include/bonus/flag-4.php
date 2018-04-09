@@ -1,5 +1,4 @@
 <div class="flag">
-	<a href="#">
 		<img src="/img/icons/bet365-logo.png" alt="">
 		<div class="vote">
 			<i></i>
@@ -9,6 +8,5 @@
 			<div class="text">Бонус</div>
 			<div class="sum">200 лева</div>
 		</div>
-		<div class="button version-2">Вземи</div> 
-	</a>
+		<div class="version-2"><a href="#">Вземи</a></div>  
 </div>

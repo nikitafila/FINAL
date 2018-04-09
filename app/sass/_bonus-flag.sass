@@ -12,37 +12,36 @@
 		background-color: $white
 		@extend .border-shadow
 		@extend .border-radius
-		a
+		display: grid
+		justify-items: center
+		align-items: stretch
+		text-align: center
+		img
+			width: 60%
+			padding-top: 5px 
+		.vote
+			padding-top: 20px
+			i
+				&:before
+				   content: "\F087"
+				   font-size: 16px
+				   font-family: FontAwesome
+				   font-style: normal
+				   font-weight: 400
+				   text-decoration: inherit
+		.bon
+			padding-top: 20px
+			.text
+				font-size: 12px
+		.version-2
+			width: 70%
+			margin-bottom: 10px
+			background-color: #d0021b
 			color: #333
-			display: grid
-			justify-items: center
-			align-items: stretch
-			text-align: center
-			img
-				width: 60%
-				padding-top: 5px 
-			.vote
-				padding-top: 20px
-				i
-					&:before
-					   content: "\F087"
-					   font-size: 16px
-					   font-family: FontAwesome
-					   font-style: normal
-					   font-weight: 400
-					   text-decoration: inherit
-			.bon
-				padding-top: 20px
-				.text
-					font-size: 12px
-				   color: #999
-				.sum
-			.version-2
-				width: 70%
-				margin-bottom: 10px
-				background-color: #d0021b
-				@extend .border-shadow
-				@extend .border-radius
+			@extend .border-shadow
+			@extend .border-radius
+			a
+				color: #fff
 
 .school-fix-bonus
 	margin: $gutter

@@ -105,7 +105,7 @@
 			<div class="bonus-row">
 				<div class="bonus-cell book bet365"></div>
 				<div class="bonus-cell middle">$100</div>
-				<a class="bonus-cell">
+				<a href="/bookmakers/bet365/" class="bonus-cell">
 					<span>Вземи</span>
 				</a>
 			</div>

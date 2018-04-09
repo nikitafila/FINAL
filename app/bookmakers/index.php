@@ -20,7 +20,6 @@
 	<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
 	<link rel="stylesheet"  href="/css/main.css"/>
 	<link rel="stylesheet" href="/css/menu.css">
-	<link rel="stylesheet" href="/css/buttons.css">
 </head>
 
 <body>
@@ -49,7 +48,7 @@
 						</td>
 						<td>200 лева</td>
 						<td class="rating-nomber">№1</td>
-						<td><button class="bttn-simple bttn-md bttn-success">Ревю</button></td>
+						<td><a href="/bookmakers/bet365/" class="button">Ревю</a></td>
 					</tr>
 					<tr>
 						<td class="booklogo"><img src="/img/icons/Betfair-logo.png" alt="betfair"></td>
@@ -62,7 +61,7 @@
 						</td>
 						<td>100 лева</td>
 						<td class="rating-nomber">№2</td>
-						<td><button class="bttn-simple bttn-md bttn-success">Ревю</button></td>
+						<td><a class="button">Ревю</a></td>
 					</tr>
 					<tr>
 						<td class="booklogo"><img src="/img/icons/efbet-logo.png" alt="efbet"></td>
@@ -75,7 +74,7 @@
 						</td>
 						<td>100 лева</td>
 						<td class="rating-nomber">№3</td>
-						<td><button class="bttn-simple bttn-md bttn-success">Ревю</button></td>
+						<td><a class="button">Ревю</a></td>
 					</tr>
 					<tr>
 						<td class="booklogo"><img src="/img/icons/bwin-logo.png" alt="bwin"></td>
@@ -88,7 +87,7 @@
 						</td>
 						<td>50 лева</td>
 						<td class="rating-nomber">№4</td>
-						<td><button class="bttn-simple bttn-md bttn-success">Ревю</button></td>
+						<td><a class="button">Ревю</a></td>
 					</tr>
 				</tbody>
 			</table>	

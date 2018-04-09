@@ -131,6 +131,8 @@
 .active-border
 	border: 2px solid $border-active
 	border-radius: 2px
+h2.headercol
+	font-size: 1.0rem
 .headercolclick.active-border::after
 	content: "\f0d8" !important
 	font-family: FontAwesome
@@ -153,11 +155,15 @@
 .book-info
 	display: flex
 	flex-direction: column
-	border: 1px solid $border-3
 	margin: 20px 0
-	div
-		text-align: center
-		border-bottom: 1px solid $border-3
+	.book-info-wrapper
+		display: flex
+		align-items: center
+		justify-content: center
+		border: 1px solid $border-3
+		i
+			margin-right: 20px
+			color: $headfoot
 .deposit .last-column-th
 	display: none
 @media screen and (min-width: 480px)
@@ -172,6 +178,12 @@
 		font-size: 15px
 	.deposit .last-column-th
 		display: table-cell
+		width: 30%
+	.book-info
+		flex-direction: row
+		flex-wrap: wrap
+		.book-info-wrapper
+			width: 50%
 @media screen and (min-width: 650px)
 	.book-review-title
 		flex-direction: row
@@ -187,10 +199,8 @@
 		width: 36%
 		background-color: rgba(255, 255, 255, 0.8)
 	.book-info
-		flex-direction: row
-		flex-wrap: wrap
-		div
-			width: 50%
+		.book-info-wrapper
+			width: 33.3%
 @media screen and (min-width: 768px)
 	.booklogo img
 		width: 150px

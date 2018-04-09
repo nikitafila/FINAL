@@ -48,15 +48,15 @@
 						<span>Високи коефите</span>
 						<span>Много добър продукт</span>
 					</div>
-					<div class="button">Отиди на сайт</div>
+					<a href="https://www.bet365.com/" class="button" target="_blank">Отиди на сайт</a>
 				</section>
 				<section class="rating-card">
-				          <h3 class="rating-card-title">
+				          <h2 class="rating-card-title">
 				            Характеристики
 				            <span class="info">
 				              <span class="badge badge-primary">bet365</span>
 				            </span>
-				          </h3>
+				          </h2>
 				          <div class="rating-card-content">
 				            <div class="rating-card-content-wrapper">
 				              <div class="rating-card-item">
@@ -132,30 +132,45 @@
 			</section>
 
 			<section class="book-info">
-				<div>
-					<h6>Компанията</h6>
-					<p>Бет365</p>
+				<div class="book-info-wrapper">
+					<i class="fa fa-building fa-2x"></i>
+					<div>
+						<h5>Компанията</h5>
+						<p>Бет365</p>
+					</div>
 				</div>
-				<div>
-					<h6>Адрес</h6>
-					<p>Бет365</p>
+				<div class="book-info-wrapper">
+					<i class="fa fa-address-card fa-2x"></i>
+					<div>
+						<h5>Адрес</h5>
+						<p>Бет365</p>
+					</div>
 				</div>
-				<div>
-					<h6>Телефон</h6>
-					<p>Бет365</p>
+				<div class="book-info-wrapper">
+					<i class="fa fa-phone fa-2x"></i>
+					<div>
+						<h5>Телефон</h5>
+						<p>Бет365</p>
+					</div>
 				</div>
-				<div>
-					<h6>Имейл</h6>
-					<p>Бет365</p>
+				<div class="book-info-wrapper">
+					<i class="fa fa-envelope fa-2x"></i>
+					<div>
+						<h5>Имейл</h5>
+						<p>Бет365</p>
+					</div>
 				</div>
-				<div>
-					<h6>Дата на създаване</h6>
-					<p>05/023/123</p>
+				<div class="book-info-wrapper">
+					<i class="fa fa-calendar fa-2x"></i>
+					<div>
+						<h5>Дата на създаване</h5>
+						<p>05/023/123</p>
+					</div>
 				</div>
 			</section>
 
 			<section class="container-collapsible mt-3">
-				<h4 class="headercol">Как да се регистрирам в букмейкърска къща bet365?</h4>
+				<h2 class="headercol">Как да се регистрирам в букмейкърска къща bet365?</h2>
 				<div class="contentcol">
 					<p>Без регистрация не можете да правите нищо. Нито да гледате мачове на живо, нито да гледате специална статистика, нито да депозирате и играете.</p>
 
@@ -178,13 +193,13 @@
 				</div>
 			</section>
 			<section class="container-collapsible">
-				<h4 class="headercol">C каква валута мога да отворя сметка?</h4>
+				<h2 class="headercol">C каква валута мога да отворя сметка?</h2>
 				<div class="contentcol">
 					<p>ДКХ не дава ясни изисквания относно валута на регистриране на сметките. Затова бет365 предлагат две опции: евро или левове. Но пред Комисия по Хазарта лицензирани букита се отчитат с една обща BGN сметка, в която всичките транзакции на играчите се конвертират в една валута.</p>
 				</div>
 			</section>
 			<section class="container-collapsible">
-				<h4 class="headercol">Защо моята сметка е блокирана?</h4>
+				<h2 class="headercol">Защо моята сметка е блокирана?</h2>
 				<div class="contentcol">
 					<p>Най-често причината за блокиране на сметката е една: вие постоянно печелите. Букмейкърите не обичат играчите, които не дават парите, а ги взимат. Точно заради ситуациите, когато вие не можете да изтеглите вашите спечелени парите, съществува ДКХ, в която вие можете да се обърнете и да изложите всички детайли. Букмейкърът ще трябва да предостави на ДКХ история на вашите залози, вашите персонални данни и ще се опитва да обясни причините за блокировка на акаунта. Проблемът е в това, че почти винаги играчът нищо не може да направи, защото букита могат да измислят каквито и да е причините, които ще потвърждават нарушаване на правилата на компанията.</p>
 
@@ -192,13 +207,13 @@
 				</div>
 			</section>
 			<section class="container-collapsible">
-				<h4 class="headercol">Какво ще се случи ако отворя втоpи акаунт?</h4>
+				<h2 class="headercol">Какво ще се случи ако отворя втоpи акаунт?</h2>
 				<div class="contentcol">
 					<p>Всичи букита забраняват отваряне на мулти сметки, така че ако решите да направите това, няма да имате никакви възможности за връщане на своите пари, в случай на блокиране на акаунта.</p>
 				</div>
 			</section>
 			<section class="container-collapsible">
-				<h4 class="headercol">Как мога да направя депозит?</h4>
+				<h2 class="headercol">Как мога да направя депозит?</h2>
 				<div class="contentcol">
 					<p>Най-бързо и най-лесно плащания стават с електронни портфейли Skrill и Neteller. Но използване на тези платежни системи ще водят до губене на допълнителен % при теглене на парите от портфейл към българска банкова карта. Естествено, бет365 не взимат никакви комисиони, но използвайки скрил и нетелер все пак изпускате около 5-10%, ако поискате да изпратите своите пари към банкова карта.</p>
 
@@ -206,7 +221,7 @@
 				</div>
 			</section>
 			<section class="container-collapsible">
-				<h4 class="headercol">Информация за лиценз</h4>
+				<h2 class="headercol">Информация за лиценз</h2>
 				<div class="contentcol">
 					<p>Бет365 разполага с лиценз за организиране на хазартни игри от ДКХ.</p>
 
@@ -216,7 +231,7 @@
 				</div>
 			</section>
 			<section class="container-collapsible">
-				<h4 class="headercol">Какви бонуси предлага компанията?</h4>
+				<h2 class="headercol">Какви бонуси предлага компанията?</h2>
 				<div class="contentcol">
 					<p>Бет365 постоянно предлагат различни оферти, които стимулират  клиентите за по-активна игра.</p>
 
@@ -233,7 +248,7 @@
 				</div>
 			</section>
 			<section class="container-collapsible">
-				<h4 class="headercol">Оценка на продукт</h4>
+				<h2 class="headercol">Оценка на продукт</h2>
 				<div class="contentcol">
 					<p>Бет365 е най-прочут букмейкър в света. Тяхната реклама е представена на всичките големи спортни сайтове. Всички спортни ресурси за статистика на мачове дават коефициентите на бет365. Причините за това са много ясни: бет365 имат огромен маркетинг отдел и харчи за рекламата над 200 милиона евро годишно. Обаче такива големи разходи не означават, че букмейкърът има най-добър продукт.</p>
 
@@ -246,7 +261,7 @@
 				</div>
 			</section>
 			<section class="container-collapsible">
-				<h4 class="headercol">Какви опции се предлагат?</h4>
+				<h2 class="headercol">Какви опции се предлагат?</h2>
 				<div class="contentcol">
 					<ul>
 						<li>създай залог</li>
@@ -255,7 +270,7 @@
 				</div>
 			</section>
 			<section class="container-collapsible">
-				<h4 class="headercol">Мога ли да залагам от телефона?</h4>
+				<h2 class="headercol">Мога ли да залагам от телефона?</h2>
 				<div class="contentcol">
 					<p>Залагайки в бет365, никога няма да имате проблем с достъпа до сайта, независимо от това къде се намирате и от кое устройства искате да играете. Британският букмейкър поддържва следващите апликации:</p>
 
@@ -347,12 +362,11 @@
 		        </table>
 		    </section>
 		    <section class="mt-3 deposit">
+		    	<h2>Разплащателни методи</h2>
 		        <table>
 			           <thead>
 			                <tr class="title-table-book">
-			                    <th class="text-center">
-			                      #
-			                    </th>
+			                    <th class="text-center"></th>
 			                    <th>
 			                      Мин депозит
 			                    </th>
@@ -360,58 +374,52 @@
 			                      Мин теглене
 			                    </th>
 			                    <th class="last-column-th">
-			                      Времетраене
+			                      Обработка
 			                    </th>
 			                </tr>
 			           	</thead>
 			            <tbody>
 			                <tr>
 			                    <th><img src="/img/icons/payments/visa.png" alt="Visa"></th>
-			                    <td>1</td>
-			                    <td>2</td>
-			                    <td class="last-column-th">3</td>
+			                    <td>20 BGN</td>
+			                    <td>20 BGN</td>
+			                    <td class="last-column-th">1-5 Работни дни</td>
 			                </tr>
 			                <tr>
 			                    <th><img src="/img/icons/payments/mastercard.png" alt="MasterCard"></th>
-			                    <td>1</td>
-			                    <td>2</td>
-			                    <td class="last-column-th">3</td>
+			                    <td>20 BGN</td>
+			                    <td>20 BGN</td>
+			                    <td class="last-column-th">1-5 Работни дни</td>
 			                </tr>
 			                <tr>
 			                    <th><img src="/img/icons/payments/neteller.png" alt="Neteller"></th>
-			                    <td>1</td>
-			                    <td>2</td>
-			                    <td class="last-column-th">3</td>
+			                    <td>40 BGN</td>
+			                    <td>40 BGN</td>
+			                    <td class="last-column-th">До 12 часа</td>
 			                </tr>
 			                <tr>
 			                    <th><img src="/img/icons/payments/skrill.png" alt="Skrill"></th>
-			                    <td>1</td>
-			                    <td>2</td>
-			                    <td class="last-column-th">3</td>
+			                    <td>20 BGN</td>
+			                    <td>20 BGN</td>
+			                    <td class="last-column-th">До 24 часа</td>
 			                </tr>
 			                <tr>
-			                    <th>Webmoney</th>
-			                    <td>1</td>
-			                    <td>2</td>
-			                    <td class="last-column-th">3</td>
+			                    <th><img src="/img/icons/payments/bank-transfer.png" alt="bank-transfer"></th>
+			                    <td>100 BGN</td>
+			                    <td>80 BGN</td>
+			                    <td class="last-column-th">2-10 Работни Дни</td>
 			                </tr>
 			                <tr>
-			                    <th>Банк Тран</th>
-			                    <td>1</td>
-			                    <td>2</td>
-			                    <td class="last-column-th">3</td>
+			                    <th><img src="/img/icons/payments/ecopayz.png" alt="ecopayz"></th>
+			                    <td>40 BGN</td>
+			                    <td>50 BGN</td>
+			                    <td class="last-column-th">До 24 часа</td>
 			                </tr>
 			                <tr>
-			                    <th>EcoPayz</th>
-			                    <td>1</td>
-			                    <td>2</td>
-			                    <td class="last-column-th">3</td>
-			                </tr>
-			                <tr>
-			                    <th></th>
-			                    <td>1</td>
-			                    <td>2</td>
-			                    <td class="last-column-th">3</td>
+			                    <th><img src="/img/icons/payments/paysafecard.png" alt="paysafecard"></th>
+			                    <td>20 BGN</td>
+			                    <td>-</td>
+			                    <td class="last-column-th">Незабавно</td>
 			                </tr>
 			            </tbody>
 		        </table>
