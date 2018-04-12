@@ -77,9 +77,9 @@
 					<div class="month-stat">
 						<div class="month">
 							<span>Април 2018</span>
-							<span>Залози: 3</span>
+							<span>Залози: 4</span>
 							<span>Печалби: 1</span>
-							<span>Загуби: 1</span>
+							<span>Загуби: 2</span>
 							<span>Войд: 0</span>
 						</div>
 						<div class="bank-tip">
@@ -141,6 +141,12 @@
 					</section>
 				</section>
 				<section class="stat-history">
+					<?php require '../../include/bet/combi/vasil-marinov/119.php';?>
+						<a href="/tipsters/vasil-marinov/2018/april/combi/119/">Отвори залог</a>
+								</div>
+							</div>
+						</div>
+						</div>
 					<?php require '../../include/bet/single/vasil-marinov/147.php';?>
 						<a href="/tipsters/vasil-marinov/2018/april/single/147/">Отвори залог</a>
 								</div>

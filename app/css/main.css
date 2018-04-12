@@ -1761,12 +1761,26 @@ article a:hover, article active {
 .card-title {
   margin-bottom: .75rem; }
 
+.info-box {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 20px;
+  background-color: #ddd; }
+  .info-box .fa-info {
+    display: none;
+    font-size: 40px;
+    margin: 20px 20px 0 0; }
+
 @media screen and (min-width: 768px) {
   .card-body {
     padding: 1.25rem;
     margin: 20px; }
   article {
-    padding: 0 20px; } }
+    padding: 0 20px; }
+  .info-box .fa-info {
+    display: block; } }
 
 .bgr-tip, .articles-page {
   background-color: #fff;
