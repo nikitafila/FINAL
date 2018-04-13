@@ -77,8 +77,8 @@
 					<div class="month-stat">
 						<div class="month">
 							<span>Април 2018</span>
-							<span>Залози: 0</span>
-							<span>Печалби: 0</span>
+							<span>Залози: 2</span>
+							<span>Печалби: 1</span>
 							<span>Загуби: 0</span>
 							<span>Войд: 0</span>
 						</div>
@@ -97,7 +97,7 @@
 							<div class="full-year-stat">
 								<div class="month-stat">
 									<div class="month">
-										<span>Април 2018</span>
+										<span>Март 2018</span>
 										<span>Залози: 12</span>
 										<span>Печалби: 6</span>
 										<span>Загуби: 6</span>
@@ -127,6 +127,11 @@
 					</section>
 				</section>
 				<section class="stat-history">
+					<?php require '../../include/bet/single/evtim-t/129.php';?>
+						<a href="/tipsters/evtim-t/2018/april/single/129">Отвори залог</a>
+								</div>
+							</div>
+						</div>
 					<?php require '../../include/bet/combi/evtim-t/121.php';?>
 						<a href="/tipsters/evtim-t/2018/april/combi/121/">Отвори залог</a>
 								</div>

@@ -17,7 +17,7 @@
 	<meta name="description" content="Букмейкъри с най-високите коефициенти, 100% бонуси, бързи метози за плащане (Visa, MasterCard, Skrill, ИзиПей), онлайн съпорт, богат избор от събития.">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
 	<link rel="stylesheet"  href="/css/main.css"/>
 	<link rel="stylesheet" href="/css/menu.css">
 </head>

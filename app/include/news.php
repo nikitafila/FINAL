@@ -1,13 +1,13 @@
 <h1>Прогноза на деня</h1>
 <div class="bet-of-the-day">
-	<img src="/img/bets/165.jpg">
+	<img src="/img/bets/166.jpg">
 	<div class="cell-of-day kef">
-		<span class="bold-mark">3.95</span>
+		<span class="bold-mark">1.89</span>
 		<span>Коефициент</span>
 	</div>
 	<span class="cell-of-day time">
-		12.04.2018
+		13.04.2018 - 21:45
 	</span>
-	<span class="cell-of-day place">Футбол. Лига Европа</span>
-	<span class="cell-of-day text"><a href="/tipsters/evtim-t/2018/april/combi/121/">Комбиниран залог. 3.95</a></span>
+	<span class="cell-of-day place">Футбол. Англия. Чемпиъншип</span>
+	<span class="cell-of-day text"><a href="/tipsters/evtim-t/2018/april/single/129/">Астън Вила - Лийдс. 1.89</a></span>
 </div>

@@ -17,7 +17,7 @@
 	<meta name="description" content="Подробно ревю на букмейкъра bet365. Подробен анализ на продук: регистрация, депозит, спорт, казино, лайвстрийм. Процедура верификация. Оценка на сайта.">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
 	<link rel="stylesheet"  href="/css/main.css"/>
 	<link rel="stylesheet" href="/css/menu.css">
 	<link rel="stylesheet" href="/css/buttons.css">
