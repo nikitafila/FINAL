@@ -29,12 +29,7 @@
 		<section class="flag-bonus">
 			<h1>Всички бонуси от български букмейкъри</h1>
 			<div class="block bonus-flag">
-				<?php require '../include/bonus/flag-1.php';?>
-				<?php require '../include/bonus/flag-2.php';?>
-				<?php require '../include/bonus/flag-3.php';?>
-				<?php require '../include/bonus/flag-4.php';?>
-				<?php require '../include/bonus/flag-5.php';?>
-				<?php require '../include/bonus/flag-6.php';?>
+				
 			</div>
 		</section>
 		<sidebar class="bonus-page">
