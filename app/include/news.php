@@ -1,13 +1,13 @@
 <h1>Прогноза на деня</h1>
 <div class="bet-of-the-day">
-	<img src="/img/bets/167.jpg">
+	<img src="/img/bets/169.jpg">
 	<div class="cell-of-day kef">
-		<span class="bold-mark">2.60</span>
+		<span class="bold-mark">1.60</span>
 		<span>Коефициент</span>
 	</div>
 	<span class="cell-of-day time">
-		17.04.2018 - 17:30
+		24.04.2018 - 20:45
 	</span>
-	<span class="cell-of-day place">България. Първа лига. Група на изпадащите</span>
-	<span class="cell-of-day text"><a href="/tipsters/evtim-t/2018/april/single/130/">Пирин Благоевград - Черно Море. 2.60</a></span>
+	<span class="cell-of-day place">Шампионска Лига</span>
+	<span class="cell-of-day text"><a href="/tipsters/evtim-t/2018/april/single/132/">Ливърпул - Рома. 1.60</a></span>
 </div>
