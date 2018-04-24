@@ -36,6 +36,10 @@
 							<i class="fa fa-file-text" aria-hidden="true"></i>
 							<a href="/articles/vidove-zalozi/">Видове залози</a>
 						</li>
+						<li>
+							<i class="fa fa-file-text" aria-hidden="true"></i>
+							<a href="/articles/odds-comparison/">Сравнение на коефициентите</a>
+						</li>
 					</ul>
 				</div>
 				<div class="block-articles">
