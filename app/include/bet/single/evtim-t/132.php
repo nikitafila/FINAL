@@ -11,11 +11,11 @@
 				<span class="small-text">24.04.2018 - 20:45</span>
 				<span>Прогноза: <b>Победа - Ливърпул</b></span>
 				<span>КФ: <b>1.60</b></span>
-				<i class="fa fa-check-circle-o fa-2x" aria-hidden="true"></i>
+				<i class="fa fa-check-circle-o greens fa-2x" aria-hidden="true"></i>
 			</div>
 		</div>
 		<div class="single-match-result">
 			<span>Сума на залога: 60 лева</span>
 			<span>6% от банка</span>
-			<span>Статус на залога: </span>
+			<span>Статус на залога: <span class="green">Печели</span></span>
 			
