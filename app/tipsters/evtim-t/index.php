@@ -77,16 +77,16 @@
 					<div class="month-stat">
 						<div class="month">
 							<span>Април 2018</span>
-							<span>Залози: 2</span>
-							<span>Печалби: 1</span>
-							<span>Загуби: 0</span>
+							<span>Залози: 6</span>
+							<span>Печалби: 3</span>
+							<span>Загуби: 3</span>
 							<span>Войд: 0</span>
 						</div>
 						<div class="bank-tip">
 							<span>Стартов баланс: 1000 лева</span>
-							<span>Текущт баланс: 1000 лева</span>
+							<span>Текущт баланс: 1124 лева</span>
 							<span>В играта: 0 лева</span>
-							<span>Месец: +0%</span>
+							<span>Месец: +12.4%</span>
 						</div>
 					</div>
 					<section class="year-stat">

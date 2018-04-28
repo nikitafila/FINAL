@@ -1,5 +1,4 @@
 nav {
-  background-color: #fcd14a;
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -2px rgba(0, 0, 0, 0.2);
 }
 .logo {
@@ -8,84 +7,56 @@ nav {
   background-image: url(/img/logo.png);
   background-repeat: no-repeat;
 }
-button.menu {
-  height: 46px;
-  margin-top: -46px;
-  width: 50px;
-  float: right;
-}
 
-button.menu::before {
-  content: '\2261';
-  font-size: 2em;
-}
-button.menu[aria-expanded="true"]::before {
-  content: '×';
-}
-nav ul {
+nav.menu ul.desctop-menu {
   margin: 0;
   padding: 0;
   display: none;
 }
-nav ul li {
+nav.menu ul.desctop-menu li {
   text-align: left;
 }
-nav ul li a {
+nav.menu ul.desctop-menu li a {
   padding: .7em 1.5em;
   display: block;
-  font-weight: bold;
-  color: #fff;
   height: 46px;
 }
-nav ul li a:hover {
+nav.menu ul.desctop-menu li a:hover {
   background-color: #E5AA38;
 }
-nav ul li a:focus {
+nav.menu ul.desctop-menu li a:focus {
   background-color: #E5AA38;
 }
-
-ul {
+ul.desctop-menu {
     display: block;
 }
 ul.submenu {
     display: none;
-    width: 100%;
-    padding-left: 20px;
-    background-color: #fcd14a;
+    background-color: #4c708b;
 }
-ul.submenu > li {
-    display: block;
-}
-ul > li:hover > ul.submenu {
+
+ul.desctop-menu > li:hover > ul.submenu {
   display: block;
+  position: absolute;
   z-index: 1;
+  width: 300px;
+  margin: 0;
+  padding: 0;
+  border-top: 1px solid #2e4050;
 }
-
-
 [aria-hidden="false"] {
   display: block;
 }
 @media screen and (min-width: 768px) {
-  button.menu {
-    display: none;
-  }
-
-  nav ul {
+  nav.menu ul.desctop-menu {
     display: flex;
     flex-flow: row wrap;
     justify-content: flex-end;
     margin-top: -46px;
     float: right;
   }
-  nav ul li {
+  nav.menu ul.desctop-menu li {
     text-align: center;
-  }
-  ul.submenu {
-    display: none;
-    position: absolute;
-    top: 90px;
-    width: inherit;
-    padding-left: 0px;
   }
 }
   

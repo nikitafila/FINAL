@@ -20,28 +20,60 @@
 	<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
 	<link rel="stylesheet"  href="css/main.css"/>
 	<link rel="stylesheet"  href="css/menu.css"/>
+	<link rel="stylesheet"  href="css/menu2.css"/>
 </head>
 
 <body>
 <div class="container">
 	<header>
-		<nav>
-			<div class="logo"></div>	
-			<button class="menu"></button>
-			<ul>
-		  <li><a href="#">Прогнози</a>
-		  	<ul class="submenu">
-		  		<li><a href="/football/">Футбол</a></li>
-		  		<li><a href="/tennis/">Тенис</a></li>
-		  		<li><a href="/basketball/">Баскетбол</a></li>
-		  		<li><a href="/other-sports/">Друго</a></li>
-		  	</ul>
-		  </li>
-	      <li><a href="/tipsters/">Типстъри</a></li>
-	      <li><a href="/bookmakers/">Букмейкъри</a></li>
-	      <li><a href="/bonus/">Бонуси</a></li>
-	      <li><a href="/articles/">Статии</a></li>
-	    </ul>
+		<nav class="menu">
+			<div class="logo"></div>
+
+			<!-- Navigation -->
+			<div class="b-nav">
+
+				<ul class="menu-mobile">
+				  <li><a href="#" onclick="myFunction()" class="Droop">Прогнози</a>
+				  	<ul class="mb-drop" id="mbDropdown">
+				  		<li><a href="/football/">Футбол</a></li>
+				  		<li><a href="/tennis/">Тенис</a></li>
+				  		<li><a href="/basketball/">Баскетбол</a></li>
+				  		<li><a href="/other-sports/">Друго</a></li>
+				  	</ul>
+				  </li>
+			    <li><a href="/tipsters/">Типстъри</a></li>
+			    <li><a href="/bookmakers/">Букмейкъри</a></li>
+			    <li><a href="/bonus/">Бонуси</a></li>
+			    <li><a href="/articles/">Статии</a></li>
+		    </ul>
+
+			</div>
+
+			<!-- Burger-Icon -->
+			<div class="b-container">
+			  <div class="b-menu">
+			    <div class="b-bun b-bun--top"></div>
+			    <div class="b-bun b-bun--mid"></div>
+			    <div class="b-bun b-bun--bottom"></div>
+			  </div>
+
+			  <!-- Burger-Brand -->
+			</div>
+
+			<ul class="desctop-menu">
+			  <li><a href="#">Прогнози</a>
+			  	<ul class="submenu">
+			  		<li><a href="/football/">Футбол</a></li>
+			  		<li><a href="/tennis/">Тенис</a></li>
+			  		<li><a href="/basketball/">Баскетбол</a></li>
+			  		<li><a href="/other-sports/">Друго</a></li>
+			  	</ul>
+			  </li>
+		      <li><a href="/tipsters/">Типстъри</a></li>
+		      <li><a href="/bookmakers/">Букмейкъри</a></li>
+		      <li><a href="/bonus/">Бонуси</a></li>
+		      <li><a href="/articles/">Статии</a></li>
+	    	</ul>
 		</nav>
 	</header>
 	<main>
@@ -138,5 +170,27 @@
 	<script src="js/jquery-3.3.1.min.js" defer></script>
 	<script  src="js/common.js" defer></script>
 	<script src="js/menu.js" defer></script>
+	<script>
+		/* When the user clicks on the button, 
+		toggle between hiding and showing the dropdown content */
+		function myFunction() {
+		    document.getElementById("mbDropdown").classList.toggle("show");
+		}
+
+		// Close the dropdown if the user clicks outside of it
+		window.onclick = function(event) {
+		  if (!event.target.matches('.Droop')) {
+
+		    var dropdowns = document.getElementsByClassName("mb-drop");
+		    var i;
+		    for (i = 0; i < dropdowns.length; i++) {
+		      var openDropdown = dropdowns[i];
+		      if (openDropdown.classList.contains('show')) {
+		        openDropdown.classList.remove('show');
+		      }
+		    }
+		  }
+		}
+</script>
 </body>
 </html>
