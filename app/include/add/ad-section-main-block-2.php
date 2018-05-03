@@ -1,5 +1,5 @@
 <section class="ad-section-main-block ad2">
-	<span class="title-row">Топ типстъри</span>
+	<span class="title-row-main">Топ типстъри</span>
 	<div class="profil">
 		<a href="/tipsters/vasil-marinov/" class="picture">
 			<img src="/img/icons/man.svg">

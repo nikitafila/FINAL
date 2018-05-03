@@ -456,7 +456,7 @@ a {
   color: #337ab7; }
 
 nav {
-  background-color: #2e4050; }
+  background-color: #10222c; }
 
 nav ul li a {
   color: #fff; }
@@ -573,7 +573,7 @@ h3 {
   transition-property: color, background-color; }
 
 .hvr-fade:hover, .hvr-fade:focus, .hvr-fade:active {
-  background-color: #689EE0;
+  background-color: #92bfb6;
   color: white; }
 
 /* Grow */
@@ -915,8 +915,8 @@ main {
 .small-text {
   font-size: 12px; }
 
-.title-row {
-  background-color: #e45a4c;
+.title-row, .title-row-main {
+  background-color: #3A6283;
   width: 100%;
   display: grid;
   grid-column: 1/3;
@@ -933,6 +933,10 @@ main {
   -webkit-background-size: cover;
           background-size: cover;
   background-repeat: norepeat; }
+
+.title-row-main {
+  background-color: #3a838d;
+  color: #fff; }
 
 .art {
   height: 130px;
@@ -1110,12 +1114,12 @@ main {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
   padding: 0;
-  color: red;
+  color: #10222c;
   text-align: center;
   border-bottom: 1px solid #e0e0e0; }
   .zalog-item-title a:hover, .zalog-item-title active {
     text-decoration: underline;
-    color: red; }
+    color: #10222c; }
   .zalog-item-title .tipster {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -1404,7 +1408,7 @@ main {
       -ms-flex-pack: center;
           justify-content: center;
   color: #fff;
-  background-color: #7fbf4b; }
+  background-color: #92bfb6; }
 
 .badge {
   display: inline-block;
@@ -1421,21 +1425,21 @@ main {
 
 .badge-primary {
   color: #fff;
-  background-color: #7fbf4b; }
+  background-color: #92bfb6; }
 
 .badge-primary[href]:focus, .badge-primary[href]:hover {
   color: #fff;
   text-decoration: none;
-  background-color: #0062cc; }
+  background-color: #3a838d; }
 
 .book-icon {
-  color: #7c6ed2; }
+  color: #3a838d; }
 
 .fa-check {
-  color: #7fbf4b; }
+  color: #3a838d; }
 
 .fa-times {
-  color: #c4c4c4; }
+  color: #3a838d; }
 
 .last-column-th {
   width: 10%; }
@@ -1444,7 +1448,7 @@ main {
   font-size: 13px; }
 
 .active-border {
-  border: 2px solid #9189c7;
+  border: 2px solid #3a838d;
   -webkit-border-radius: 2px;
           border-radius: 2px; }
 
@@ -1499,7 +1503,7 @@ h2.headercol {
     border: 1px solid #ddd; }
     .book-info .book-info-wrapper i {
       margin-right: 20px;
-      color: #7c6ed2; }
+      color: #3a838d; }
 
 .deposit .last-column-th {
   display: none; }
@@ -1683,7 +1687,7 @@ h2.headercol {
       .school-container .block-articles ul a {
         font-size: 15px; }
       .school-container .block-articles ul i {
-        color: #2e4050;
+        color: #10222c;
         margin-left: -20px;
         margin-right: 5px;
         margin-left: -20px;
@@ -1815,7 +1819,7 @@ article a:hover, article active {
   background-color: #fff;
   display: grid; }
   .bgr-tip .name-tip div, .articles-page .name-tip div {
-    background-color: #7fbf4b;
+    background-color: #3a838d;
     -webkit-border-radius: 5px 5px 0 0;
             border-radius: 5px 5px 0 0;
     text-align: center;
@@ -1842,7 +1846,7 @@ article a:hover, article active {
       -webkit-justify-content: space-around;
           -ms-flex-pack: distribute;
               justify-content: space-around;
-      background-color: #1d2f47;
+      background-color: #3A6283;
       font-weight: bold;
       color: white;
       font-size: 12px;
@@ -1883,7 +1887,7 @@ article a:hover, article active {
                 box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.3);
         text-align: center; }
       .bgr-tip .stat-tip .main-stat-tip .month-good, .articles-page .stat-tip .main-stat-tip .month-good {
-        background-color: #7fbf4b;
+        background-color: #3FB5AD;
         color: #fff;
         font-weight: bold;
         font-size: 14px;
@@ -2009,7 +2013,7 @@ article a:hover, article active {
                 border-radius: 5px; }
         .bgr-tip .stat-history .bet-item .bet-1 .title, .bgr-tip .stat-history .bet-item .bet-1 .title-combi, .bgr-tip .stat-history .bet-item .title-single .title, .bgr-tip .stat-history .bet-item .title-single .title-combi, .bgr-tip .stat-history .bet-item .title-single-1 .title, .bgr-tip .stat-history .bet-item .title-single-1 .title-combi, .bgr-tip .tipster-bet .bet-item .bet-1 .title, .bgr-tip .tipster-bet .bet-item .bet-1 .title-combi, .bgr-tip .tipster-bet .bet-item .title-single .title, .bgr-tip .tipster-bet .bet-item .title-single .title-combi, .bgr-tip .tipster-bet .bet-item .title-single-1 .title, .bgr-tip .tipster-bet .bet-item .title-single-1 .title-combi, .articles-page .stat-history .bet-item .bet-1 .title, .articles-page .stat-history .bet-item .bet-1 .title-combi, .articles-page .stat-history .bet-item .title-single .title, .articles-page .stat-history .bet-item .title-single .title-combi, .articles-page .stat-history .bet-item .title-single-1 .title, .articles-page .stat-history .bet-item .title-single-1 .title-combi, .articles-page .tipster-bet .bet-item .bet-1 .title, .articles-page .tipster-bet .bet-item .bet-1 .title-combi, .articles-page .tipster-bet .bet-item .title-single .title, .articles-page .tipster-bet .bet-item .title-single .title-combi, .articles-page .tipster-bet .bet-item .title-single-1 .title, .articles-page .tipster-bet .bet-item .title-single-1 .title-combi {
           text-align: center;
-          background-color: #689EE0;
+          background-color: #3a838d;
           color: #fff;
           font-weight: bold;
           -webkit-border-radius: 5px 5px 0 0;
@@ -2047,7 +2051,7 @@ article a:hover, article active {
           .bgr-tip .stat-history .bet-item .bet-1 .single-match .reds, .bgr-tip .stat-history .bet-item .bet-1 .single-acc .reds, .bgr-tip .stat-history .bet-item .title-single .single-match .reds, .bgr-tip .stat-history .bet-item .title-single .single-acc .reds, .bgr-tip .stat-history .bet-item .title-single-1 .single-match .reds, .bgr-tip .stat-history .bet-item .title-single-1 .single-acc .reds, .bgr-tip .tipster-bet .bet-item .bet-1 .single-match .reds, .bgr-tip .tipster-bet .bet-item .bet-1 .single-acc .reds, .bgr-tip .tipster-bet .bet-item .title-single .single-match .reds, .bgr-tip .tipster-bet .bet-item .title-single .single-acc .reds, .bgr-tip .tipster-bet .bet-item .title-single-1 .single-match .reds, .bgr-tip .tipster-bet .bet-item .title-single-1 .single-acc .reds, .articles-page .stat-history .bet-item .bet-1 .single-match .reds, .articles-page .stat-history .bet-item .bet-1 .single-acc .reds, .articles-page .stat-history .bet-item .title-single .single-match .reds, .articles-page .stat-history .bet-item .title-single .single-acc .reds, .articles-page .stat-history .bet-item .title-single-1 .single-match .reds, .articles-page .stat-history .bet-item .title-single-1 .single-acc .reds, .articles-page .tipster-bet .bet-item .bet-1 .single-match .reds, .articles-page .tipster-bet .bet-item .bet-1 .single-acc .reds, .articles-page .tipster-bet .bet-item .title-single .single-match .reds, .articles-page .tipster-bet .bet-item .title-single .single-acc .reds, .articles-page .tipster-bet .bet-item .title-single-1 .single-match .reds, .articles-page .tipster-bet .bet-item .title-single-1 .single-acc .reds {
             color: #ec6b6b; }
           .bgr-tip .stat-history .bet-item .bet-1 .single-match .greens, .bgr-tip .stat-history .bet-item .bet-1 .single-acc .greens, .bgr-tip .stat-history .bet-item .title-single .single-match .greens, .bgr-tip .stat-history .bet-item .title-single .single-acc .greens, .bgr-tip .stat-history .bet-item .title-single-1 .single-match .greens, .bgr-tip .stat-history .bet-item .title-single-1 .single-acc .greens, .bgr-tip .tipster-bet .bet-item .bet-1 .single-match .greens, .bgr-tip .tipster-bet .bet-item .bet-1 .single-acc .greens, .bgr-tip .tipster-bet .bet-item .title-single .single-match .greens, .bgr-tip .tipster-bet .bet-item .title-single .single-acc .greens, .bgr-tip .tipster-bet .bet-item .title-single-1 .single-match .greens, .bgr-tip .tipster-bet .bet-item .title-single-1 .single-acc .greens, .articles-page .stat-history .bet-item .bet-1 .single-match .greens, .articles-page .stat-history .bet-item .bet-1 .single-acc .greens, .articles-page .stat-history .bet-item .title-single .single-match .greens, .articles-page .stat-history .bet-item .title-single .single-acc .greens, .articles-page .stat-history .bet-item .title-single-1 .single-match .greens, .articles-page .stat-history .bet-item .title-single-1 .single-acc .greens, .articles-page .tipster-bet .bet-item .bet-1 .single-match .greens, .articles-page .tipster-bet .bet-item .bet-1 .single-acc .greens, .articles-page .tipster-bet .bet-item .title-single .single-match .greens, .articles-page .tipster-bet .bet-item .title-single .single-acc .greens, .articles-page .tipster-bet .bet-item .title-single-1 .single-match .greens, .articles-page .tipster-bet .bet-item .title-single-1 .single-acc .greens {
-            color: #7fbf4b; }
+            color: #3FB5AD; }
         .bgr-tip .stat-history .bet-item .bet-1 .single-acc, .bgr-tip .stat-history .bet-item .title-single .single-acc, .bgr-tip .stat-history .bet-item .title-single-1 .single-acc, .bgr-tip .tipster-bet .bet-item .bet-1 .single-acc, .bgr-tip .tipster-bet .bet-item .title-single .single-acc, .bgr-tip .tipster-bet .bet-item .title-single-1 .single-acc, .articles-page .stat-history .bet-item .bet-1 .single-acc, .articles-page .stat-history .bet-item .title-single .single-acc, .articles-page .stat-history .bet-item .title-single-1 .single-acc, .articles-page .tipster-bet .bet-item .bet-1 .single-acc, .articles-page .tipster-bet .bet-item .title-single .single-acc, .articles-page .tipster-bet .bet-item .title-single-1 .single-acc {
           cursor: context-menu; }
         .bgr-tip .stat-history .bet-item .bet-1 .acc-title, .bgr-tip .stat-history .bet-item .title-single .acc-title, .bgr-tip .stat-history .bet-item .title-single-1 .acc-title, .bgr-tip .tipster-bet .bet-item .bet-1 .acc-title, .bgr-tip .tipster-bet .bet-item .title-single .acc-title, .bgr-tip .tipster-bet .bet-item .title-single-1 .acc-title, .articles-page .stat-history .bet-item .bet-1 .acc-title, .articles-page .stat-history .bet-item .title-single .acc-title, .articles-page .stat-history .bet-item .title-single-1 .acc-title, .articles-page .tipster-bet .bet-item .bet-1 .acc-title, .articles-page .tipster-bet .bet-item .title-single .acc-title, .articles-page .tipster-bet .bet-item .title-single-1 .acc-title {
@@ -2174,7 +2178,7 @@ table td, table th {
   border: none;
   color: #fff;
   text-decoration: none;
-  background-color: #7c6bcc;
+  background-color: #3a838d;
   padding: 8px 25px;
   font-size: 13px;
   text-transform: uppercase;
@@ -2193,11 +2197,11 @@ table td, table th {
     text-decoration: none;
     color: #fff; }
   .button:hover {
-    background-color: #8d7ed3; }
+    background-color: #41949f; }
     .button:hover::after {
       opacity: .22; }
   .button:active {
-    background-color: #6b58c5; }
+    background-color: #33727b; }
     .button:active::after {
       opacity: .32; }
 
@@ -2237,7 +2241,7 @@ table td, table th {
     padding: .45rem;
     vertical-align: middle; }
   .container-2 table tbody tr:hover {
-    background-color: #89BAFC; }
+    background-color: #92bfb6; }
   .container-2 .qouta {
     background-color: #f8f8f8; }
   .container-2 .border-blocks {

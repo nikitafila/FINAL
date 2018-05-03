@@ -87,7 +87,7 @@
 				<a href="/articles/sistema-martingeil/" class="title-row art"><span class="hvr-grow">Стратегия Мартингейл</span></a>
 			</section>
 			<section class="ad-section-main-block ad2">
-				<span class="title-row">Топ типстъри</span>
+				<span class="title-row-main">Топ типстъри</span>
 				<div class="profil">
 					<a href="/tipsters/vasil-marinov/" class="picture">
 						<img src="/img/icons/man.svg">
@@ -170,27 +170,5 @@
 	<script src="js/jquery-3.3.1.min.js" defer></script>
 	<script  src="js/common.js" defer></script>
 	<script src="js/menu.js" defer></script>
-	<script>
-		/* When the user clicks on the button, 
-		toggle between hiding and showing the dropdown content */
-		function myFunction() {
-		    document.getElementById("mbDropdown").classList.toggle("show");
-		}
-
-		// Close the dropdown if the user clicks outside of it
-		window.onclick = function(event) {
-		  if (!event.target.matches('.Droop')) {
-
-		    var dropdowns = document.getElementsByClassName("mb-drop");
-		    var i;
-		    for (i = 0; i < dropdowns.length; i++) {
-		      var openDropdown = dropdowns[i];
-		      if (openDropdown.classList.contains('show')) {
-		        openDropdown.classList.remove('show');
-		      }
-		    }
-		  }
-		}
-</script>
 </body>
 </html>
