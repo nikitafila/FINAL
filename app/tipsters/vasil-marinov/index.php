@@ -43,16 +43,16 @@
 					<div class="profit-tip">
 						<div>
 							<span>Доход</span>
-							<span>+23.2%</span>
+							<span>+18,3%</span>
 						</div>
 						<div>
 							<span>Баланс</span>
-							<span>1232,50 BGN</span>
+							<span>1183,70 BGN</span>
 						</div>
 					</div>
 					<div class="main-stat-tip">
 						<div class="item-tip">
-							<span>17</span>
+							<span>18</span>
 							<span>Печалби</span>
 						</div>
 						<div class="item-tip">
@@ -60,33 +60,33 @@
 							<span>Войд</span>
 						</div>
 						<div class="item-tip">
-							<span>13</span>
+							<span>16</span>
 							<span>Загуби</span>
 						</div>
 						<div class="item-tip">
-							<span>1.79</span>
+							<span>1.96</span>
 							<span>Ср. Коеф</span>
 						</div>
 					</div>
 					<div class="main-stat-tip">
 						<h5>Последни 3 месеца</h5>
+						<div class="item-tip month-bad">-8.3%</div>
 						<div class="item-tip month-good">+4,5%</div>
 						<div class="item-tip month-good">+3%</div>
-						<div class="item-tip month-good">+16,2%</div>
 					</div>
 					<div class="month-stat">
 						<div class="month">
-							<span>Април 2018</span>
-							<span>Залози: 4</span>
-							<span>Печалби: 1</span>
-							<span>Загуби: 3</span>
+							<span>Май 2018</span>
+							<span>Залози: 0</span>
+							<span>Печалби: 0</span>
+							<span>Загуби: 0</span>
 							<span>Войд: 0</span>
 						</div>
 						<div class="bank-tip">
 							<span>Стартов баланс: 1000 лева</span>
-							<span>Текущт баланс: 951,20 лева</span>
+							<span>Текущт баланс: 1000 лева</span>
 							<span>В играта: 0 лева</span>
-							<span>Месец: -8.3%</span>
+							<span>Месец: 0%</span>
 						</div>
 					</div>
 					<section class="year-stat">
@@ -95,6 +95,20 @@
 								</span>
 							</div>
 							<div class="full-year-stat">
+								<div class="month-stat">
+									<div class="month">
+										<span>Април 2018</span>
+										<span>Залози: 4</span>
+										<span>Печалби: 1</span>
+										<span>Загуби: 3</span>
+										<span>Войд: 0</span>
+									</div>
+									<div class="bank-tip">
+										<span>Стартов баланс: 1000 лева</span>
+										<span>Краен баланс: 951,20 лева</span>
+										<span>Месец: -8.3%</span>
+									</div>
+								</div>
 								<div class="month-stat">
 									<div class="month">
 										<span>Март 2018</span>
