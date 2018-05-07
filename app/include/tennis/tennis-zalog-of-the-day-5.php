@@ -4,5 +4,5 @@
 			<span class="prognoz-title">Чунг Х. (Kor) - Иснър Дж. (Usa)</span>
 			<span class="time-prognoz">28.03.2018 - 21:00</span>
 	</div>
-	<div class="kef-prognoz"><b>Общо гейма (Над 25)</b> 1.96</div>
+	<div class="kef-prognoz">КФ. 1.96</div>
 </a>

@@ -4,5 +4,5 @@
 			<span class="prognoz-title">Осака Н. (Jpn) - Синякова К. (Cze)</span>
 			<span class="time-prognoz">12.02.2018 18:30</span>
 	</div>
-	<div class="kef-prognoz"><b>П1</b> 1.80</div>
+	<div class="kef-prognoz">КФ. 1.80</div>
 </a>

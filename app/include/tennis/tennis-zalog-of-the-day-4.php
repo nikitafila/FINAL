@@ -4,5 +4,5 @@
 			<span class="prognoz-title">Куери С. (Usa) - Раонич М. (Can).</span>
 			<span class="time-prognoz">16.03.2018 21:00</span>
 	</div>
-	<div class="kef-prognoz"><b>Общо гейма (Над 21,5)</b> 1.80</div>
+	<div class="kef-prognoz">КФ. 1.80</div>
 </a>
