@@ -155,6 +155,11 @@
 					</section>
 				</section>
 				<section class="stat-history">
+					<?php require '../../include/bet/single/vasil-marinov/148.php';?>
+						<a href="/tipsters/vasil-marinov/2018/may/single/148/">Отвори залог</a>
+								</div>
+							</div>
+						</div>
 					<?php require '../../include/bet/combi/vasil-marinov/119.php';?>
 						<a href="/tipsters/vasil-marinov/2018/april/combi/119/">Отвори залог</a>
 								</div>
