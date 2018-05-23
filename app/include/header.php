@@ -1,6 +1,6 @@
 <header>
 		<nav class="menu">
-			<a href="/"><div class="logo"></div></a>
+			<a href="/" class="asdfs"><div class="logo"></div></a>
 
 			<!-- Navigation -->
 			<div class="b-nav">

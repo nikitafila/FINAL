@@ -1,24 +1,47 @@
+.w100
+	grid-column: 1/3
+	padding: 0 20px
+	text-align: left
+	h2
+		text-align: left
 .flag-bonus
 	background-color: $zalog
 	display: grid
 .bonus-flag
-	grid-template-columns: 1fr 1fr
+	display: grid
+	grid-template-columns: 1fr
 	justify-items: stretch
 	align-items: stretch
 	grid-gap: $gutter
 	margin: 0 5%
-
 	.flag
 		background-color: $white
 		@extend .border-shadow
-		@extend .border-radius
 		display: grid
 		justify-items: center
 		align-items: stretch
-		text-align: center
-		img
-			width: 60%
-			padding-top: 5px 
+		text-align: left
+		.imagine
+			width: 100%
+			height: 130px
+			display: flex
+			justify-content: center
+			position: relative
+			overflow: hidden
+			picture
+				display: flex
+				justify-self: center
+				position: absolute
+				overflow: hidden
+			span
+				position: absolute
+				bottom: 0
+				left: 0
+				padding: 5px 20px
+				background-color: #333
+				opacity: 0.9
+				width: 100%
+				color: #f8c700
 		.vote
 			padding-top: 20px
 			i

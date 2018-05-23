@@ -947,6 +947,7 @@
 				<a href="/articles/zalozi-za-kartoni/" class="title-row art"><span class="hvr-grow">Залози за жълти и червени картони</span></a>
 				<a href="/articles/sistema-fiksiran-procent/" class="title-row art"><span class="hvr-grow">Система Фиксиран Процент</span></a>
 			</section>
+			<?php require '../include/add/ad-section-main-block-4.php';?>
 		</aside>
 	</div>
 	<?php require '../include/footer.php';?>

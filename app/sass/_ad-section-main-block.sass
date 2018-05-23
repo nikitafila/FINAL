@@ -55,6 +55,10 @@
 	margin-bottom: 20px
 	img
 		height: 100px
+.flex-coldumn
+	display: flex
+	flex-direction: column !important
+	padding: 20px
 
 @media screen and (min-width: 480px)
 	.statii, .other-statii
@@ -88,6 +92,8 @@
 		margin-right: $gutter
 	.other-statii .art:last-of-type
 		margin-right: 0	
+	.statii, .other-statii
+		margin-bottom: 0
 @media screen and (min-width: 1024px)
 	.other-statii
 		flex-direction: column
