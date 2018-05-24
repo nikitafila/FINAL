@@ -110,31 +110,31 @@
 				<a href="#" class="flag">
 					<div class="imagine">
 		                <picture>
-		                  <source media="(max-width: 480px)" srcset="/img/bookies/bet365-logo-small.png">
-		                  <source media="(max-width: 720px)" srcset="/img/bookies/bet365-logo-small.png">
-		                  <img src="/img/bookies/bet365-logo-small.png" alt="bet365 freebet">
+		                  <source media="(max-width: 480px)" srcset="/img/bookies/bet365-free-bet.jpg">
+		                  <source media="(max-width: 720px)" srcset="/img/bookies/bet365-free-bet.jpg">
+		                  <img src="/img/bookies/bet365-free-bet.jpg" alt="bet365 freebet">
 		                </picture>
-		                <span>5лв фрибет</span>
+		                <span>5лв фрибет - Bet365</span>
 	              	</div>
 				</a>
 				<a href="#" class="flag">
 					<div class="imagine">
 		                <picture>
-		                  <source media="(max-width: 480px)" srcset="/img/bookies/bet365-logo-small.png">
-		                  <source media="(max-width: 720px)" srcset="/img/bookies/bet365-logo-small.png">
-		                  <img src="/img/bookies/bet365-logo-small.png" alt="efbet freebet">
+		                  <source media="(max-width: 480px)" srcset="/img/bookies/efbet-free-bet.jpg">
+		                  <source media="(max-width: 720px)" srcset="/img/bookies/efbet-free-bet.jpg">
+		                  <img src="/img/bookies/efbet-free-bet.jpg" alt="efbet freebet">
 		                </picture>
-		                <span>8.8лв фрибет</span>
+		                <span>8.8лв фрибет - Efbet</span>
 	              	</div>
 				</a>
 				<a href="#" class="flag">
 					<div class="imagine">
 		                <picture>
-		                  <source media="(max-width: 480px)" srcset="/img/bookies/bet365-logo-small.png">
-		                  <source media="(max-width: 720px)" srcset="/img/bookies/bet365-logo-small.png">
-		                  <img src="/img/bookies/bet365-logo-small.png" alt="betfair freebet">
+		                  <source media="(max-width: 480px)" srcset="/img/bookies/betfair-free-bet.jpg">
+		                  <source media="(max-width: 720px)" srcset="/img/bookies/betfair-free-bet.jpg">
+		                  <img src="/img/bookies/betfair-free-bet.jpg" alt="betfair freebet">
 		                </picture>
-		                <span>10лв фрибет</span>
+		                <span>10лв фрибет - Betfair</span>
 	              	</div>
 				</a>
 			</section>
