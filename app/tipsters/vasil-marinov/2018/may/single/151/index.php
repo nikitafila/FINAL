@@ -13,8 +13,8 @@
 	</script>
 	<meta charset="utf-8">
 
-	<title>Единичен залог - Кристал Палас - Манчестър Юнайтед - Англия. Премиър Лига - 05.03.2018</title>
-
+	<title>Единичен залог | Световна Купа 2018 | Дългосрочни пазари. Голмайстор на Отбора (Сенегал) | 14.06.2018</title>
+	
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
 	<link rel="stylesheet"  href="/css/main.css"/>
@@ -29,8 +29,8 @@
 	<main>
 		<section class="articles-page">
 				<div class="tipster-bet">
-					<?php require '../../../../../../include/bet/single/evtim-t/120.php';?>
-						<span>Типстър: <a href="/tipsters/evtim-t/">Evtim T</a></span>
+					<?php require '../../../../../../include/bet/single/vasil-marinov/151.php';?>
+								<span>Типстър: <a href="/tipsters/vasil-marinov/">Васил Маринов</a></span>
 							</div>
 						</div>
 					</div>
@@ -40,9 +40,7 @@
 			<section class="ad-section-main-block statii bonus-statii">
 				<?php require '../../../../../../include/add/ad-section-main-block-1.php';?>
 			</section>
-			<section class="ad-section-main-block ad2">
 				<?php require '../../../../../../include/add/ad-section-main-block-2.php';?>
-			</section>
 		</sidebar>
 	</main>
 	<?php require '../../../../../../include/footer.php';?>

@@ -10,8 +10,7 @@
 		text-decoration: underline
 		color: #23527c
 .profil:first-of-type
-	border-bottom: 1px solid black
-
+	border-bottom: 1px solid #ddd
 .name
 	font-size: 14px
 .picture
@@ -52,55 +51,63 @@
 	display: flex
 	flex-direction: column
 	border: none
-	margin-bottom: 20px
 	img
 		height: 100px
 .flex-coldumn
 	display: flex
 	flex-direction: column !important
 	padding: 20px
-
-@media screen and (min-width: 480px)
-	.statii, .other-statii
-		flex-direction: row
-	.art
-		margin-bottom: 0
-		margin-right: $gutter
-	.art:last-of-type
-		margin-right: 0
-	.other-art
-		margin-bottom: 0
-		margin-right: $gutter	
-	.other-art:last-of-type
-		margin-bottom: 0
-		margin-right: 0	
+.articles-block
+	border: 1px solid #ddd
+@media screen and (min-width: 480px)		
 	.ad2
 		display: flex
 		flex-wrap: wrap
-	.title-row
-		grid-column: 1/3
 	.profil:first-of-type
-		border-bottom: none
+		border: 0
 @media screen and (min-width: 768px)
+	.other-statii
+		flex-direction: row
 	.statii
 		flex-direction: column
+	.title-row-2
+		margin-right: $gutter !important 
 	.art
 		margin-bottom: $gutter
 		margin-right: 0
+		height: auto
+	.bonus-page
+		.art
+			height: 130px
+	.bonus-page
+		.articles-block
+			width: 100%
 	.other-statii .art
 		margin-bottom: 0
 		margin-right: $gutter
+		width: 50%
+	.articles-block
+		width: 50%
 	.other-statii .art:last-of-type
 		margin-right: 0	
 	.statii, .other-statii
 		margin-bottom: 0
+	.main-page-div
+		width: 100% !important
+	.main-page-div-h
+		height: 130px !important
 @media screen and (min-width: 1024px)
 	.other-statii
 		flex-direction: column
 	.other-statii .art
 		margin-bottom: $gutter
 		margin-right: 0
+		width: 100%
+	.articles-block
+		width: 100%
+	.art
+		height: 130px
 	.ad2
 		flex-direction: column
 	.profil:first-of-type
-		border-bottom: 1px solid black
+		border-bottom: 1px solid #ddd

@@ -22,3 +22,15 @@
 		</div>
 	</a>
 </section>
+<section class="ad-section-main-block ad2 mt-2">
+	<span class="title-row">Прогнози за Световна Купа</span>
+	<a href="/tipsters/vasil-marinov/2018/may/single/151/" class="flex-coldumn">
+		<div class="sport-icon"></div>
+		<div class="prognoz">
+			<span class="time-prognoz">Голмайстор на Отбора (Сенегал)</span>
+		</div>
+		<div class="kef-prognoz">
+			<span><b>КФ. 3.25</b></span>
+		</div>
+	</a>
+</section>

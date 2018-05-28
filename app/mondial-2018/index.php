@@ -943,9 +943,30 @@
 			</section>
 		</div>
 		<aside class="aside-main">
-			<section class="ad-section-main-block other-statii">
-				<a href="/articles/zalozi-za-kartoni/" class="title-row art"><span class="hvr-grow">Залози за жълти и червени картони</span></a>
-				<a href="/articles/sistema-fiksiran-procent/" class="title-row art"><span class="hvr-grow">Система Фиксиран Процент</span></a>
+			<section class="ad-section-main-block bonus-statii">
+					<span class="title-row-main minus-margin">Ръководство за залагания</span>
+					<ul class="line">
+						<li><a class="link-underline" href="/articles/vidove-zalozi/">
+							<span>Всички видове залози в една статия</span>
+							</a>
+						</li>
+						<li><a class="link-underline" href="/articles/sistema-martingeil/">
+							<span>Стратегия Мартингейл</span>
+							</a>
+						</li>
+						<li><a class="link-underline" href="/articles/odds-comparison/">
+							<span>Сравнение на коефициентите</span>
+							</a>
+						</li>
+						<li><a class="link-underline" href="/articles/sistema-fiksiran-procent/">
+							<span>Система Фиксиран процент</span>
+							</a>
+						</li>
+						<li><a class="link-underline" href="/articles/zalozi-na-tenis-favorit/">
+							<span>Залагаме на фаворит в тенис</span>
+							</a>
+						</li>
+					</ul>
 			</section>
 			<?php require '../include/add/ad-section-main-block-4.php';?>
 		</aside>
